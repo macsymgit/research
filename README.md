@@ -2,6 +2,13 @@
 
 Comparative research documents for University of Waterloo programs (March 2026).
 
+## Decision Tools
+
+| Document | Description |
+|----------|-------------|
+| [Self-Reflection Questions](decision-questions.md) | 27-question guided self-interview to decide between Architecture, Architectural Engineering, and Health Sciences |
+| [自我审视问题（中文版）](decision-questions-zh.md) | 决策问题清单中文版 |
+
 ## Architecture Programs
 
 | Document | Description |
