@@ -1,4 +1,4 @@
-# Architecture vs. Architectural Engineering at Waterloo: Complete Comparison
+# Architecture vs. Architectural Engineering vs. 3D Animation: Complete Comparison
 
 > **Research date**: March 2026 | A side-by-side comparison to help you decide which program fits your goals
 
@@ -9,7 +9,7 @@
 1. [30-Second Summary](#1-30-second-summary)
 2. [Program Fundamentals](#2-program-fundamentals)
 3. [Admission Requirements](#3-admission-requirements)
-4. [Co-op: Side by Side](#4-co-op-side-by-side)
+4. [Co-op and Work Experience](#4-co-op-and-work-experience)
 5. [Curriculum: What You Actually Learn](#5-curriculum-what-you-actually-learn)
 6. [Professional Licensing Pathways](#6-professional-licensing-pathways)
 7. [Career Outcomes and Salaries](#7-career-outcomes-and-salaries)
@@ -23,65 +23,76 @@
 
 ## 1. 30-Second Summary
 
-| | **Architecture (BAS+MArch)** | **Architectural Engineering (BASc)** |
-|--|-----|------|
-| **Core identity** | Design-led; you shape *how buildings look and feel* | Engineering-led; you ensure *buildings stand, work, and perform* |
-| **Degree type** | Pre-professional BAS + professional MArch | Engineering degree (BASc) |
-| **Total time** | 6–7 years (BAS + MArch) | 5 years |
-| **License** | OAA Architect (~9–11 yrs from HS) | P.Eng. (~8–9 yrs from HS) |
-| **Entry salary** | $50,000–$70,000 | $62,000–$75,000 |
-| **Co-op wages** | $21–27/hr | $21–27/hr |
-| **What employers want** | Creative design leaders; project architects | Building systems engineers; structural designers; BIM specialists |
-| **The trade-off** | More creative freedom; longer, harder path to licensure | More technical depth; faster licensing; slightly higher starting salary |
+| | **Architecture (BAS+MArch)** | **Architectural Engineering (BASc)** | **3D Animation & Emerging Tech** |
+|--|-----|------|------|
+| **School** | University of Waterloo | University of Waterloo | Sheridan College |
+| **Core identity** | Design-led; you shape *how buildings look and feel* | Engineering-led; you ensure *buildings stand, work, and perform* | Art + tech; you create *digital worlds, characters, and visual effects* |
+| **Degree type** | Pre-professional BAS + professional MArch | Engineering degree (BASc) | Honours Bachelor (applied) |
+| **Total time** | 6–7 years (BAS + MArch) | 5 years | 4 years |
+| **License** | OAA Architect (~9–11 yrs from HS) | P.Eng. (~8–9 yrs from HS) | None (portfolio-based industry) |
+| **Entry salary** | $50,000–$70,000 | $62,000–$75,000 | $44,000–$60,000 |
+| **Work experience in degree** | ~20 months co-op | ~20 months co-op | ~3 months internship (420 hrs) |
+| **What employers want** | Creative design leaders; project architects | Building systems engineers; structural designers; BIM specialists | Demo reel; 3D artists; VFX/animation pipeline talent |
+| **The trade-off** | More creative freedom; longer, harder path to licensure | More technical depth; faster licensing; higher starting salary | Highest creative expression; lowest salary floor; most market volatility |
 
 ---
 
 ## 2. Program Fundamentals
 
-| Factor | **Architecture (BAS+MArch)** | **Architectural Engineering (BASc)** |
-|--------|------------------------------|--------------------------------------|
-| **Degree conferred** | BAS (pre-professional) + MArch (professional) | Bachelor of Applied Science (Engineering) |
-| **Program length** | 5 yrs BAS + 1–2 yrs MArch = **6–7 years total** | **5 years** (including co-op) |
-| **Home faculty** | Faculty of Engineering | Faculty of Engineering |
-| **Campus** | Cambridge, Ontario campus (+ Rome, Year 4) | Waterloo main campus (+ Cambridge, Year 3) |
-| **Co-op** | Mandatory; 5 of 6 terms (BAS only) | Mandatory; 5 terms |
-| **Cohort size** | ~65–75 students/year | ~80–90 students/year |
-| **Gender ratio (2025)** | Not published separately | **58.8% women** (highest in UW Engineering) |
-| **Global ranking** | **Top 5 globally** (Azure Magazine); #1 in Canada | Not independently ranked; CEAB accredited |
-| **Accreditation** | CACB (architecture) — BAS+MArch combined | **CEAB (engineering)** — BASc alone |
-| **Unique feature** | Permanent studio in Rome, Italy | Design studio every single term |
+| Factor | **Architecture (BAS+MArch)** | **Architectural Engineering (BASc)** | **3D Animation (Sheridan)** |
+|--------|------------------------------|--------------------------------------|----------------------------|
+| **Degree conferred** | BAS (pre-professional) + MArch (professional) | Bachelor of Applied Science (Engineering) | Honours Bachelor of 3D Animation and Emerging Technologies |
+| **Program length** | 5 yrs BAS + 1–2 yrs MArch = **6–7 years total** | **5 years** (including co-op) | **4 years** + 420-hr internship |
+| **Home faculty** | Faculty of Engineering (UW) | Faculty of Engineering (UW) | Faculty of Animation, Arts & Design (Sheridan) |
+| **Campus** | Cambridge, ON + Rome (Year 4) | Waterloo main + Cambridge (Year 3) | Trafalgar Campus, Oakville, ON |
+| **Co-op/work placement** | Mandatory; 5 of 6 terms (BAS only) | Mandatory; 5 terms | Single 420-hour internship |
+| **Cohort size** | ~65–75 students/year | ~80–90 students/year | TBD (first cohort Sep 2026) |
+| **Program ranking** | **Top 5 globally** (Azure Magazine); #1 in Canada | Not independently ranked; CEAB accredited | Sheridan animation: **#1 Canada, #2 globally** (Animation Career Review) |
+| **Accreditation** | CACB (architecture) — BAS+MArch combined | **CEAB (engineering)** — BASc alone | Ontario PEQAB (degree-granting approval) |
+| **Unique feature** | Permanent studio in Rome, Italy | Design studio every single term | SIRT partnership (LED volumes, motion capture) |
+| **Program maturity** | Established (decades) | Established (decades) | **Brand new — first cohort Sep 2026** |
 
 ---
 
 ## 3. Admission Requirements
 
-| Factor | **Architecture (BAS)** | **Architectural Engineering (BASc)** |
-|--------|------------------------|--------------------------------------|
-| **Required courses** | ENG4U (75%+), Advanced Functions (70%+), Calculus (70%+), Physics (70%+) | ENG4U, Advanced Functions, Calculus, Physics, Chemistry |
-| **Competitive average** | Low-to-mid **80s** (~82–86%) | High **80s** (~87–92%) |
-| **Portfolio required?** | **Yes** — visual art/design work | **No** |
-| **Interview?** | **Yes** — held at Cambridge in April | No |
-| **AIF required?** | No | **Yes** (Admission Information Form) |
-| **Difficulty of admission** | Highly competitive (art + grades) | Competitive (grades + AIF) |
-| **Who gets in** | Students with design talent + strong grades | Students with strong STEM grades + engineering interest |
+| Factor | **Architecture (BAS)** | **Architectural Engineering (BASc)** | **3D Animation (Sheridan)** |
+|--------|------------------------|--------------------------------------|----------------------------|
+| **Required courses** | ENG4U (75%+), Adv. Functions (70%+), Calculus (70%+), Physics (70%+) | ENG4U, Adv. Functions, Calculus, Physics, Chemistry | ENG4U, Grade 12 Math (U/M) or Grade 11 Math (U/M) or CS, one Visual Arts/Comm Tech credit, 3 additional Grade 12 U/M |
+| **Competitive average** | Low-to-mid **80s** (~82–86%) | High **80s** (~87–92%) | **65% minimum** (lower academic bar) |
+| **Portfolio required?** | **Yes** — visual art/design work | **No** | **Yes** — assessed with fee |
+| **Interview?** | **Yes** — held at Cambridge in April | No | No |
+| **AIF required?** | No | **Yes** (Admission Information Form) | No |
+| **Difficulty of admission** | Highly competitive (art + grades) | Competitive (grades + AIF) | Competitive (portfolio quality is key) |
+| **Who gets in** | Students with design talent + strong grades | Students with strong STEM grades + engineering interest | Students with strong visual/technical art skills |
 
-**Key takeaway**: Architecture tests *creative ability*. Architectural Engineering tests *academic performance in STEM*. You need to be strong in both to succeed at either, but the filter mechanism is different.
+**Key takeaway**: Architecture and Architectural Engineering require high academic performance (80s–90s). Sheridan 3DAET has a lower grade threshold (65%) but portfolio quality is the real differentiator — artistic ability matters more than grades.
 
 ---
 
-## 4. Co-op: Side by Side
+## 4. Co-op and Work Experience
 
-| Factor | **Architecture** | **Architectural Engineering** |
-|--------|-----------------|------------------------------|
-| **Number of work terms** | 5 required (6 scheduled) | 5 terms |
-| **Total experience** | ~20 months | ~20 months |
-| **First co-op term** | Winter of Year 2 | **Winter of Year 1** (unusually early) |
-| **Co-op in graduate degree?** | No — MArch has no co-op | N/A (no graduate degree required) |
-| **Employers** | Architecture firms, urban design offices, global starchitect firms (KPF, Arquitectonica) | Engineering consultancies (WSP, Stantec, AECOM), building science firms, construction companies |
-| **International placements** | Common — New York, London, Tokyo, Singapore | Less common; mostly Ontario/Canada |
-| **Co-op employment rate** | >98% | ~96.8% (UW-wide) |
+| Factor | **Architecture** | **Architectural Engineering** | **3D Animation (Sheridan)** |
+|--------|-----------------|------------------------------|----------------------------|
+| **Model** | Alternating study/work co-op | Alternating study/work co-op | Single block internship |
+| **Number of work terms** | 5 required (6 scheduled) | 5 terms | 1 internship (420 hours) |
+| **Total experience** | ~20 months | ~20 months | ~3 months |
+| **First work term** | Winter of Year 2 | **Winter of Year 1** | Summer after Year 3 |
+| **Paid?** | Yes — published wages ($21–27/hr) | Yes — published wages ($21–27/hr) | Varies (not guaranteed) |
+| **Employer matching** | WaterlooWorks (centralized, >98% placement) | WaterlooWorks (centralized, ~96.8% placement) | Sheridan Industry Day + self-placement |
+| **International placements** | Common (NYC, London, Tokyo) | Less common; mostly Canada | Possible (LA, NYC studios) |
 
-### Co-op Hourly Wages (2025, CAD, same data published for both)
+### Total Work Experience Earnings During Degree
+
+| Program | Estimated Gross Earnings |
+|---------|--------------------------|
+| Architecture (5–6 terms) | ~$75,000–$85,000 CAD |
+| Architectural Engineering (5 terms) | ~$80,000–$95,000 CAD |
+| **3D Animation (1 internship)** | **~$7,500–$12,600 CAD** (if paid) |
+
+> **This is the single largest practical difference between the programs.** Waterloo's co-op model generates $75,000–$95,000 in earnings that offset tuition costs. Sheridan's internship model generates a fraction of that. This difference compounds: Waterloo graduates enter the workforce with 20 months of progressive experience and significant savings; Sheridan graduates enter with 3 months of experience and full tuition costs.
+
+### Co-op Hourly Wages (Waterloo, 2025, CAD — same for both programs)
 
 | Work Term | Average $/hr |
 |-----------|-------------|
@@ -92,54 +103,34 @@
 | Term 5 | $26.40 |
 | Term 6 | $26.63 |
 
-> Both programs fall in the same "Engineering Architecture" co-op earnings category at UW. Wages are identical at the average level. Both are **significantly lower than software/CS engineering** co-op wages ($30–55/hr by late terms).
-
-### Total Co-op Earnings Estimate
-
-| Program | Estimated Gross (All Terms) |
-|---------|-----------------------------|
-| Architecture (5–6 terms) | ~$75,000–$85,000 CAD |
-| Architectural Engineering (5 terms) | ~$80,000–$95,000 CAD |
-
-The AE advantage is marginal at the co-op stage; the real salary difference emerges post-graduation.
-
 ---
 
 ## 5. Curriculum: What You Actually Learn
 
-### Shared Foundation
+### Shared Themes
 
-Both programs spend significant time on:
-- **Structural systems** in buildings (loads, gravity, lateral, foundations)
-- **Design studio** (every term in both programs)
-- **Building technology** (envelopes, materials, construction)
-- **Sustainability and environmental design**
-- **Digital tools** (both teach Revit, AutoCAD, computational methods)
+All three programs involve **visual communication, design thinking, and digital tools**. But the emphasis is fundamentally different:
 
-### Divergence Points
-
-| Area | **Architecture** | **Architectural Engineering** |
-|------|-----------------|------------------------------|
-| **Design studio emphasis** | *Primary* — design leads all other decisions | *Integrated* — design is present but engineering governs |
-| **Structural analysis depth** | Moderate (enough to work with engineers) | Heavy (same depth as Civil Engineering) |
-| **Building systems (MEP)** | Overview level | Deep specialization option (Building Systems track) |
-| **Architectural history/theory** | Extensive — 5 full years | One survey course |
-| **Math depth** | Moderate (Calculus, some linear algebra) | Heavy (same as full engineering: ODE, linear algebra, numerical methods) |
-| **Programming/computational** | Rhino/Grasshopper for parametric design | Python/MATLAB for engineering analysis |
-| **Physics/mechanics** | Applied (statics, structural behavior) | Full engineering mechanics sequence |
-| **Cultural/humanistic content** | Significant (history, theory, urbanism) | Minimal |
-| **Year 3 experience** | Cambridge campus all year; design immersion | Cambridge campus for 1 year (with Architecture MArch students) |
-| **Year 4** | Rome, Italy (fall semester) | Waterloo main campus |
-| **Specialization options** | No formal split — generalist architect path | Building Structures OR Building Systems |
-| **Graduate degree required?** | **Yes** — MArch needed for licensure | **No** — BASc is the terminal degree for P.Eng. |
+| Area | **Architecture** | **Architectural Engineering** | **3D Animation** |
+|------|-----------------|------------------------------|-----------------|
+| **Design studio** | Every term (design-led) | Every term (engineering-led) | Project-based (production-led) |
+| **Core identity** | How buildings look and feel | How buildings stand and perform | How digital worlds look and move |
+| **Structural analysis** | Moderate | Heavy (same as Civil) | None |
+| **Math depth** | Moderate (calculus, some linear algebra) | Heavy (ODE, linear algebra, numerical methods) | Minimal (applied geometry/physics for animation) |
+| **Physics** | Applied (statics, structural behavior) | Full engineering mechanics sequence | Applied (animation physics, simulations) |
+| **Art/design theory** | Extensive (history, theory, urbanism) | Minimal | Moderate (design principles, visual systems) |
+| **Programming** | Rhino/Grasshopper (parametric) | Python/MATLAB (engineering analysis) | Python (pipeline scripting), real-time engines |
+| **Key software** | Rhino, AutoCAD, Revit | Revit, SAP2000, EnergyPlus | Maya, Houdini, Unreal Engine, Nuke |
+| **Physical output** | Architectural drawings, models | Engineering calculations, BIM models | Demo reel, 3D assets, animations |
+| **Capstone** | Thesis (research + design) | Real-world building problem (team) | Two-semester production project |
 
 ### The Core Difference, Simply Put
 
-**Architecture**: You are trained to be the *author of buildings* — integrating site, program, culture, structure, and aesthetics into a coherent design vision. You lead projects and are the primary creative decision-maker.
+**Architecture**: You are trained to be the *author of buildings* — integrating site, program, culture, structure, and aesthetics into a coherent design vision.
 
-**Architectural Engineering**: You are trained to be the *technical enabler of buildings* — ensuring that architectural visions are structurally sound, energy-efficient, code-compliant, and buildable. You work alongside architects.
+**Architectural Engineering**: You are trained to be the *technical enabler of buildings* — ensuring that architectural visions are structurally sound, energy-efficient, code-compliant, and buildable.
 
-In practice, these roles overlap enormously, and the best professionals in either field understand both deeply. But the training emphasis is genuinely different.
+**3D Animation**: You are trained to be the *creator of digital visual worlds* — bringing characters, environments, and effects to life using 3D software, emerging technologies, and artistic judgment.
 
 ---
 
@@ -189,21 +180,34 @@ Total from high school: ~8–9 years
 (co-op credit effectively reduces post-grad requirement to ~3 years)
 ```
 
+### 3D Animation → No Licensing Body
+
+```
+Honours Bachelor of 3D Animation and Emerging Technologies (4 yrs)
+    ↓
+Build demo reel and portfolio
+    ↓
+Apply to studios / freelance
+    ↓
+No licence, no exam, no regulatory body
+
+Total from high school: ~4 years to workforce
+(but no protected title or regulatory demand floor)
+```
+
 ### Pathway Comparison
 
-| Factor | **OAA (Architecture)** | **P.Eng. (Architectural Engineering)** |
-|--------|------------------------|---------------------------------------|
-| Additional degree after undergrad | Yes — MArch required | No |
-| Years of work experience required | ~2–3 years (2,800 CERB hours) | 4 years (48 months, 12 months creditable from co-op) |
-| Qualifying exam | ExAC (once/year; 72.2% pass rate) | NPPE (more straightforward; pass rate ~85%) |
-| Total path from HS graduation | **~9–11 years** | **~8–9 years** |
-| What you can do when licensed | Design and sign off on *architecture* drawings | Sign and seal *engineering* drawings and reports |
-| Can you do the other profession's work? | No (not without separate engineering degree) | No (not without separate architecture degree) |
-| Additional courses required | OAA Admission Course | None beyond NPPE |
-| Exam offered | Once per year | Multiple times per year |
-| Self-employment prevalence | 24% | ~10% |
+| Factor | **OAA (Architecture)** | **P.Eng. (Arch. Engineering)** | **3D Animation** |
+|--------|------------------------|---------------------------------------|-----------------|
+| Additional degree after undergrad | Yes — MArch required | No | No |
+| Years to enter workforce | 6–7 (after MArch) | 5 (BASc is terminal) | 4 |
+| Professional exam | ExAC (72.2% pass rate) | NPPE (~85% pass rate) | None |
+| Total path from HS to full credential | **~9–11 years** | **~8–9 years** | **~4 years** (but no credential) |
+| Protected title | "Architect" (legally protected) | "P.Eng." (legally protected) | None |
+| Can AI replace the licensed function? | Partially — human stamp needed | **No** — P.Eng. seal required by law | **Yes** — no regulatory barrier |
+| Self-employment rate | 24% | ~10% | 34% |
 
-**Key insight**: Both paths are long. P.Eng. is faster by 1–2 years and has a simpler exam. OAA requires more total education investment but grants the title of "Architect" — a protected title with higher societal recognition in design contexts.
+**Key insight**: Animation gets you to the workforce fastest (4 years), but with no credential protection. Engineering takes longer but provides the strongest regulatory moat. Architecture is the longest path with moderate protection.
 
 ---
 
@@ -211,26 +215,24 @@ Total from high school: ~8–9 years
 
 ### Entry-Level Salary Comparison (Ontario, 2025)
 
-| Stage | **Architecture graduate** | **AE graduate** |
-|-------|--------------------------|-----------------|
-| First job (pre-licensure) | $50,000–$70,000/yr | $62,000–$75,000/yr |
-| Advantage | — | **AE wins by ~$10,000–$15,000** at entry |
+| Stage | **Architecture** | **Arch. Engineering** | **3D Animation** |
+|-------|-----------------|----------------------|-----------------|
+| First job | $50,000–$70,000/yr | $62,000–$75,000/yr | $44,000–$60,000/yr |
+| Advantage | — | **AE wins by ~$10–15K** | **Lowest entry** |
 
-### Mid-Career Salary (Licensed, Ontario, 2025)
+### Mid-Career Salary (Ontario, 2025)
 
-| Metric | **Licensed Architect (OAA)** | **P.Eng. (AE-trained)** |
-|--------|------------------------------|------------------------|
-| Ontario median | $41.03/hr (~$85,300/yr) | $48.08/hr (~$99,847/yr) |
-| Toronto median | Higher | $51.28/hr (~$106,662/yr) |
-| Advantage | — | **AE/P.Eng. wins by ~$15,000–$25,000** at median |
+| Metric | **Licensed Architect** | **P.Eng. (AE-trained)** | **Senior 3D Artist** |
+|--------|------------------------|------------------------|---------------------|
+| Ontario median | $41.03/hr (~$85,300/yr) | $48.08/hr (~$99,847/yr) | $32.69/hr (~$67,995/yr) |
+| Toronto median | Higher | $51.28/hr (~$106,662/yr) | $33.65/hr (~$69,992/yr) |
 
-### Senior/Principal Salary (Ontario, 2025)
+### Senior/Top Earner Salary (Ontario, 2025)
 
-| Level | **Architecture** | **Architectural Engineering** |
-|-------|----------------|------------------------------|
-| Senior (10+ yrs) | $100,000–$150,000 | $110,000–$180,000 |
-| Principal/Partner | $130,000–$220,000+ | Up to $190,000+ (top 10th pct) |
-| Advantage | Comparable; architecture partners can exceed this in large practices | Comparable at senior level |
+| Level | **Architecture** | **Arch. Engineering** | **3D Animation** |
+|-------|-----------------|----------------------|-----------------|
+| Senior (10+ yrs) | $100,000–$150,000 | $110,000–$180,000 | $100,000–$150,000 |
+| Principal/Director | $130,000–$220,000+ | Up to $190,000+ | $130,000–$200,000+ (VFX Supervisor / Animation Director) |
 
 ### Salary Trajectory Visualization
 
@@ -238,92 +240,114 @@ Total from high school: ~8–9 years
 Salary ($CAD/yr)
 
 $220K |                                              ★ Architecture Principal
-$190K |                                         ★ AE Senior/Principal
-$150K |                            ★ Arch Senior
-$120K |                       ★ AE Mid-career
-$100K |                  ★ Arch Mid-career
- $85K |             ★ AE Entry (post-grad, 3 yrs)
- $70K |        ★ Arch Entry
- $65K |   ★ AE First job
+$200K |                                         ★ Animation Director (top studios)
+$190K |                                    ★ AE Senior/Principal
+$150K |                       ★ Arch Senior  ★ Animation Senior
+$120K |                  ★ AE Mid-career
+$100K |             ★ Arch Mid-career
+ $85K |        ★ AE Entry (post-grad, 3 yrs)
+ $70K |   ★ Arch Entry
+ $68K |   ★ Animation Median
+ $65K | ★ AE First job
  $55K | ★ Arch First job
-       |-----|-----|-----|-----|-----|-----|-----|-----|
-       HS   +5   +7   +9   +11  +13  +15  +18  +20+
+ $50K | ★ Animation First job
+      |-----|-----|-----|-----|-----|-----|-----|-----|
+      HS   +4   +5   +7   +9   +11  +15  +18  +20+
 
-       ↑ BASc    ↑ BAS  ↑ AE    ↑ Arch OAA   ↑ Senior roles
-       grad      grad   P.Eng   licence
+      ↑ 3DAET  ↑ BASc  ↑ BAS  ↑ AE    ↑ Arch OAA
+      grad     grad    grad   P.Eng   licence
 ```
 
-**Salary summary**: AE graduates earn more at every stage of early and mid career. The gap is most pronounced in the first 5–10 years of practice. At senior/principal levels, exceptional architects in prominent design practices can match or exceed engineering salaries, but the median outcome favors the engineering track.
+**Salary summary**: AE graduates earn more at every stage of early and mid career. Architecture surpasses animation at median. Animation has the lowest median but comparable ceilings at top studios — however, reaching those positions is highly competitive. The critical difference: **the median 3D animator earns ~$68K; the median licensed architect earns ~$85K; the median P.Eng. earns ~$100K.**
 
 ### What You'll Actually Do Day-to-Day
 
-| Role | **Architect** | **Architectural Engineer** |
-|------|--------------|--------------------------|
-| Meetings | Client briefings, design presentations, consultant coordination | Technical coordination, code reviews, engineering reviews |
-| Design work | Developing building concepts, space planning, material selection | Structural analysis, MEP system design, energy modeling |
-| Drawing/modeling | Design development drawings, architectural details | Engineering calculations, BIM models, technical specifications |
-| Site work | Site visits for architectural issues, client walkthroughs | Site inspections for structural/systems verification |
-| Creative latitude | High — you are the design author | Moderate — you solve technical problems within the architect's vision |
-| Client interface | Extensive — architects often lead client relationships | Moderate — consulting engineers work alongside architects |
+| Role | **Architect** | **Architectural Engineer** | **3D Animator/VFX Artist** |
+|------|--------------|--------------------------|--------------------------|
+| Meetings | Client briefings, design presentations | Technical coordination, engineering reviews | Dailies (shot review), production meetings |
+| Core work | Building concepts, space planning | Structural analysis, MEP design, energy modeling | 3D modeling, animation, lighting, compositing |
+| Tools | Rhino, Revit, hand sketching | Revit, SAP2000, EnergyPlus | Maya, Houdini, Nuke, Unreal Engine |
+| Creative latitude | High — design author | Moderate — solves technical problems | High — within director's vision |
+| Client interface | Extensive — leads relationships | Moderate — consulting role | Minimal — internal production team |
+| Physical output | Buildings | Buildings | Films, shows, games, VFX shots |
+| Work location | Office + site visits | Office + site inspections | Studio (or remote) |
 
-### Career Diversity — Where Else Can These Degrees Take You?
+### Career Diversity — Where Can These Degrees Take You?
 
-| Alternative Career | **Architecture** | **Architectural Engineering** |
-|-------------------|-----------------|------------------------------|
-| Real estate development | ✅ Strong fit; many architect-developers | ✅ Good fit; technical knowledge is valued |
-| Urban planning | ✅ Strong fit; MArch counts as professional degree | ✅ Possible; CEng route |
-| Construction management | ✅ Possible | ✅✅ Strong fit; P.Eng. is an advantage |
-| BIM management | ✅ Yes | ✅✅ Yes; often the preferred credential |
-| Sustainability consulting | ✅ Yes (LEED, passive house) | ✅✅ Yes; energy modeling is a core skill |
-| Building code consulting | ✅ Possible | ✅✅ Yes; P.Eng. preferred |
-| Academia / research | ✅ Strong fit; PhD pathway open | ✅ Possible |
-| Tech / PropTech | ✅ Possible (design thinking) | ✅ Possible (software + BIM) |
-| International practice | ✅✅ Excellent; OAA→NCARB→global | ✅ Possible; P.Eng. less internationally portable |
+| Alternative Career | **Architecture** | **Arch. Engineering** | **3D Animation** |
+|-------------------|-----------------|----------------------|-----------------|
+| Real estate development | ✅ Strong | ✅ Good | — |
+| Urban planning | ✅ Strong | ✅ Possible | — |
+| Construction management | ✅ Possible | ✅✅ Strong (P.Eng.) | — |
+| BIM management | ✅ Yes | ✅✅ Preferred credential | ✅ Possible (Revit/viz) |
+| Sustainability consulting | ✅ Yes | ✅✅ Core skill | — |
+| Film/TV production | — | — | ✅✅ Primary path |
+| Gaming industry | — | — | ✅✅ Primary path |
+| Architectural visualization | ✅ Possible | ✅ Possible | ✅✅ Strong fit |
+| Virtual production | — | — | ✅✅ Core skill (3DAET) |
+| Healthcare simulation | — | — | ✅ Emerging field |
+| Automotive design/viz | — | — | ✅ Growing demand |
+| Tech / PropTech | ✅ Possible | ✅ Possible | ✅ Possible (3D/AR/VR) |
+| Academia / research | ✅ Strong | ✅ Possible | ✅ Possible (emerging) |
+| International practice | ✅✅ Excellent | ✅ Possible | ✅✅ Global industry |
+| Freelance / self-employment | ✅ (24%) | ✅ (~10%) | ✅✅ (34% — highest) |
 
 ---
 
 ## 8. Job Market Outlook (2025–2030)
 
-### Both Face the Same Structural Tailwinds
+### All Three Face Different Structural Dynamics
+
+| Driver | **Architecture** | **Arch. Engineering** | **3D Animation** |
+|--------|-----------------|----------------------|-----------------|
+| Ontario Job Bank outlook (2025–27) | **Moderate** | **Moderate** | **Very Limited** |
+| Demand driver | Housing crisis, densification | Net-zero mandates, infrastructure | Content demand (film/TV/gaming) |
+| Labor market | Balanced; replacement-driven | Structural shortage; strong demand | **Surplus — layoffs ongoing** |
+| AI displacement risk | Moderate–High (junior production) | Low–Moderate (regulatory protection) | **High** (no regulatory protection) |
+| Retirement wave | Moderate openings | Significant openings | Minimal (young workforce) |
+| International competition | Moderate | Low (P.Eng. is jurisdiction-specific) | **High** (outsourcing to lower-cost countries) |
+
+### The Job Outlook Gap Is Significant
+
+Canada Job Bank uses a 3-star rating system. Here's how they compare:
+
+| Rating | Meaning | Program |
+|--------|---------|---------|
+| ⭐⭐⭐ Good | Strong demand, few qualified workers | — |
+| ⭐⭐ Moderate | Balanced supply and demand | **Architecture, Arch. Engineering** |
+| ⭐ Very Limited | Surplus of workers, declining demand | **3D Animation** |
+
+### Architecture and Engineering: Shared Tailwinds
 
 | Driver | **Both Programs Benefit** |
 |--------|--------------------------|
-| Canada's housing crisis | 5.8M homes needed by 2030; demand for all building professionals |
-| Net-zero building mandates | Green buildings need both good design AND good engineering |
-| Infrastructure investment | Transit, healthcare, schools driving non-residential construction |
-| Retirement wave | 270,000 construction/engineering workers retiring by 2034 nationally |
-| BIM market growth | CAGR 11.3–14.6%; both programs teach BIM |
-| Ontario construction shortfall | 52,000 workers short by 2034 in Ontario alone |
+| Canada's housing crisis | 5.8M homes needed by 2030 |
+| Net-zero building mandates | Green buildings need design AND engineering |
+| Infrastructure investment | Transit, healthcare, schools driving construction |
+| Retirement wave | 270,000 construction/engineering workers retiring by 2034 |
+| Ontario construction shortfall | 52,000 workers short by 2034 |
 
-### Program-Specific Outlook
+### 3D Animation: Mixed Signals
 
-| Factor | **Architecture** | **Architectural Engineering** |
-|--------|-----------------|------------------------------|
-| Ontario Job Bank outlook (2025–27) | **Moderate** | **Moderate** |
-| Registered architects in Ontario | 5,053 (2024 OAA) — relatively small profession | ~68,800 civil engineers in Canada (AE + civil combined) |
-| Labor market description | Balanced supply/demand; replacement-driven | Structural shortage; strong demand |
-| AI displacement risk | Higher for junior production work | Moderate; technical analysis harder to automate |
-| Sustainability demand | High (design-driven green buildings) | **Very high** (energy modeling, net-zero technical compliance) |
-| Green jobs (Canada) | ✅ 75,000/yr projected | ✅✅ 75,000/yr; AE better positioned for technical green roles |
-| BIM demand | High | **Very high**; AE graduates often become BIM leads |
+| Positive | Negative |
+|----------|----------|
+| Global content demand growing | Mass studio layoffs (2023–2026) |
+| Virtual production emerging | AI automating production roles |
+| Gaming industry substantial | Tax credit competition (BC, Quebec win more) |
+| New applications (healthcare, automotive) | International outsourcing increasing |
+| Sheridan brand opens doors | 34% self-employment rate = instability |
 
-### AI Impact: A Critical Distinction
+### AI Impact: A Critical Three-Way Distinction
 
-Both professions face AI disruption, but differently:
+| Factor | **Architecture** | **Arch. Engineering** | **3D Animation** |
+|--------|-----------------|----------------------|-----------------|
+| What AI automates | Design variants, drafting, rendering | Code compliance, clash detection, energy modeling | Modeling, texturing, compositing, concept art |
+| Regulatory protection | Moderate (OAA stamp) | **Strong** (P.Eng. seal) | **None** |
+| Junior role vulnerability | High | Moderate | **Very High** |
+| Who's safe | Design visionaries, client leaders | Licensed engineers, technical judgment | Pipeline TDs, VFX supervisors, virtual production leads |
+| Net assessment | AI is a tool, not a replacement (at senior level) | AI increases productivity, not headcount cuts | AI is actively displacing workers at junior/mid levels |
 
-**Architecture + AI:**
-- AI generates design variants, renders images, runs energy simulations
-- Junior architects (who do drafting/production) face the most displacement risk
-- Architects who leverage AI for ideation, client communication, and complex design judgment are safer
-- Risk: if AI replaces entry-level production work, how do junior architects build skills?
-
-**Architectural Engineering + AI:**
-- AI automates code compliance checking, clash detection, energy modeling runs
-- But licensed engineers are legally required to sign off on designs — AI cannot replace the P.Eng. seal
-- Technical judgment and regulatory interpretation remain human-dominated
-- Risk is lower because licensed engineers have regulatory protection AI cannot circumvent
-
-**Verdict on AI**: Architectural Engineering has a slight structural advantage under AI displacement — the P.Eng. regulatory requirement creates a floor for licensed engineer demand that architecture does not have in the same way.
+**Verdict on AI**: Architectural Engineering has the strongest structural advantage (P.Eng. regulatory requirement). Architecture has moderate protection (OAA). 3D Animation has **no regulatory protection** — the industry is already experiencing AI-driven layoffs, and there is no licensing requirement to create a floor for human demand.
 
 ---
 
@@ -331,26 +355,34 @@ Both professions face AI disruption, but differently:
 
 ### Architecture (Cambridge + Rome)
 
-- Intensive, insular studio culture; you spend most of your time with the same 70 people
-- **Cambridge campus** feels like a design school, not a university — industrial building, grand river, tight community
-- Studio culture involves late nights, frequent crits, high peer pressure on design quality
-- Year 4A in Rome is transformative — but expensive and logistically demanding
-- Frequent guest lectures and visiting critics; strong connection to global architectural discourse
-- Less social diversity compared to main Waterloo campus (smaller community, isolated location)
-- Students describe it as simultaneously "the best experience of my life" and "exhausting and competitive"
+- Intensive, insular studio culture; ~70 people, most of your time together
+- **Cambridge campus** feels like a design school, not a university
+- Studio culture: late nights, frequent crits, high peer pressure on design quality
+- Year 4A in Rome is transformative — but expensive
+- Less social diversity compared to main Waterloo campus
 
 ### Architectural Engineering (Waterloo Main + Cambridge Year 3)
 
 - Engineering culture on the main Waterloo campus (Years 1, 2, 4, 5)
-- Year 3 in Cambridge exposes AE students to architecture studio culture — a minority experience, then return
-- Tighter connection to other engineering programs; broader social life on main campus
-- Design studio every term provides more creative challenge than typical engineering programs
+- Year 3 in Cambridge exposes AE students to architecture studio culture
+- Broader social life on main campus; tighter connection to other engineering programs
 - Smaller than most Waterloo Engineering programs (~85 students/year)
-- Culture is collaborative and design-forward by engineering standards, but technically rigorous
+
+### 3D Animation (Sheridan Oakville)
+
+- Creative, collaborative studio environment; strong arts community
+- **Oakville campus** is suburban; not the urban energy of downtown Toronto
+- Lab-intensive: long hours in computer labs and production suites
+- Access to SIRT facilities (LED volumes, motion capture) — unique among Canadian schools
+- Sheridan's FAAD has a strong culture of mentorship and portfolio development
+- **Brand new cohort** — no existing student culture for this specific program yet
+- Sheridan's broader animation community (including the established Bachelor of Animation) provides peer network
 
 ### The Critical Difference
 
-An Architecture student's identity is primarily as a **designer and creative professional**. An AE student's identity is primarily as an **engineer who understands design**. Both go to design studios; both care about buildings. But the frame is fundamentally different, and that matters for how you see your career.
+An Architecture student's identity: **designer and creative professional**.
+An AE student's identity: **engineer who understands design**.
+A 3D Animation student's identity: **digital artist and technical creator**.
 
 ---
 
@@ -358,122 +390,153 @@ An Architecture student's identity is primarily as a **designer and creative pro
 
 ### Program Cost Estimate (Domestic Ontario Student)
 
-| Cost Component | **Architecture (BAS+MArch)** | **Architectural Engineering (BASc)** |
-|----------------|------------------------------|--------------------------------------|
-| BAS/BASc tuition (per year) | ~$13,000 | ~$13,000–$15,000 |
-| Years of tuition | 5 (BAS) + 1–2 (MArch) = **6–7 yrs** | **5 years** |
-| MArch tuition (total) | ~$39,941 | N/A |
-| Studio supplies/materials/year | ~$8,100 (Year 1); less in later years | ~$2,000–$4,000/year (software, materials) |
-| Rome semester extra costs | ~$5,000–$10,000 (living, flights) | N/A |
-| **Total degree cost estimate** | **~$130,000–$160,000+** | **~$80,000–$100,000** |
-| Co-op earnings (offset) | ~$75,000–$85,000 | ~$80,000–$95,000 |
-| **Net estimated cost** | **~$55,000–$85,000** | **~$0–$20,000** |
-
-> These are rough estimates. The AE program is notably more financially lean — co-op earnings often cover a large fraction of tuition costs. Architecture's additional MArch costs, studio supply expenses, and Rome travel create a meaningfully higher total investment.
+| Cost Component | **Architecture (BAS+MArch)** | **Arch. Engineering (BASc)** | **3D Animation (Sheridan)** |
+|----------------|------------------------------|------------------------------|----------------------------|
+| Annual tuition | ~$13,000 | ~$13,000–$15,000 | ~$8,743 |
+| Years of tuition | 6–7 yrs (BAS + MArch) | 5 years | 4 years |
+| MArch tuition (total) | ~$39,941 | N/A | N/A |
+| Additional costs/year | ~$8,100 (Year 1 supplies); Rome costs | ~$2,000–$4,000 (software, materials) | ~$2,000–$4,000 (laptop, software) |
+| Special semester costs | Rome: ~$5,000–$10,000 extra | N/A | N/A |
+| **Total degree cost estimate** | **~$130,000–$160,000+** | **~$80,000–$100,000** | **~$40,000–$50,000** |
+| Work experience earnings | ~$75,000–$85,000 (co-op) | ~$80,000–$95,000 (co-op) | ~$7,500–$12,600 (internship) |
+| **Net estimated cost** | **~$55,000–$85,000** | **~$0–$20,000** | **~$30,000–$42,000** |
 
 ### Return on Investment
 
-| Metric | **Architecture** | **Architectural Engineering** |
-|--------|-----------------|------------------------------|
-| Years to first full salary | 6–7 (after MArch) | 5 (BASc is terminal degree) |
-| Entry salary | $50–70K | $62–75K |
-| Years to median licensed salary | ~9–11 years from HS | ~8–9 years from HS |
-| Median licensed salary | ~$85,300/yr | ~$99,847/yr |
-| ROI timeline | Longer; higher upfront cost | Faster; lower upfront cost |
+| Metric | **Architecture** | **Arch. Engineering** | **3D Animation** |
+|--------|-----------------|----------------------|-----------------|
+| Years to first full salary | 6–7 (after MArch) | 5 (BASc is terminal) | 4 |
+| Entry salary | $50–70K | $62–75K | $44–60K |
+| Years to median salary | ~9–11 years from HS | ~8–9 years from HS | ~4–8 years from HS |
+| Median salary | ~$85,300/yr | ~$99,847/yr | ~$67,995/yr |
+| Net cost of degree | ~$55–85K | ~$0–20K | ~$30–42K |
+| ROI timeline | Longest; highest upfront cost | Fastest good ROI | Fastest to workforce; lowest median return |
 
-**Financial conclusion**: Architectural Engineering is clearly more financially efficient — lower cost, faster path to good salary, higher median salary. Architecture's ROI depends heavily on reaching senior/principal levels or moving into related fields like development.
+### Financial Comparison Visualization
+
+```
+                    Total Cost    Co-op/Work     Net Cost      Entry Salary    Median Salary
+                    of Degree     Earnings       (Cost-Earn)   (First Job)     (Licensed/Senior)
+
+Architecture       ████████████   ██████████     ████████      ██████████      ████████████████
+                   ~$145K         ~$80K          ~$70K         ~$60K           ~$85K
+
+Arch. Engineering  ████████████   ██████████     ██            ████████████    ████████████████████
+                   ~$90K          ~$88K          ~$10K         ~$69K           ~$100K
+
+3D Animation       ██████         █              ██████        ████████        ████████████
+                   ~$45K          ~$10K          ~$36K         ~$52K           ~$68K
+```
+
+**Financial conclusion**:
+- **Architectural Engineering** is the most financially efficient: lowest net cost, highest starting salary, highest median salary
+- **3D Animation** has the lowest total cost but also the lowest earnings during degree and lowest median salary
+- **Architecture** has the highest total investment; ROI depends on reaching senior/principal levels
+- The Waterloo co-op advantage is enormous: $75,000–$95,000 in earnings vs. ~$10,000 from Sheridan's internship
 
 ---
 
 ## 11. Decision Framework: Which Is Right for You?
 
-### Answer these questions honestly
+### Answer These Questions Honestly
 
 **1. When you imagine yourself working in 10 years, which feels right?**
-- Leading the *design vision* for a building, presenting concepts to clients, shaping how spaces feel → **Architecture**
-- Solving complex technical problems — how a building stays up, how it heats and cools, whether it meets energy code → **Architectural Engineering**
+- Leading the *design vision* for a building → **Architecture**
+- Solving how a building stays up, heats, cools, and meets code → **Architectural Engineering**
+- Creating digital characters, worlds, or visual effects for film/games → **3D Animation**
 
-**2. What is your relationship with design vs. engineering?**
-- I love design, I have a portfolio, I draw and build things for fun → **Architecture**
-- I love math and problem-solving, and I want to apply them to buildings → **Architectural Engineering**
-- I want both but lean toward problem-solving → **Architectural Engineering** (it has significant design studio too)
+**2. What is your relationship with design vs. engineering vs. digital art?**
+- I love spatial design, I draw and build things for fun → **Architecture**
+- I love math and want to apply it to buildings → **Architectural Engineering**
+- I love 3D art, VFX, and making things move on screen → **3D Animation**
 
-**3. How important is salary in the first 10 years?**
-- I need to maximize early income and minimize debt → **Architectural Engineering** (faster, higher starting salary, lower cost)
-- I can accept lower early income for the creative and prestige payoff → **Architecture**
+**3. How important is salary stability in the first 10 years?**
+- I need to maximize early income and minimize debt → **Architectural Engineering**
+- I can accept lower early income for creative prestige → **Architecture**
+- I'm OK with volatility and lower starting pay for creative work → **3D Animation**
 
-**4. How do you feel about a 9–11 year path to full licensure?**
-- That's fine; I'm committed to the profession → **Architecture**
-- I want to be licensed and earning full professional wages in 8 years → **Architectural Engineering**
+**4. How do you feel about job market risk?**
+- I want a regulated profession with structural demand → **Architectural Engineering** (P.Eng.)
+- I want a prestigious creative career with moderate protection → **Architecture** (OAA)
+- I'm willing to compete in a volatile, unregulated market → **3D Animation**
 
-**5. Do you want to be a licensed Architect (capital A, protected title)?**
-- Yes, specifically — I want to lead projects and have full design authority → **Architecture**
-- I want to work in buildings; I don't need the Architect title specifically → **Architectural Engineering**
+**5. How important is work experience during school?**
+- Very — I want 20 months of paid, progressive work experience → **Waterloo (either program)**
+- I can manage with a single summer internship → **Sheridan 3DAET**
 
-**6. Can you build a portfolio? Do you have visual/creative work to show?**
-- Yes, I have art, design projects, sketchbooks, models → **Architecture (or either)**
-- No real portfolio yet, mostly academic STEM performance → **Architectural Engineering**
+**6. What matters more: the building or the screen?**
+- I want to shape physical spaces people inhabit → **Architecture or Architectural Engineering**
+- I want to create digital experiences people see → **3D Animation**
 
 ### Decision Matrix
 
-| Priority | **Choose Architecture** | **Choose Architectural Engineering** |
-|----------|------------------------|--------------------------------------|
-| Financial efficiency | — | ✅ |
-| Creative design authority | ✅ | — |
-| Fastest path to licensure | — | ✅ |
-| Highest global program prestige | ✅ | — |
-| International career flexibility | ✅ | — |
-| Engineering technical depth | — | ✅ |
-| Stability under AI disruption | — | ✅ (regulatory protection) |
-| Sustainability/energy modeling | — | ✅ |
-| BIM career path | ✅ | ✅✅ |
-| Design studio every term | ✅ | ✅ |
-| Works directly with Architects | ✅ IS the architect | ✅ Collaborates with architects |
-| Small cohort/tight community | ✅ | ✅ |
-| Female-majority cohort | — | ✅ (58.8% women) |
-| Rome semester | ✅ Mandatory | — |
-| Can stamp engineering drawings | — | ✅ (as P.Eng.) |
-| Can stamp architectural drawings | ✅ (as OAA) | — |
+| Priority | **Architecture** | **Arch. Engineering** | **3D Animation** |
+|----------|-----------------|----------------------|-----------------|
+| Financial efficiency | — | ✅✅ | ✅ (low cost, but low return) |
+| Creative design authority | ✅ | — | ✅ |
+| Fastest path to workforce | — | — | ✅✅ (4 years) |
+| Highest starting salary | — | ✅✅ | — |
+| Highest median salary | — | ✅✅ | — |
+| Fastest path to professional licensure | — | ✅ | N/A (no licensing) |
+| Job stability and outlook | ✅ | ✅✅ | — |
+| AI displacement resistance | — | ✅✅ | — |
+| Global program prestige | ✅ | — | ✅ (Sheridan brand) |
+| International career flexibility | ✅ | — | ✅✅ (global industry) |
+| Co-op / work experience during degree | ✅✅ | ✅✅ | — |
+| Sustainability/green career path | ✅ | ✅✅ | — |
+| Film/TV/gaming career path | — | — | ✅✅ |
+| Virtual production / emerging tech | — | — | ✅✅ |
+| Architectural visualization | ✅ | ✅ | ✅✅ |
+| Small cohort / tight community | ✅ | ✅ | ✅ |
+| Rome semester | ✅ | — | — |
+| Lowest total degree cost | — | — | ✅✅ |
+| Lowest net cost (after earnings) | — | ✅✅ | — |
+| Can stamp professional drawings | ✅ (OAA) | ✅ (P.Eng.) | — |
+| Works on physical buildings | ✅ | ✅ | — |
+| Works on digital creations | — | — | ✅✅ |
 
 ---
 
 ## 12. Master Comparison Table
 
-| Factor | **Architecture (BAS+MArch)** | **Architectural Engineering (BASc)** |
-|--------|------------------------------|--------------------------------------|
-| **Degree** | BAS + MArch | BASc Engineering |
-| **Total years** | 6–7 | 5 |
-| **Campus** | Cambridge, ON + Rome (Year 4) | Waterloo main + Cambridge (Year 3) |
-| **Co-op mandatory** | Yes (BAS only) | Yes |
-| **Co-op terms** | 5 of 6 scheduled | 5 |
-| **Co-op employment rate** | >98% | ~96.8% |
-| **Co-op wages** | $21–27/hr | $21–27/hr |
-| **Total co-op earnings** | ~$75–85K gross | ~$80–95K gross |
-| **Admission** | Low-to-mid 80s + portfolio + interview | High 80s + AIF |
-| **Portfolio required** | ✅ Yes | ❌ No |
-| **Cohort size** | ~65–75/year | ~80–90/year |
-| **Program ranking** | #1 Canada, Top 5 global | Not independently ranked |
-| **Accreditation** | CACB (architecture) | CEAB (engineering) |
-| **License** | OAA (Architect) | P.Eng. (Professional Engineer) |
-| **Time to full licensure (from HS)** | ~9–11 years | ~8–9 years |
-| **Post-grad degree needed** | Yes — MArch | No |
-| **Licensing exam** | ExAC (once/yr, 72% pass rate) | NPPE (multiple/yr, ~85% pass rate) |
-| **Entry salary (Ontario)** | $50,000–$70,000 | $62,000–$75,000 |
-| **Median salary (licensed, Ontario)** | ~$85,300/yr | ~$99,847/yr |
-| **Senior salary ceiling** | $150,000–$220,000+ | $150,000–$190,000+ |
-| **Job outlook 2025–27 (Ontario)** | Moderate | Moderate |
-| **AI displacement risk** | Higher (junior production work) | Lower (regulatory protection) |
-| **Design studio** | Every term (design-led) | Every term (engineering-led) |
-| **Math/engineering depth** | Moderate | Heavy |
-| **Architectural theory/history** | Extensive | Minimal |
-| **International placement in co-op** | Common (KPF, Arquitectonica, etc.) | Less common |
-| **Self-employment prevalence** | 24% | ~10% |
-| **Burnout rate** | >95% experienced burnout | Not separately measured |
-| **Total program cost estimate** | ~$130,000–$160,000+ | ~$80,000–$100,000 |
-| **Net cost (after co-op)** | ~$55,000–$85,000 | ~$0–$20,000 |
-| **Notable alumni** | Alison Brooks, Siamak Hariri, Brigitte Shim | Senior engineers at WSP, Stantec, AECOM |
-| **Best for** | Creative leaders shaping how buildings feel | Technical experts ensuring buildings work |
+| Factor | **Architecture (BAS+MArch)** | **Architectural Engineering (BASc)** | **3D Animation (Sheridan)** |
+|--------|------------------------------|--------------------------------------|----------------------------|
+| **School** | University of Waterloo | University of Waterloo | Sheridan College |
+| **Degree** | BAS + MArch | BASc Engineering | Honours Bachelor |
+| **Total years** | 6–7 | 5 | 4 |
+| **Campus** | Cambridge, ON + Rome (Year 4) | Waterloo main + Cambridge (Year 3) | Oakville, ON (Trafalgar Campus) |
+| **Program status** | Established (decades) | Established (decades) | **NEW — first cohort Sep 2026** |
+| **Program ranking** | #1 Canada, Top 5 global (architecture) | CEAB accredited | #1 Canada, #2 global (animation — Sheridan overall) |
+| **Accreditation** | CACB (architecture) | CEAB (engineering) | PEQAB (Ontario degree approval) |
+| **Co-op / work placement** | Yes — 5–6 co-op terms (20 months) | Yes — 5 co-op terms (20 months) | 1 internship (420 hours / ~3 months) |
+| **Co-op employment rate** | >98% | ~96.8% | N/A (not co-op) |
+| **Work experience earnings** | ~$75–85K gross | ~$80–95K gross | ~$7.5–12.6K (if paid) |
+| **Admission average** | Low-to-mid 80s | High 80s | 65% minimum |
+| **Portfolio required** | ✅ Yes | ❌ No | ✅ Yes |
+| **Cohort size** | ~65–75/year | ~80–90/year | TBD (new program) |
+| **License** | OAA (Architect) | P.Eng. (Professional Engineer) | None |
+| **Time to full licensure (from HS)** | ~9–11 years | ~8–9 years | ~4 years to workforce (no licensure) |
+| **Protected title** | "Architect" | "Professional Engineer" | None |
+| **Licensing exam** | ExAC (72% pass rate) | NPPE (~85% pass rate) | None |
+| **Entry salary (Ontario)** | $50,000–$70,000 | $62,000–$75,000 | $44,000–$60,000 |
+| **Median salary (Ontario)** | ~$85,300/yr | ~$99,847/yr | ~$67,995/yr |
+| **Senior salary ceiling** | $150,000–$220,000+ | $150,000–$190,000+ | $130,000–$200,000+ |
+| **Job outlook 2025–27 (Ontario)** | Moderate | Moderate | **Very Limited** |
+| **AI displacement risk** | Moderate–High | Low–Moderate | **High** |
+| **Regulatory protection from AI** | Moderate (OAA) | Strong (P.Eng.) | **None** |
+| **Self-employment rate** | 24% | ~10% | 34% |
+| **Full-time employment rate** | 93% | ~96% | 80% |
+| **Benefits coverage** | 90.4% | 97.7% | 85.8% |
+| **Total program cost estimate** | ~$130,000–$160,000+ | ~$80,000–$100,000 | ~$40,000–$50,000 |
+| **Net cost (after work earnings)** | ~$55,000–$85,000 | ~$0–$20,000 | ~$30,000–$42,000 |
+| **Tuition/yr (domestic)** | ~$13,000 | ~$13,000–$15,000 | ~$8,743 |
+| **Design studio** | Every term (design-led) | Every term (engineering-led) | Project-based (production-led) |
+| **Math/engineering depth** | Moderate | Heavy | Minimal |
+| **Art/design theory** | Extensive | Minimal | Moderate |
+| **International career** | Excellent (OAA→NCARB) | Possible (P.Eng. less portable) | Excellent (global industry) |
+| **Notable alumni/connections** | Alison Brooks, Siamak Hariri, Brigitte Shim | Senior engineers at WSP, Stantec, AECOM | Domee Shi (Pixar/Oscar), Dean DeBlois, Chris Williams |
+| **Best for** | Creative leaders shaping how buildings feel | Technical experts ensuring buildings work | Digital artists creating visual worlds and effects |
 
 ---
 
-*Research compiled March 2026. All figures in CAD unless otherwise noted. Sources: University of Waterloo official pages, OAA, PEO, CACB, CEAB, Canada Job Bank, Statistics Canada, BuildForce Canada, RIBA, CAGBC, Dezeen, MarketsandMarkets.*
+*Research compiled March 2026. All figures in CAD unless otherwise noted. Sources: University of Waterloo, Sheridan College, OAA, PEO, CACB, CEAB, Canada Job Bank, Statistics Canada, BuildForce Canada, Animation Career Review, RIBA, CAGBC, Animation Guild, industry reports.*
