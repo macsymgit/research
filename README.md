@@ -29,6 +29,14 @@ Comparative research documents for university programs (March 2026).
 |----------|-------------|
 | [Health Sciences](waterloo-health-sciences.md) | UWaterloo BHSc program details, streams, career outcomes |
 
+## Job Search Resources
+
+| Document | Description |
+|----------|-------------|
+| [Job Search Guide](job-search-guide.md) | Comprehensive guide to job boards, industry portals, recruiting agencies, and career resources in Canada & US for all three fields |
+| [求职指南（中文版）](job-search-guide-zh.md) | 求职资源指南中文版 |
+| [Latest Job Postings (Mar 2026)](latest-job-postings.md) | Snapshot of real job postings from Archinect, ASHRAE, ASCE, ArtStation, major studios, LinkedIn, Indeed, and more |
+
 ## Comparisons
 
 | Document | Description |
