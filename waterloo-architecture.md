@@ -379,10 +379,61 @@ Despite strong demand drivers, **architect salaries have historically lagged beh
 
 **Not automating:** Client relationship management, conceptual design judgment, regulatory discretion, community engagement, design authorship, building permit negotiations, complex site problem-solving.
 
+### Anthropic Economic Index Data: AI in Architecture & Engineering (January 2026)
+
+The **Anthropic Economic Index v4** (January 2026) provides real-world AI usage data from Claude that directly measures how the Architecture and Engineering occupational group interacts with AI.
+
+#### Usage Trends
+
+- Architecture & Engineering represents **~2% of Claude.ai conversations** and **~1% of API traffic** as of November 2025
+- Usage has been **steadily declining** from a peak of ~4.5% in January 2025 — not because architects use AI less, but because other fields (coding, office administration, education) have grown faster
+- The decline reflects AI's current strength in text/code over spatial design — architecture's core tasks (3D spatial reasoning, material judgment, site-specific design) are harder for current AI to handle
+
+#### Collaboration Patterns
+
+| Mode | Share (Nov 2025) | Trend |
+|------|-----------------|-------|
+| **Directive** (automation — AI completes with minimal input) | **38%** | Slight decline (from 39%) |
+| **Task Iteration** (augmentation — collaborative refinement) | **36%** | Rising (from 34%) |
+| **Learning** (information-seeking) | **23%** | Slight decline (from 25%) |
+
+**Key insight**: Architecture & Engineering has the **3rd-highest learning share** (23%) of any occupational group, behind only Healthcare Practitioners (53%) and Life/Physical/Social Science (35%). This suggests architects currently use AI more for research and understanding than for production — consistent with the profession's knowledge-intensive nature.
+
+#### Productivity and Reliability
+
+- Tasks requiring a **college degree** see an average **12x speedup** — e.g., a 1-hour research or analysis task reduced to ~5 minutes
+- But success rates decline with task complexity: **66% success** for college-level tasks vs. **70%** for simpler tasks
+- Most white-collar A&E jobs fall **below** the effective coverage line — meaning AI may attempt many tasks but fails on key specialized ones (spatial design, regulatory judgment, site assessment)
+
+#### The Upskilling Effect in Architecture-Adjacent Roles
+
+The report highlights **Property/Real Estate Managers** as a primary example of AI-driven upskilling:
+- AI automates routine bookkeeping (12.8 years predicted education) and rent reviews (12.6 years)
+- Humans specialize in higher-value tasks: **securing loans, negotiating with architecture firms, meeting with boards**
+- Result: the economic value of the remaining human work *increases* because AI handles the routine, freeing professionals for complex judgment
+
+**Applied to architecture**: As AI handles production drafting, code compliance checking, and rendering, the architect's role in **client relationships, design authorship, regulatory discretion, and community engagement** becomes more economically valuable — but only for those who advance beyond junior production roles.
+
+#### Complement vs. Substitute Analysis
+
+Using the **elasticity of substitution (σ)** framework:
+- **σ < 1 (complements)**: AI automates drafting/documentation while human architects handle irreplaceable design judgment and stakeholder management → human labor becomes *more* valuable
+- **σ > 1 (substitutes)**: Firms replace junior drafting positions entirely with AI → employment falls for entry-level roles
+
+**For Waterloo Architecture graduates**: The OAA licensing requirement creates a **regulatory floor** that pure substitution cannot breach — a licensed architect must stamp drawings regardless of whether AI generated them. This is a structural protection that creative fields (animation, graphic design) do not have. However, the **junior skill-building pipeline** (production work that teaches design judgment) is at risk if firms automate the tasks that traditionally train new architects.
+
+#### Canada-Specific Context
+
+- Canada ranks in the **highest tier** of the Anthropic AI Usage Index, alongside the US, UK, and Japan
+- AI adoption is diffusing **10x faster** than 20th-century technologies; regional usage expected to equalize within **2–5 years**
+- High adoption correlates with **tech workforce share** and **GDP per capita** — Ontario's position makes it a high-adoption region
+
 ### Net Effect on Architecture Careers
 
 - **Greatest risk:** Entry-level drafting and production work — the traditional skill-building pathway for junior architects — is most vulnerable to automation
 - **Greatest opportunity:** Architects who can direct, validate, and leverage AI outputs will be significantly more productive
+- **Augmentation trend**: The Anthropic Economic Index shows architecture professionals increasingly use AI for collaborative refinement (36%, rising), and uniquely rely on AI for learning (23%) — suggesting the profession is integrating AI as a knowledge tool, not just a production tool
+- **Regulatory protection**: Unlike animation/VFX, the OAA licensing requirement ensures AI cannot legally replace the architect's stamp — this creates a structural floor for demand that purely creative fields lack
 - **Career adaptation required:** Future architects described as "multidisciplinary professionals: strategists, data analysts, and ethical leaders" (industry consensus)
 - **Concern:** The profession has not yet resolved how junior architects build skills if AI handles the production work that previously built those skills
 
@@ -558,6 +609,7 @@ Architecture is NOT the right choice if you:
 | Canada Green Building Council | https://www.cagbc.org/ |
 | SalaryExpert — Principal Architect Ontario | https://www.salaryexpert.com/salary/job/principal-architect/canada/ontario |
 | UW Imprint — Fall 2024 Co-op Employment | https://uwimprint.ca/fall-2024-co-op-employment-rates-show-consistent-success-in-the-programme/ |
+| Anthropic Economic Index v4 (January 2026) — AI Usage Data: Architecture & Engineering | https://www.anthropic.com/research/anthropic-economic-index |
 
 ---
 

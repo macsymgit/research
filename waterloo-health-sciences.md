@@ -248,8 +248,64 @@ BSc Health Sciences
 |------|--------|
 | **Reduced immigration targets** | Canada cut permanent resident target from 500K → 395K (2025); slower population growth may dampen healthcare demand growth |
 | **Public sector hiring freezes** | Ontario health spending constraints directly affect co-op and early-career placements |
-| **AI in healthcare** | Administrative and diagnostic support roles face automation; clinical and research roles more resilient |
+| **AI in healthcare** | Administrative and diagnostic support roles face automation; clinical and research roles more resilient (see Anthropic Economic Index data below) |
 | **Degree saturation** | More health sciences graduates chasing the same early-career roles; competition intensifying |
+
+### Anthropic Economic Index Data: AI in Healthcare & Life Sciences (January 2026)
+
+The **Anthropic Economic Index v4** (January 2026) provides real-world AI usage data from Claude that directly measures how healthcare and life science professionals interact with AI.
+
+#### How Healthcare Professionals Use AI
+
+Healthcare Practitioners and Technical workers have a **unique** AI interaction profile — they use AI primarily for **learning**, not production:
+
+| Mode | Healthcare Practitioners | All Occupations Average |
+|------|------------------------|------------------------|
+| **Learning** (information-seeking) | **53%** | ~15–25% |
+| **Directive** (automation) | **28%** | ~35–45% |
+| **Task Iteration** (augmentation) | **19%** | ~30–40% |
+
+**Key insight**: Healthcare has the **highest learning share of any occupational group** — more than double the next-highest group (Life/Physical/Social Science at 35%). This means health professionals predominantly use AI to understand and research, not to automate clinical work. This is consistent with the profession's emphasis on evidence-based practice, continuing education, and regulatory caution around automated clinical decisions.
+
+**Top 5 occupational groups by learning share:**
+1. Healthcare Practitioners & Technical: **53%**
+2. Life, Physical & Social Science: **35%**
+3. Architecture & Engineering: **23%**
+4. Business & Financial Operations: **28%**
+5. Sales & Related: **27%**
+
+#### Effective AI Coverage: Task Coverage vs. Real-World Impact
+
+The report distinguishes between how many tasks AI *can* do vs. how much of a worker's *actual day* it can handle:
+
+| Occupation | Task Coverage | Effective Coverage | Why the Difference |
+|------------|--------------|-------------------|-------------------|
+| **Medical Transcriptionists** | ~40% | **~51%** | AI covers the most time-intensive, frequent tasks |
+| **Radiologists** | Lower | **~35%** | AI excels at core knowledge work (image interpretation, reports) |
+| **Microbiologists** | ~50% | **~23%** | AI cannot perform hands-on lab research with specialized equipment |
+
+**For Health Sciences graduates**: The pattern is clear — AI handles knowledge-intensive analytical tasks well but cannot replace hands-on clinical, laboratory, or in-person care work. Roles that combine both (e.g., clinical research, diagnostics) see mixed impact; roles that are primarily physical/clinical (nursing, physiotherapy, occupational therapy) are well-protected.
+
+#### The Complement Effect in Healthcare
+
+Using the **elasticity of substitution (σ)** framework:
+- **σ < 1 (complements)**: When AI handles diagnostic data analysis, the clinician's judgment in interpreting results and making treatment decisions becomes *more* economically valuable
+- Healthcare's **bottleneck tasks** (hands-on care, lab work, in-person patient interaction) cannot be automated, and they constrain how much AI can increase total productivity
+- When tasks are complements, aggregate productivity growth drops from **1.8 to 0.7–0.9 percentage points** annually — healthcare is a prime example of this constraint
+- However, this same bottleneck effect **increases the economic value of human clinical skills** — the tasks AI cannot do become the most valuable parts of healthcare work
+
+#### Deskilling vs. Upskilling in Health
+
+- AI tends to automate the **most skill-intensive** analytical tasks (e.g., radiological interpretation at ~18.7 years predicted education) while leaving humans with physical/administrative tasks
+- For **diagnostic-heavy roles** (radiology, pathology): risk of deskilling as AI handles core analytical work
+- For **clinical-contact roles** (nursing, physiotherapy, occupational therapy): **upskilling** — AI handles paperwork and analysis, freeing clinicians to focus on complex patient care and professional judgment
+- For **Health Sciences BSc graduates** specifically: AI strengthens the case for pursuing **professional credentials** (MD, RN, OT, PT) that involve irreplaceable hands-on work, rather than stopping at analyst/coordinator roles that are more automatable
+
+#### Canada-Specific Context
+
+- Canada ranks in the **highest tier** of the Anthropic AI Usage Index, alongside the US, UK, and Japan
+- Healthcare usage on Claude.ai is part of a "long tail" of human-facing categories where users primarily seek advice and information
+- Higher-income countries (including Canada) use AI more for personal health advice and professional work, while lower-income countries use it more for coursework
 
 ### Verdict on Job Market
 
@@ -319,7 +375,7 @@ The most important insight from this research:
 
 4. **Study this program if you have a plan.** The degree is excellent preparation for professional or graduate school. Without that plan, the financial return is below average for a 5-year UWaterloo degree.
 
-5. **Prediction for 2025–2030:** Health sector demand will remain strong, but **early-career analyst and coordinator roles will become more competitive** as more students graduate from health programs. Roles requiring professional licensure (RN, OT, PT, MD) will remain in shortage. AI will automate administrative tasks; clinical, research, and policy roles will grow.
+5. **Prediction for 2025–2030:** Health sector demand will remain strong, but **early-career analyst and coordinator roles will become more competitive** as more students graduate from health programs. Roles requiring professional licensure (RN, OT, PT, MD) will remain in shortage. AI will automate administrative and diagnostic-analytical tasks; clinical, research, and policy roles will grow. The Anthropic Economic Index confirms healthcare practitioners use AI primarily for **learning (53%)**, not automation — and hands-on clinical roles are structurally protected by bottleneck tasks AI cannot perform.
 
 ---
 
@@ -341,6 +397,10 @@ The most important insight from this research:
 
 - [UW Imprint: "UW's co-op program sees a significant unemployment rate for spring 2025"](https://uwimprint.ca/uws-co-op-program-sees-a-significant-unemployment-rate-for-spring-2025/) — UW Imprint (May 2025)
 - [UW Imprint: "Fall 2024 co-op employment rates show consistent success"](https://uwimprint.ca/fall-2024-co-op-employment-rates-show-consistent-success-in-the-programme/) — UW Imprint
+
+### AI & Economic Research
+
+- [Anthropic Economic Index v4 (January 2026) — AI Usage Data: Healthcare & Life Sciences](https://www.anthropic.com/research/anthropic-economic-index) — Anthropic Research
 
 ### Labour Market & Government Sources
 
