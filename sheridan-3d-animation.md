@@ -343,12 +343,69 @@ The Canada Job Bank rates this occupation at its **lowest possible rating** for 
 
 This is the single most important distinction: **a P.Eng. stamp cannot be replaced by AI. An animator can be.**
 
+### Anthropic Economic Index Data: AI in Arts, Design & Media (January 2026)
+
+The **Anthropic Economic Index v4** (January 2026) provides real-world usage data from Claude that directly illuminates AI's interaction with creative occupations, including the "Arts, Design, Entertainment, Sports, and Media" SOC group where animators and VFX artists are classified.
+
+#### Usage Patterns
+
+- Creative tasks account for **11% of all conversations on Claude.ai** (consumer) but only **6% of API traffic** (enterprise), indicating creative work currently leans more toward interactive, individual use than programmatic automation
+- Usage in Arts, Design, and Media **increased** between August and November 2025, reversing a prior decline — driven by writing tasks, copyediting, and fictional content refinement
+- Prominent creative use cases include digital content authoring, scripting, video, artwork, characterizations, and plots
+
+#### Augmentation vs. Automation in Creative Fields
+
+| Mode | Share (Nov 2025) | Trend |
+|------|-----------------|-------|
+| **Task Iteration** (augmentation — collaborative human-AI refinement) | **51%** | Rising (from 42%) |
+| **Directive** (automation — AI completes with minimal input) | **43%** | Falling (from 47%) |
+| **Learning** | **4%** | Stable |
+
+**Key insight**: Creative professionals are shifting **toward** collaborative AI use, not away from it. The augmentation share grew from 42% → 51%, suggesting artists increasingly use AI as a co-creator rather than a replacement tool.
+
+#### Productivity Speedups and Reliability
+
+- Tasks requiring a **college degree** (16 years of schooling) see an average **12x speedup** — e.g., a 1-hour task reduced to ~5 minutes
+- However, success rates decline with complexity: **70% success** for high-school-level tasks vs. **66%** for college-level tasks
+- Claude maintains a **50% success rate** for tasks that would take a human **up to 19 hours**, primarily by decomposing complex creative work into smaller, iterative steps
+- AI handles tasks averaging **14.4 years of education** (Associate's degree equivalent), while the broader economy averages **13.2 years** — AI targets the higher-skill work
+
+#### The Deskilling Risk for Creative Occupations
+
+The report identifies a critical pattern: AI tends to automate the **most skill-intensive** tasks while leaving humans with lower-complexity work. For technical writers (a comparable creative occupation), AI handles analysis requiring ~18.7 years of education while leaving sketch-level tasks at ~13.6 years.
+
+**Applied to Animation/VFX**: This suggests AI could automate complex tasks like lighting design, procedural environment creation, and motion synthesis — leaving human artists with more manual, supervision-oriented work. This creates a **deskilling** effect: the remaining human tasks require less specialized skill, potentially compressing wages.
+
+#### Productivity Growth Projections
+
+| Scenario | Annual Productivity Gain | Assumption |
+|----------|------------------------|------------|
+| Baseline (optimistic) | **+1.8 percentage points** | Widespread adoption, Hulten's Theorem applied to task-level shocks |
+| Reliability-adjusted | **+1.0–1.2 percentage points** | Accounts for model reliability and task success rates |
+| Complement-constrained | Lower end of range | Non-automated "bottleneck" tasks (artistic judgment, client interaction) constrain total gains |
+
+#### Complement vs. Substitute Framework
+
+The report uses **elasticity of substitution (σ)** to predict whether AI complements or replaces workers:
+- **σ < 1 (complements)**: AI makes remaining human tasks *more* valuable — e.g., a VFX supervisor's artistic judgment becomes more critical as AI handles production tasks
+- **σ > 1 (substitutes)**: Firms can replace human labor for specific task clusters — e.g., AI replacing junior modellers for asset generation
+
+**For 3DAET graduates**: The emerging tech focus (virtual production, LED volumes, motion capture supervision) aligns with the **complement** scenario, where AI handles repetitive production while humans provide irreplaceable on-set judgment. Traditional production roles (modelling, texturing, compositing) are more vulnerable to the **substitute** scenario.
+
+#### Canada-Specific Data
+
+- Canada ranks in the **highest tier** of the Anthropic AI Usage Index (AUI), alongside the US, UK, and Japan
+- AI adoption is diffusing **10x faster** than 20th-century technologies; usage per capita across regions expected to equalize in **2–5 years**
+- High usage correlates strongly with **tech workforce share** and **GDP per capita** — Ontario's tech sector makes it a high-adoption region
+
 ### Net Effect on 3DAET Careers
 
 - **Greatest risk**: Entry-level roles (modelling, texturing, compositing, rotoscoping) are the most automatable
 - **Greatest opportunity**: Artists who direct AI tools, supervise virtual production, and manage pipelines will be more valuable
 - **Emerging safety**: Real-time virtual production (LED volumes, motion capture) requires physical presence and artistic judgment that AI cannot replicate — this is exactly what the 3DAET program emphasizes
-- **Verdict**: AI makes the field **more competitive and more volatile**, but the 3DAET program's focus on emerging technologies (not traditional production roles) may partially mitigate this
+- **Augmentation trend**: The Anthropic Economic Index shows creative professionals increasingly use AI as a collaborative tool (51% augmentation), not just a replacement — 3DAET graduates who learn to work *with* AI will have an advantage
+- **Deskilling caution**: AI automates the highest-skill tasks first, potentially compressing wages for roles where AI handles the complex work and humans manage the remainder
+- **Verdict**: AI makes the field **more competitive and more volatile**, but the 3DAET program's focus on emerging technologies (not traditional production roles) may partially mitigate this. The shift toward augmentation in creative fields is encouraging, but the lack of regulatory protection remains a fundamental vulnerability
 
 ---
 
@@ -500,6 +557,7 @@ This is the single most important distinction: **a P.Eng. stamp cannot be replac
 | AVG Guild — Animation VFX Game Jobs 2026 | https://www.avgguild.org/post/animation-vfx-game-jobs-in-2026-what-s-changing-and-how-to-stay-hireable |
 | VFX Voice — 2026 Industry Outlook | https://vfxvoice.com/entering-2026-vfx-animation-industry-balances-uncertainty-and-opportunity/ |
 | Context/TRF — Hollywood Animation VFX Unions Fight AI | https://www.context.news/ai/hollywood-animation-vfx-unions-fight-ai-job-cut-threat |
+| Anthropic Economic Index v4 (January 2026) — AI Usage Data: Arts, Design & Media | https://www.anthropic.com/research/anthropic-economic-index |
 | IATSE — Growing Our Union Further | https://iatse.net/growing-our-union-further/ |
 | CBC — Animators Win Overtime Pay Battle | https://cbc.ca/amp/1.5070598 |
 | CTV — Domee Shi Oscar Win Sheridan Legacy | https://toronto.ctvnews.ca/domee-shi-s-oscar-win-adds-to-legacy-of-sheridan-college-animation-program-1.4312351 |
