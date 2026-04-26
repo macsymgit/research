@@ -26,15 +26,15 @@ type: research-scratchpad
 
 ### 1.2 Specialization streams (Year 4 technical-elective focus areas)
 
-The program offers three branding-level specialization tracks, all entered through technical electives in Year 4:
+The program offers three branding-level specialization tracks, all entered through technical electives in Year 4. Canonical names are taken verbatim from the current Western Engineering program page (verified via WebFetch 2026-04-26):
 
-1. **Information Communication and Transmission** — communication systems, antennas, data networks, digital signal processing.
+1. **Information Communication and Transmission** — communication systems, antennas, data networks, digital signal processing. Page wording: "Information Communication including wireless systems is one of the most dynamic areas of industrial development and research."
 2. **Power Systems** — conventional + alternative-energy power generation, distribution, and protection.
-3. **Biomedical Signals and Systems / Biomedical Engineering** — signal processing, imaging, biomedical systems; concurrent-degree option with the School of Biomedical Engineering.
+3. **Biomedical Engineering** — signal processing, imaging, biomedical systems; concurrent-degree option with the School of Biomedical Engineering.
 
-Source: https://www.eng.uwo.ca/undergraduate/programs/electrical.html
+Source: https://www.eng.uwo.ca/undergraduate/programs/electrical.html (and https://www.eng.uwo.ca/electrical/undergraduate/Programs/index.html — same three names)
 
-Quote: "After completing Western Engineering's Common First Year, you can enroll in the Electrical Engineering program and choose from one of the following options: Wireless Communication, Power Systems or Biomedical Signals and Systems." (per WebSearch surfacing eng.uwo.ca content)
+> **Stream-name reconciliation note:** Earlier WebSearch results surfaced a paraphrased option list as "Wireless Communication, Power Systems or Biomedical Signals and Systems." That phrasing does not appear verbatim on the two canonical eng.uwo.ca program pages above (verified 2026-04-26), which use "Information Communication and Transmission" and "Biomedical Engineering" as the official option headings. The "Wireless Communication" / "Biomedical Signals and Systems" variants appear to be older or paraphrased descriptions and should not be cited as the official stream names. Use the three names listed above (Information Communication and Transmission / Power Systems / Biomedical Engineering) consistently throughout the comparison doc; if the older variants need to be acknowledged for SEO or student-search purposes, do so as a parenthetical (e.g., "Information Communication and Transmission (also described as wireless communication)").
 
 Dual-degree options (per same page):
 - Electrical Engineering + Business (Ivey HBA) — Option B
@@ -196,6 +196,8 @@ Source: https://welcome.uwo.ca/next-steps/finances/ — hedge: surfaced via sear
 
 **Source:** https://www.jobbank.gc.ca/marketreport/wages-occupation/17815/ON
 
+> **Annualization methodology:** Annualization assumes 40 hrs/wk × 52 wks/yr (2,080 hrs); Job Bank does not publish an annualized figure. Use this methodology consistently throughout the comparison doc.
+
 | Statistic | Hourly | Annualized (×2,080 hrs) |
 |-----------|--------|-------------------------|
 | Low | $33.65/hr | ~$69,992/yr |
@@ -243,6 +245,8 @@ Reference period: 2023-2024. Source: Labour Force Survey, Statistics Canada. Wag
 | Senior (10+ yrs) | $120,000–$180,000+ | In repo |
 | Ontario median wage (NOC 21300) | $48.08/hr → ~$99,847/yr | jobbank.gc.ca/marketreport/wages-occupation/22376/ON |
 | Toronto median (same NOC) | $51.28/hr → ~$106,662/yr | Same |
+
+> **NOC 21300 URL reconciliation note:** The existing repo doc `waterloo-architectural-engineering.md` (line 418) cites `https://www.jobbank.gc.ca/marketreport/wages-occupation/22428/ON` for "AE Wages Ontario." Job Bank serves both `/22376/ON` (branded "Civil Engineer") and `/22428/ON` (branded "Architectural Engineer") as job-title sub-pages of the same NOC 21300 record; both currently return **identical** wage data ($30.50 / $48.08 / $72.12, 2023-2024 reference period, wages updated 2025-11-19, verified 2026-04-26). These notes use `/22376/ON` (Civil Engineer) as the canonical citation because (a) "Civil Engineers" is the official NOC 21300 occupation title in Statistics Canada / ESDC's classification, (b) it matches the §3 methodology disclosure that proxies ArchE through Civil Engineers as the PEO licensing-track NOC, and (c) the data is identical to `/22428/ON` so URL choice does not change any number. See §4 (Data Gaps) for the same disclosure and a follow-up to update `waterloo-architectural-engineering.md` line 418 in a later chunk if consistency across repo docs is desired.
 | P.Eng. timeline | ~3 years post-grad (with co-op credit) | peo.on.ca |
 | Specializations | Building Structures or Building Systems | uwaterloo.ca |
 | Tools | Revit, AutoCAD, EnergyPlus, IES-VE, SAP2000, ETABS | uwaterloo.ca |
@@ -268,11 +272,13 @@ All cited sources in the existing Waterloo ArchE doc are 2024-2026 (within 12-mo
 - **NOC 21300 — Civil engineers** (the most common P.Eng. classification for ArchE graduates working at building consultancies; also the licensing-track NOC PEO uses for many ArchE → P.Eng. transitions)
 - **NOC 22300 — Civil engineering technologists** (lower bound; what an ArchE grad working in BIM / building-systems support might be classed as before P.Eng.)
 
-The existing repo doc already cites 21300 — this preserves consistency.
+The existing repo doc already cites NOC 21300 — these notes adopt the same NOC. (The repo doc's URL `/22428/ON` and these notes' URL `/22376/ON` both resolve to the same NOC 21300 wage record on Job Bank with identical numbers; see §2 reconciliation note for the URL-choice rationale.)
 
 ### 3.1 NOC 21300 (Civil Engineers, Ontario)
 
 **Source:** https://www.jobbank.gc.ca/marketreport/wages-occupation/22376/ON
+
+> **Annualization methodology:** Annualization assumes 40 hrs/wk × 52 wks/yr (2,080 hrs); Job Bank does not publish an annualized figure. Use this methodology consistently throughout the comparison doc.
 
 | Statistic | Hourly | Annualized |
 |-----------|--------|-----------|
@@ -285,6 +291,8 @@ Reference period: 2023-2024. Source: Labour Force Survey, Statistics Canada. Upd
 ### 3.2 NOC 22300 (Civil Engineering Technologists, Ontario)
 
 **Source:** https://www.jobbank.gc.ca/marketreport/wages-occupation/17964/ON
+
+> **Annualization methodology:** Annualization assumes 40 hrs/wk × 52 wks/yr (2,080 hrs); Job Bank does not publish an annualized figure. Use this methodology consistently throughout the comparison doc.
 
 | Statistic | Hourly | Annualized |
 |-----------|--------|-----------|
@@ -317,6 +325,7 @@ Reference period: 2023-2024. Source: Labour Force Survey, Statistics Canada. Upd
 | AEI v4 occupational exposure for EE vs. ArchE | Need to run the NotebookLM query | Run during Chunk 3 §8 (per plan Step 3.2) |
 | Welcome.uwo.ca cost summary page body | Live WebFetch returned title only | Use the search-surfaced Year 1 ranges with hedge: "per Western's published Year 1 cost summary at welcome.uwo.ca" |
 | CEAB next-visit / expiry year for Western EE | Engineers Canada listing shows "1965 - (present)" but no explicit next visit | Cite "currently accredited" with no expiry date; do not fabricate a future visit year |
+| NOC 21300 Job Bank URL inconsistency across repo docs | These notes cite `/22376/ON` (Civil Engineer branding); existing `waterloo-architectural-engineering.md` line 418 cites `/22428/ON` (Architectural Engineer branding). Both are sub-pages of the same NOC 21300 record and currently return identical wages ($30.50 / $48.08 / $72.12, updated 2025-11-19, verified 2026-04-26) | Comparison doc uses `/22376/ON` because "Civil Engineers" is the canonical NOC 21300 occupation title and matches the §3 ArchE→Civil-Eng licensing-track proxy. Numbers do not change either way. Optional follow-up: align `waterloo-architectural-engineering.md` line 418 to the same URL in a future cleanup chunk. |
 
 ---
 
