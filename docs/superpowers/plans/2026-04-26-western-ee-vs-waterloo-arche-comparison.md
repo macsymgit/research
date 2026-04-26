@@ -77,27 +77,31 @@ Capture: low / median / high wages.
 
 Run: Read `waterloo-architectural-engineering.md` end-to-end. Note which facts can be lifted directly (program length, co-op terms, cohort size, tuition, salaries) and confirm citation freshness. If a citation is older than 12 months and a newer source exists, refresh it during drafting.
 
-- [ ] **Step 1.10: Verify allowlist covers Western domains**
+- [ ] **Step 1.10: Verify allowlist covers Western domains (local-only)**
 
-Read `.claude/settings.local.json`. Confirm it includes `WebFetch(domain:www.eng.uwo.ca)`, `WebFetch(domain:uwo.ca)`, `WebFetch(domain:welcome.uwo.ca)`, `WebFetch(domain:registrar.uwo.ca)`, and `WebFetch(domain:www.salaryexpert.com)` (already pre-staged). If any are missing, add them and explicitly include the file in the next commit.
+Read `.claude/settings.local.json`. Confirm it includes `WebFetch(domain:www.eng.uwo.ca)`, `WebFetch(domain:uwo.ca)`, `WebFetch(domain:welcome.uwo.ca)`, `WebFetch(domain:registrar.uwo.ca)`, and `WebFetch(domain:www.salaryexpert.com)` (already pre-staged). If any are missing, add them.
 
-- [ ] **Step 1.11: Commit research scaffolding (allowlist + spec + plan)**
+**Important — gitignore reality:** `.claude/settings.local.json` is gitignored (see `.gitignore` line 1: `.claude`), per standard Claude Code convention. The allowlist is therefore **local-only**: a fresh clone of this repo will not carry these entries and will need them re-applied manually before WebFetch on Western domains will work. Adding entries to this file does **not** require — and cannot be — included in a commit. Do not attempt to `git add` this file.
+
+- [ ] **Step 1.11: Commit research scaffolding (spec + plan + research notes)**
 
 ```bash
-git add .claude/settings.local.json docs/superpowers/specs/2026-04-26-western-ee-vs-waterloo-arche-comparison-design.md docs/superpowers/plans/2026-04-26-western-ee-vs-waterloo-arche-comparison.md
+git add docs/superpowers/specs/2026-04-26-western-ee-vs-waterloo-arche-comparison-design.md docs/superpowers/plans/2026-04-26-western-ee-vs-waterloo-arche-comparison.md docs/superpowers/research/2026-04-26-chunk1-research-notes.md
 git commit -m "$(cat <<'EOF'
-Add spec and plan for Western EE vs Waterloo ArchE comparison
+Add spec, plan, and Chunk 1 research notes for Western EE vs Waterloo ArchE comparison
 
-Adds design spec, implementation plan, and Western University WebFetch
-domains to the allowlist so the research data can be sourced directly
-from official Western pages.
+Adds the design spec, implementation plan, and Chunk 1 Western
+University research scratchpad. The WebFetch allowlist for Western
+domains lives in `.claude/settings.local.json`, which is gitignored
+per standard Claude Code convention — it is applied locally only
+and is not part of this commit.
 
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
 EOF
 )"
 ```
 
-Expected: clean commit with spec + plan + settings change.
+Expected: clean commit with spec + plan + research notes only. `.claude/settings.local.json` is intentionally excluded (gitignored).
 
 ---
 

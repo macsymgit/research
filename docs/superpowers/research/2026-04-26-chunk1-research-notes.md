@@ -129,6 +129,8 @@ Source: https://welcome.uwo.ca/next-steps/requirements/ontario-high-school.html 
 
 ### 1.5 EDI / Internship Program (optional)
 
+> *Cite-check note for Chunk 2 §2.8: This URL recently lost the verbatim quote — re-verify or substitute `https://www.eng.uwo.ca/careers/students/undergraduate-co-op/index.html` which carries equivalent program details.*
+
 | Field | Value | Source |
 |-------|-------|--------|
 | Program name | Internship Program (sometimes branded "Engineering Internship Program"; "EDI" is local shorthand the spec uses) | https://www.eng.uwo.ca/tc/undergraduate/integrated-engineering/index.html |
