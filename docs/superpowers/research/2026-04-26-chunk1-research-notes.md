@@ -236,8 +236,8 @@ Reference period: 2023-2024. Source: Labour Force Survey, Statistics Canada. Wag
 | CEAB accreditation | Yes — "Architectural, University of Waterloo, 2023 - (present)" | engineerscanada.ca |
 | AIF | Required (vs. Western's Casper) | uwaterloo.ca |
 | Admission average | "high 80s" | uwaterloo.ca |
-| Co-op average $/hr (Term 1 → Term 5, 2025) | $21.60 → $26.40 | uwaterloo.ca/hire/how-to-hire/co-op-student-earnings |
-| Total co-op earnings over 5 terms | ~$80,000–$95,000 pre-tax | Same |
+| Co-op average $/hr (Term 1 → Term 5, live page; **Last refreshed: 2026-04-26**) | Term 1 $21.67 / Term 2 $23.55 / Term 3 $25.67 / Term 4 $27.46 / Term 5 $29.60 | uwaterloo.ca/hire/how-to-hire/co-op-student-earnings |
+| Total co-op earnings over 5 terms | ~$85,000–$95,000 pre-tax (5 terms × ~640–720 hrs/term × weighted avg ~$25.59/hr) | Same |
 | 6-month grad employment rate | ~96% | UW KPI 2024 + AE program page |
 | Entry-level salary (Ontario) | ~$62,000–$75,000/yr | Glassdoor / ZipRecruiter |
 | Years 1-3 (junior) salary | $62,000–$80,000/yr | Triangulated, in repo |

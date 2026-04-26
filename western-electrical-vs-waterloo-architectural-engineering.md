@@ -66,7 +66,7 @@
 | **Minimum competitive average** | The Engineering Excellence Admission Program requires "a minimum 85% mid-year and final admission average, including prerequisites" ([eng.uwo.ca](https://www.eng.uwo.ca/future-students/your-eng-experience/first-year/engineering-excellence.html)). Typical entering averages are reported as high 80s to low 90s; Western publishes a range rather than a single per-cycle number, so this should be read as a hedged band, not a fixed cutoff. | Admission average reported as **"high 80s"** by program materials (in repo: `waterloo-architectural-engineering.md`, citing uwaterloo.ca) |
 | **Year 1 → Year 2 EE progression** | Year-Weighted Average ≥ 60% AND ≥ 60% in NMM 1411A/B, NMM 1412A/B, NMM 1414A/B, Phys 1402A/B, ES 1036A/B ([eng.uwo.ca](https://www.eng.uwo.ca/undergraduate/first-year/admission_to_programs.html)). Meeting the minima does not guarantee program acceptance. | N/A — students are admitted directly into ArchE; there is no common-first-year sort step into the program |
 | **Supplementary application** | Casper situational-judgment test required as part of the application ([welcome.uwo.ca](https://welcome.uwo.ca/next-steps/requirements/ontario-high-school.html)). Western does **not** use a supplementary form analogous to Waterloo's AIF for Engineering. | **Admission Information Form (AIF)** required ([uwaterloo.ca](https://uwaterloo.ca/future-students/programs/architectural-engineering)) |
-| **Portfolio / interview** | None required for EE ([eng.uwo.ca](https://www.eng.uwo.ca/undergraduate/programs/electrical.html)) | No portfolio required (this is a key difference from Waterloo Architecture's BAS, but does not apply to ArchE) (in repo: `waterloo-architectural-engineering.md`) |
+| **Portfolio / interview** | None required for EE ([eng.uwo.ca](https://www.eng.uwo.ca/undergraduate/programs/electrical.html)) | No portfolio or interview required (in repo: `waterloo-architectural-engineering.md`) |
 | **Acceptance rate** | Not publicly disclosed | Not publicly disclosed |
 | **Most recent cohort entrance average** | Not publicly disclosed at the EE program level (Western reports a Faculty-of-Engineering range rather than per-program numbers) | Not publicly disclosed at the per-cycle granularity; the "high 80s" framing is the most specific public claim |
 
@@ -84,7 +84,7 @@
 | Optional vs. mandatory | **Optional** | Same |
 | Length | **12–16 months** | Same — listed under "Engineering Interns (12–16 months)" |
 | When it runs | Western publishes the length but does not anchor the internship to a specific year-pair; the closest official timing rule is that students "must complete a minimum of 3 co-op terms **prior to the beginning of their final academic year**," which functionally places the long internship in the year preceding the final academic year | [eng.uwo.ca — integrated-engineering](https://www.eng.uwo.ca/tc/undergraduate/integrated-engineering/index.html); [eng.uwo.ca — undergraduate-co-op](https://www.eng.uwo.ca/careers/students/undergraduate-co-op/index.html) |
-| Eligibility (separate "with Co-op" track) | Solid academic record; minimum 3 co-op terms prior to final academic year; must register through Co-op/Career Services | [eng.uwo.ca](https://www.eng.uwo.ca/careers/students/undergraduate-co-op/index.html) |
+| Eligibility (separate "with Co-op" track) | Solid academic record; **must maintain a 65% average**; minimum 3 co-op terms prior to final academic year; must register through Co-op/Career Services and attend a Preparation and Training Workshop | [eng.uwo.ca — integrated-engineering](https://www.eng.uwo.ca/tc/undergraduate/integrated-engineering/index.html); [eng.uwo.ca — undergraduate-co-op](https://www.eng.uwo.ca/careers/students/undergraduate-co-op/index.html) |
 | Average annual salary | **~$50,000** for Year-Long Co-op | [eng.uwo.ca](https://www.eng.uwo.ca/careers/students/index.html) |
 | Sample employers | Suncor (Reliability Intern), Ontario Power Generation (Professional Engineering Year University Student Intern), Magna International, Deloitte, RBC, Ameresco Canada (representative; 27+ employers listed) | [eng.uwo.ca](https://www.eng.uwo.ca/tc/undergraduate/integrated-engineering/index.html) |
 | PEO P.Eng. credit | Up to **12 months** of co-op employment can count toward Ontario's 48-month P.Eng. experience requirement, provided it occurs after the first half of the classroom component | [eng.uwo.ca](https://www.eng.uwo.ca/careers/students/undergraduate-co-op/index.html) |
@@ -101,6 +101,10 @@
 | Sequencing | Stream 4S alternating: Y1 W co-op; Y2 F & S co-op; Y3 W co-op; Y4 F co-op; Y5 F co-op | Same |
 | Average hourly wage (2025, student-reported) | Term 1 **$21.67/hr** → Term 2 $23.55/hr → Term 3 $25.67/hr → Term 4 $27.46/hr → Term 5 **$29.60/hr** (4-month terms, full-time; Faculty of Engineering averages excluding Architecture) | [uwaterloo.ca](https://uwaterloo.ca/hire/how-to-hire/co-op-student-earnings) |
 | Total earnings over 5 terms | **~$85,000–$95,000 pre-tax** across the 5-year degree (sum of per-term averages × ~640–720 hrs/term) | Same |
+
+*Wage data refreshed from `uwaterloo.ca/hire/how-to-hire/co-op-student-earnings` on 2026-04-26; older repo docs may cite a stale snapshot.*
+
+*Total estimate: 5 terms × ~640–720 hrs/term × weighted average ~$25.59/hr = approximately **$85,000–$95,000** pre-tax. Hours-per-term assume 40 hrs/wk over 16 weeks (640 hrs) up to 45 hrs/wk over 16 weeks (720 hrs); per-term rates are from the live `co-op-student-earnings` page.*
 | Employer matching | WaterlooWorks; Fall 2024 overall co-op employment rate **96.8%** | [uwaterloo.ca](https://uwaterloo.ca/institutional-analysis-planning/key-performance-indicators-university-waterloo-2024); [uwimprint.ca](https://uwimprint.ca/fall-2024-co-op-employment-rates-show-consistent-success-in-the-programme/) |
 | Typical employers | WSP, Stantec (acquired Morrison Hershfield), AECOM, RJC Engineers, Entuitive, Arup, NORR, Aecon, PCL, EllisDon, City of Toronto, Infrastructure Ontario | (in repo: `waterloo-architectural-engineering.md`) |
 | PEO P.Eng. credit | Up to **12 months** of co-op employment after Year 2 can count toward the 48-month P.Eng. experience requirement | [peo.on.ca](https://www.peo.on.ca/apply/become-professional-engineer) |
@@ -135,7 +139,7 @@ The honest framing: at Waterloo, ~20 months is the floor; at Western, ~16 months
 
 1. **Information Communication and Transmission** — wireless systems, communications design, antennas, digital signal processing.
 2. **Power Systems** — sustainable energy sources, conventional power generation and distribution.
-3. **Biomedical Engineering** — signal processing, imaging, medical device design (concurrent-degree option with the School of Biomedical Engineering).
+3. **Biomedical Engineering** — signal processing, imaging, medical device design (note: Biomedical Engineering can be pursued as a Year-4 EE specialization stream **or** as a separate concurrent-degree option with the School of Biomedical Engineering, per Western's program page).
 
 Concurrent / dual-degree options confirmed on the same page: **Electrical Engineering and Business** (Ivey HBA) and **Electrical Engineering and Law**. The progression-sheets index also lists an **Electrical + AI Systems Engineering "Option M"** track ([eng.uwo.ca](https://www.eng.uwo.ca/electrical/undergraduate/Current-Students/Program-Progression-Sheets.html)).
 
@@ -193,6 +197,8 @@ Source: [peo.on.ca — Become a Professional Engineer](https://www.peo.on.ca/app
 | **Typical post-grad time to P.Eng.** | ~3 years if the student took the optional internship; ~4 years if they did not | ~3 years (co-op credit is essentially automatic) |
 | **Total time HS → P.Eng.** | ~7–8 years (4-yr degree + ~3–4 yrs experience) | ~8 years (5-yr degree + ~3 yrs experience) |
 | **Protected title** | "P.Eng." / "Professional Engineer" ([peo.on.ca](https://www.peo.on.ca/apply/become-professional-engineer)) | Same ([peo.on.ca](https://www.peo.on.ca/apply/become-professional-engineer)) |
+
+*(Degree-only time is 4 yrs Western / 5 yrs Waterloo per §1; the "Total time HS → P.Eng." row above adds the post-grad ~3–4 year experience window required for licensure.)*
 
 ### 6.3 Common adjacent credentials
 
