@@ -43,6 +43,7 @@ Comparative research documents for university programs (March 2026).
 |----------|-------------|
 | [Architecture vs. Arch. Engineering vs. 3D Animation](waterloo-arch-comparison.md) | 3-program comparison: admission, curriculum, salary trajectories, ROI, AI risk, decision matrix |
 | [Architecture vs. Health Sciences](architecture-vs-health-sciences.md) | Cross-discipline comparison of Architecture and Health Sciences programs |
+| [Western Electrical Eng. vs. Waterloo Architectural Eng.](western-electrical-vs-waterloo-architectural-engineering.md) | Two CEAB-accredited Ontario engineering programs: admissions, co-op vs. EDI, curriculum, salaries, AI exposure, 12-question decision framework |
 
 ## Chinese Translations (中文版)
 
@@ -53,3 +54,4 @@ Comparative research documents for university programs (March 2026).
 | [建筑学 vs. 建筑工程 vs. 3D动画对比](waterloo-arch-comparison-zh.md) | 三个专业对比中文版 |
 | [健康科学](waterloo-health-sciences-zh.md) | 健康科学项目中文版 |
 | [建筑学 vs. 健康科学对比](architecture-vs-health-sciences-zh.md) | 跨学科对比中文版 |
+| [西安大略大学电气工程 vs. 滑铁卢大学建筑工程对比](western-electrical-vs-waterloo-architectural-engineering-zh.md) | 安省两个CEAB认证工程项目横向对比中文版 |
