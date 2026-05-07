@@ -98,6 +98,51 @@ There are also several **direct-entry Level I programs** (Honours Biology, Integ
 
 For students transitioning from a small high school class, the Year 1 environment is a major adjustment. Most students will not be on a first-name basis with their Year 1 professors.
 
+### Transferring to BHSc After Year 1 (Level 2 Internal Transfer)
+
+This is one of the most-asked questions from Life Sciences students who didn't get a direct BHSc offer in Grade 12. The short answer: **transfer is possible but extremely competitive — only about 20 seats per year against thousands of qualified applicants.**
+
+**Eligibility.** You must:
+- Have completed **exactly one year of undergraduate study** (no more — students with two or more years of post-secondary are ineligible).
+- Have **no prior undergraduate degree**.
+- Submit a **Level II program application** through Mosaic (opens **March/April**).
+- Complete the **mandatory BHSc Level II Supplementary Application** by the deadline.
+- Submit your **final Year 1 transcript** by **June 1**.
+
+**Required Year 1 courses (6+6 units of Bio + Chem):**
+- **BIOLOGY 1A03** (Cellular & Molecular Biology) **and BIOLOGY 1M03** (Biodiversity, Evolution & Humanity) — both required
+- **CHEM 1A03** (Introductory Chemistry I) **and CHEM 1AA3** (Introductory Chemistry II) — both required
+- These are standard Life Sciences Gateway courses, so most Life Sci students will already be enrolled in them. Students from Chemical & Physical Sciences I or other Gateways need to confirm their schedule includes both bio courses.
+
+**GPA threshold:**
+- **Minimum 10.0/12.0 (A−, ~3.7 GPA)** to be considered.
+- **Practical reality:** competitive transfer applicants typically present **11.0+/12.0 (A, ~3.85+ GPA)**. The 10.0 floor gets you reviewed, not admitted.
+
+**Supplementary application:**
+- Same supplementary application format as direct Grade 12 BHSc entry — multiple essay-style prompts evaluating critical thinking, self-awareness, and inquiry-based learning fit.
+- Reviewed by faculty and senior BHSc students (paired blind review).
+- A combination of GPA + supplementary application score determines the offer. **High GPA alone is not enough.**
+
+**Realistic odds:**
+- McMaster targets about **20 transfer seats** per year vs. an applicant pool that includes Life Sci students from McMaster as well as transfer applicants from other Ontario universities.
+- McMaster does not publish a specific transfer admit rate, but consultancy estimates put it at **roughly 3–7%** — comparable to the 4–6% admit rate for direct Grade 12 BHSc entry.
+- Restriction: **Transfer applicants cannot apply to the BHSc Child Health Specialization** — only the regular Honours Health Sciences pathway.
+
+**Tactical advice if transfer is your goal:**
+1. **Target a 3.9+ Year 1 GPA in courses that are visible to the supp app reviewers** (Bio, Chem, English/writing-heavy electives). Reviewers don't see only your GPA — they read the courses you took.
+2. **Take a writing-heavy elective** in Year 1 (e.g., a humanities course requiring 1500+ word essays). The BHSc supplementary application rewards strong written reasoning, and reviewers may notice your course profile.
+3. **Start drafting supp app responses in February.** The supplementary app prompts are intellectually demanding (often abstract questions like "Describe a time you sat with discomfort"). They cannot be drafted well in 48 hours.
+4. **Read recent supp app prompts** on premed101 and MacInsiders — students share examples each spring.
+5. **Have a Plan B for Year 2 program selection.** Apply to Honours Life Sciences (or a specialization) at the same time you apply for BHSc transfer. **You will get the Year 2 program selection result before BHSc transfer notification.** If you don't get the BHSc offer, you should already be enrolled in your Honours Life Sci pathway by then.
+6. **Honest self-assessment:** if your supp app rejection in Grade 12 was due to weak essay-writing rather than weak grades, transfer is unlikely to succeed without genuine improvement. The reviewers are looking for the same writing qualities they evaluated last cycle.
+
+**The honest read:** for 80–90% of Life Sci students who try Level 2 transfer, the answer is no. **Plan your Life Sciences Year 2 program selection (Origins of Disease, Sensory Motor Systems, HESE, Co-op, or flagship Honours) as if transfer will fail.** If transfer succeeds, great — a happy surprise. If you build your Year 1 entirely around the transfer hope, you risk landing in your second-choice Level II Life Sci program because you missed application deadlines.
+
+**Sources for transfer requirements:**
+- [BHSc Level II Program (HHSP)](https://hhsp.healthsci.mcmaster.ca/future-students/level-ii-program/)
+- [BHSc Level 2 Transfer Calendar Entry](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=53&poid=27154)
+- [BHSc How to Apply — Level 2](https://bhsc.mcmaster.ca/future-students/how-to-apply-level-ii/)
+
 ---
 
 ## 3. Admission Requirements & Costs
