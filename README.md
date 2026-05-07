@@ -1,6 +1,6 @@
-# Program Research — University of Waterloo & Sheridan College
+# Program Research — University of Waterloo, McMaster University & Sheridan College
 
-Comparative research documents for university programs (March 2026).
+Comparative research documents for university programs (March–May 2026).
 
 ## Decision Tools
 
@@ -29,6 +29,12 @@ Comparative research documents for university programs (March 2026).
 |----------|-------------|
 | [Health Sciences](waterloo-health-sciences.md) | UWaterloo BHSc program details, streams, career outcomes |
 
+## Pre-Medical Pathways (McMaster University)
+
+| Document | Description |
+|----------|-------------|
+| [Honours Life Sciences (BSc)](mcmaster-life-sciences.md) | McMaster Life Sci program: med school admission %, MCAT/CASPer/MMI tactics, alternative careers (dentistry, PA, optometry, biostat, etc.), year-by-year action plan, 12-factor decision framework |
+
 ## Job Search Resources
 
 | Document | Description |
@@ -53,5 +59,6 @@ Comparative research documents for university programs (March 2026).
 | [BASc 建筑工程](waterloo-architectural-engineering-zh.md) | 建筑工程项目中文版 |
 | [建筑学 vs. 建筑工程 vs. 3D动画对比](waterloo-arch-comparison-zh.md) | 三个专业对比中文版 |
 | [健康科学](waterloo-health-sciences-zh.md) | 健康科学项目中文版 |
+| [麦克马斯特生命科学（医学预科）](mcmaster-life-sciences-zh.md) | 麦克马斯特荣誉生命科学项目中文版：医学院录取率、MCAT/CASPer/MMI 策略、备选职业、4年规划、决策框架 |
 | [建筑学 vs. 健康科学对比](architecture-vs-health-sciences-zh.md) | 跨学科对比中文版 |
 | [西安大略大学电气工程 vs. 滑铁卢大学建筑工程对比](western-electrical-vs-waterloo-architectural-engineering-zh.md) | 安省两个CEAB认证工程项目横向对比中文版 |
