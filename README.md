@@ -11,6 +11,7 @@ Deep, ~70K-word research reports following a consistent 15-section format: execu
 | **McMaster Honours Life Sciences (BSc)** — Med school pipeline, MCAT/CASPer/MMI tactics, realistic admission probabilities, alternative health careers (dentistry, PA, optometry, biostat), year-by-year action plan | [mcmaster-life-sciences.md](mcmaster-life-sciences.md) | [中文版](mcmaster-life-sciences-zh.md) |
 | **Waterloo Architectural Engineering (BASc Co-op)** — 5-year CEAB program (accredited 2023), mandatory 5-term co-op (~$82K–$92K earnings), direct P.Eng. pathway (~3 yrs post-grad), Cambridge year, building industry outlook | [waterloo-architectural-engineering.md](waterloo-architectural-engineering.md) | [中文版](waterloo-architectural-engineering-zh.md) |
 | **Western Electrical Engineering (BESc)** — 4-year CEAB program (continuous since 1965), optional 12–16 mo internship (~$50K/yr), P.Eng. pathway, three Year-4 specialization streams, EE+HBA / EE+JD / EE+AI dual degrees | [western-electrical-engineering.md](western-electrical-engineering.md) | [中文版](western-electrical-engineering-zh.md) |
+| **University of Ottawa Civil Engineering (BASc)** — 4-year CEAB program (continuous since 1971), bilingual instruction (Year 1–2 in French/English), optional co-op (~16 mo), four specialization tracks (Structural / Geotechnical / Water Resources / Environmental), Civil + Computing Technology dual degree, federal government employer access | [uottawa-civil-engineering.md](uottawa-civil-engineering.md) | [中文版](uottawa-civil-engineering-zh.md) |
 
 ## Decision Tools
 
