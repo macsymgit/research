@@ -1,6 +1,16 @@
-# Program Research — University of Waterloo, McMaster University & Sheridan College
+# Program Research — University of Waterloo, McMaster University, Western University & Sheridan College
 
 Comparative research documents for university programs (March–May 2026).
+
+## Comprehensive Research Reports
+
+Deep, ~70K-word research reports following a consistent 15-section format: executive summary (TL;DR for parents and students), program overview, admission requirements & costs, professional pathway, co-op/internship details, curriculum, graduate outcomes, job market & AI analysis, alternative career paths, year-by-year action plan, success tactics, ROI analysis, 12-factor decision framework, quick stats, and sources. All numeric claims trace to authoritative sources with live-source verification.
+
+| Program | English | Chinese (中文版) |
+|---------|---------|------------------|
+| **McMaster Honours Life Sciences (BSc)** — Med school pipeline, MCAT/CASPer/MMI tactics, realistic admission probabilities, alternative health careers (dentistry, PA, optometry, biostat), year-by-year action plan | [mcmaster-life-sciences.md](mcmaster-life-sciences.md) | [中文版](mcmaster-life-sciences-zh.md) |
+| **Waterloo Architectural Engineering (BASc Co-op)** — 5-year CEAB program (accredited 2023), mandatory 5-term co-op (~$82K–$92K earnings), direct P.Eng. pathway (~3 yrs post-grad), Cambridge year, building industry outlook | [waterloo-architectural-engineering.md](waterloo-architectural-engineering.md) | [中文版](waterloo-architectural-engineering-zh.md) |
+| **Western Electrical Engineering (BESc)** — 4-year CEAB program (continuous since 1965), optional 12–16 mo internship (~$50K/yr), P.Eng. pathway, three Year-4 specialization streams, EE+HBA / EE+JD / EE+AI dual degrees | [western-electrical-engineering.md](western-electrical-engineering.md) | [中文版](western-electrical-engineering-zh.md) |
 
 ## Decision Tools
 
@@ -9,12 +19,23 @@ Comparative research documents for university programs (March–May 2026).
 | [Self-Reflection Questions](decision-questions.md) | 32-question guided self-interview to decide between Architecture, Architectural Engineering, 3D Animation, and Health Sciences |
 | [自我审视问题（中文版）](decision-questions-zh.md) | 决策问题清单中文版（含3D动画） |
 
+## Comparisons
+
+| Document | Description |
+|----------|-------------|
+| [Architecture vs. Arch. Engineering vs. 3D Animation](waterloo-arch-comparison.md) | 3-program comparison: admission, curriculum, salary trajectories, ROI, AI risk, decision matrix |
+| [建筑学 vs. 建筑工程 vs. 3D动画对比（中文版）](waterloo-arch-comparison-zh.md) | 三个专业对比中文版 |
+| [Architecture vs. Health Sciences](architecture-vs-health-sciences.md) | Cross-discipline comparison of Architecture and Health Sciences programs |
+| [建筑学 vs. 健康科学对比（中文版）](architecture-vs-health-sciences-zh.md) | 跨学科对比中文版 |
+| [Western Electrical Eng. vs. Waterloo Architectural Eng.](western-electrical-vs-waterloo-architectural-engineering.md) | Two CEAB-accredited Ontario engineering programs: admissions, co-op vs. EDI, curriculum, salaries, AI exposure, 12-question decision framework |
+| [西安大略电气工程 vs. 滑铁卢建筑工程对比（中文版）](western-electrical-vs-waterloo-architectural-engineering-zh.md) | 安省两个CEAB认证工程项目横向对比中文版 |
+
 ## Architecture Programs (University of Waterloo)
 
 | Document | Description |
 |----------|-------------|
 | [BAS + MArch (Architecture)](waterloo-architecture.md) | Co-op details, OAA licensing pathway (~9–11 years), career outcomes, Rome semester, AI impact analysis |
-| [BASc Architectural Engineering](waterloo-architectural-engineering.md) | 5-year CEAB-accredited program, 5 co-op terms, direct P.Eng. pathway, building systems specializations |
+| [建筑学（中文版）](waterloo-architecture-zh.md) | BAS + MArch 建筑学项目中文版 |
 
 ## 3D Animation (Sheridan College)
 
@@ -28,12 +49,7 @@ Comparative research documents for university programs (March–May 2026).
 | Document | Description |
 |----------|-------------|
 | [Health Sciences](waterloo-health-sciences.md) | UWaterloo BHSc program details, streams, career outcomes |
-
-## Pre-Medical Pathways (McMaster University)
-
-| Document | Description |
-|----------|-------------|
-| [Honours Life Sciences (BSc)](mcmaster-life-sciences.md) | McMaster Life Sci program: med school admission %, MCAT/CASPer/MMI tactics, alternative careers (dentistry, PA, optometry, biostat, etc.), year-by-year action plan, 12-factor decision framework |
+| [健康科学（中文版）](waterloo-health-sciences-zh.md) | 健康科学项目中文版 |
 
 ## Job Search Resources
 
@@ -42,23 +58,3 @@ Comparative research documents for university programs (March–May 2026).
 | [Job Search Guide](job-search-guide.md) | Comprehensive guide to job boards, industry portals, recruiting agencies, and career resources in Canada & US for all three fields |
 | [求职指南（中文版）](job-search-guide-zh.md) | 求职资源指南中文版 |
 | [Latest Job Postings (Mar 2026)](latest-job-postings.md) | Snapshot of real job postings from Archinect, ASHRAE, ASCE, ArtStation, major studios, LinkedIn, Indeed, and more |
-
-## Comparisons
-
-| Document | Description |
-|----------|-------------|
-| [Architecture vs. Arch. Engineering vs. 3D Animation](waterloo-arch-comparison.md) | 3-program comparison: admission, curriculum, salary trajectories, ROI, AI risk, decision matrix |
-| [Architecture vs. Health Sciences](architecture-vs-health-sciences.md) | Cross-discipline comparison of Architecture and Health Sciences programs |
-| [Western Electrical Eng. vs. Waterloo Architectural Eng.](western-electrical-vs-waterloo-architectural-engineering.md) | Two CEAB-accredited Ontario engineering programs: admissions, co-op vs. EDI, curriculum, salaries, AI exposure, 12-question decision framework |
-
-## Chinese Translations (中文版)
-
-| Document | Description |
-|----------|-------------|
-| [BAS + MArch（建筑学）](waterloo-architecture-zh.md) | 建筑学项目中文版 |
-| [BASc 建筑工程](waterloo-architectural-engineering-zh.md) | 建筑工程项目中文版 |
-| [建筑学 vs. 建筑工程 vs. 3D动画对比](waterloo-arch-comparison-zh.md) | 三个专业对比中文版 |
-| [健康科学](waterloo-health-sciences-zh.md) | 健康科学项目中文版 |
-| [麦克马斯特生命科学（医学预科）](mcmaster-life-sciences-zh.md) | 麦克马斯特荣誉生命科学项目中文版：医学院录取率、MCAT/CASPer/MMI 策略、备选职业、4年规划、决策框架 |
-| [建筑学 vs. 健康科学对比](architecture-vs-health-sciences-zh.md) | 跨学科对比中文版 |
-| [西安大略大学电气工程 vs. 滑铁卢大学建筑工程对比](western-electrical-vs-waterloo-architectural-engineering-zh.md) | 安省两个CEAB认证工程项目横向对比中文版 |
