@@ -31,6 +31,8 @@ Deep, ~70K-word research reports following a consistent 15-section format: execu
 | [建筑学 vs. 健康科学对比（中文版）](architecture-vs-health-sciences-zh.md) | 跨学科对比中文版 |
 | [Western Electrical Eng. vs. Waterloo Architectural Eng.](western-electrical-vs-waterloo-architectural-engineering.md) | Two CEAB-accredited Ontario engineering programs: admissions, co-op vs. EDI, curriculum, salaries, AI exposure, 12-question decision framework |
 | [西安大略电气工程 vs. 滑铁卢建筑工程对比（中文版）](western-electrical-vs-waterloo-architectural-engineering-zh.md) | 安省两个CEAB认证工程项目横向对比中文版 |
+| [McMaster Life Sciences vs. Western Medical Sciences (BMSc)](mcmaster-life-vs-western-medical-sciences.md) | Two Ontario pre-medical pipelines compared: which gives a better shot at MD admission? Mac MD's CARS-only/CASPer-32% formula vs. Schulich's best-2-years GPA + panel interview; per-school structural fit; alternative health careers; 12-factor decision matrix |
+| [麦克马斯特生命科学 vs. 西安大略医学科学对比（中文版）](mcmaster-life-vs-western-medical-sciences-zh.md) | 安省两个医学预科管道横向对比中文版 |
 
 ## Architecture Programs (University of Waterloo)
 
