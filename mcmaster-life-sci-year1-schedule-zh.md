@@ -21,8 +21,8 @@
 | **冬季** | BIOLOGY 1M03 — 生物多样性、演化与人类 | 3 | Gateway 核心 | ✅ 已选 |
 | 冬季 | CHEM 1AA3 — 普通化学 II | 3 | Gateway 核心 | ✅ 已选 |
 | 冬季 | PHYSICS 1A03 — 普通物理 | 3 | Gateway 核心 | ✅ 已选 — 官方 Gateway 把物理排在一年级 |
-| 冬季 | **ENVIRSC 1C03 — 气候、水与环境** ⬅ **新增** | 3 | Gateway 核心 | 官方 Gateway 清单中的必修课 |
-| 冬季 | **PSYCH 1XX3 — 心理学、神经科学与行为学导论 II** ⬅ **新增** | 3 | 选修 | 1X03 的延续课；更多 MCAT 心理/社会内容 |
+| 冬季 | **PSYCH 1XX3 — 心理学、神经科学与行为学导论 II** ⬅ **新增** | 3 | 选修 + 二级要求 | 1X03 的延续课；更多 MCAT 心理/社会内容。**满足 Honours Life Sci 二级"四选一"要求**（EARTHSC 1G03 / ENVIRSC 1C03 / PSYCH 1XX3 / PSYCH 1FF3）。*备选：**EARTHSC 1G03**，公认的 GPA 友好"水课"。* |
+| 冬季 | **SUSTAIN 1S03 — 可持续发展** ⬅ **新增** | 3 | 选修 | GPA 友好的凑学分选修，顶替时段冲突的 ENVIRSC 1C03（你并不需要它——二级的环境/心理要求已由 PSYCH 1XX3 满足）。*在 Mosaic 里确认时间不冲突；这一位换成任何 GPA 友好选修都行。* |
 | 冬季 | WHMIS 1A00 — 健康与安全 | 0 | 强制 | ✅ 已选 |
 
 **总学分：** 30（标准满课负荷 = 5 门 + 5 门）
@@ -39,7 +39,7 @@
 |---|---|---|---|
 | **课量不足（最关键）** | 18 学分 / 6 门课 | **加 4 门课 → 30 学分** | 18 学分的一年级无法完成一级（Level I），会拖慢毕业（Honours 理学士共 120 学分），还可能**丧失可续期的入学奖学金**（需要 30 学分满课负荷）。每学期 9 学分只能勉强保住"全日制"身份。 |
 | 缺 Gateway 核心：**PSYCH 1X03** | 未选 | **秋季补上** | 官方列为 Gateway 必修课；MCAT 心理/社会备考 |
-| 缺 Gateway 核心：**ENVIRSC 1C03** | 未选 | **冬季补上** | 官方列为 Gateway 必修课 |
+| 二级"四选一"要求 | **已由 PSYCH 1XX3 满足** | **放弃时段冲突的 ENVIRSC 1C03；该位用 GPA 友好选修（SUSTAIN 1S03）填** | Honours Life Sci 需要 {EARTHSC 1G03, ENVIRSC 1C03, PSYCH 1XX3, PSYCH 1FF3} 四选一——PSYCH 1XX3 已覆盖。ENVIRSC 1C03 时段冲突，但它并非必需。**若 PSYCH 1XX3 落空，EARTHSC 1G03 是 GPA 友好的备选。** |
 | 缺 **6 学分选修** | 无 | **ASTRON 1F03（秋）+ PSYCH 1XX3（冬）** | 凑满 30 学分；按 GPA 安全 + MCAT 相关性挑选 |
 
 **你已经做对的地方：** 两门安全培训（BIOSAFE 1BS0、WHMIS 1A00）都已选；三对理科课位置正确；而且 **PHYSICS 1A03 排在一年级符合官方 Gateway**（这一点更新了本方案早前的草稿——草稿曾假设物理可以推到二年级）。
@@ -49,10 +49,10 @@
 ## 为什么这样排 — 简要理由
 
 **1. Gateway 课程现已全覆盖。**
-官方 Life Sciences Gateway 一年级 = 8 门核心课（BIO 1A03/1M03、CHEM 1A03/1AA3、MATH 1LS3、PHYSICS 1A03、PSYCH 1X03、ENVIRSC 1C03）+ 6 学分选修。这份课表全部命中。
+官方 Life Sciences Gateway 一年级 = 8 门典型课程（BIO 1A03/1M03、CHEM 1A03/1AA3、MATH 1LS3、PHYSICS 1A03、PSYCH 1X03、ENVIRSC 1C03）+ 6 学分选修。唯一偏离：**放弃 ENVIRSC 1C03**（其冬季时段冲突），改由 **PSYCH 1XX3 满足 Honours Life Sci 二级"四选一"要求** {EARTHSC 1G03 / ENVIRSC 1C03 / PSYCH 1XX3 / PSYCH 1FF3}，**EARTHSC 1G03 为 GPA 友好备选**。空出的冬季一位用 GPA 友好选修（SUSTAIN 1S03）填满，保住 30 学分。（MAPSci 把这八门列为*典型*一年级课程，并非硬性必修清单——真正的硬约束是 30 学分满课负荷与你具体二级专业的先修课。）
 
 **2. GPA 风险均衡，且最难的学期受到保护。**
-秋季扛着两门最大的"淘汰课"（CHEM 1A03、BIO 1A03）外加 MATH 1LS3 和 PSYCH 1X03，所以秋季选修选了**最轻**的一门（ASTRON 1F03）。冬季把 BIO 1M03、CHEM 1AA3、PHYSICS、ENVIRSC 摊开，再加一门可预期的 PSYCH 延续课。
+秋季扛着两门最大的"淘汰课"（CHEM 1A03、BIO 1A03）外加 MATH 1LS3 和 PSYCH 1X03，所以秋季选修选了**最轻**的一门（ASTRON 1F03）。冬季把 BIO 1M03、CHEM 1AA3、PHYSICS、SUSTAIN 1S03 摊开，再加一门可预期的 PSYCH 1XX3。
 
 **3. 选修课兼顾医学预科战略。**
 PSYCH 1X03 → PSYCH 1XX3 凑成完整的心理学导论序列，对应 MCAT 心理/社会部分；ASTRON 1F03 则在最关键的学期提供低风险的 GPA 缓冲。
@@ -63,14 +63,14 @@ PSYCH 1X03 → PSYCH 1XX3 凑成完整的心理学导论序列，对应 MCAT 心
 
 ### 选课系统开放之前
 - [ ] **确认二级目标专业。** 打开 `mapsci.ca`，把目标的 2–3 个二级专业的一年级先修课逐一列出。**若有任何专业要求 MATH 1LS3 + 1LT3 配对，就把冬季 PSYCH 1XX3 → MATH 1LT3 替换。**
-- [ ] **在 Mosaic 里核对学期与选课资格：** ASTRON 1F03（秋季）和 PSYCH 1XX3（冬季）——确认这两门当学期确实开课，且对 Life Sci 一级学生开放，再依赖它们。
+- [ ] **在 Mosaic 里核对学期与选课资格：** ASTRON 1F03（秋季）、PSYCH 1XX3（冬季）和 SUSTAIN 1S03（冬季）——确认它们当学期确实开课、对 Life Sci 一级学生开放、且时间不冲突，再依赖它们。
 - [ ] **去 Simple Syllabus 看每门选修课的最新教学大纲** — 任课教师和评分方案每年都会变。
 - [ ] **去 Rate My Courses（`ratemycourses.io/mcmaster`）核对**每门选修课当前任课教师的口碑。
 
 ### 选课系统开放之后
 - [ ] 核心 BIO + CHEM + MATH + PHYSICS 已经选好 — 确认保留不动。
 - [ ] 尽早抢 **PSYCH 1X03**（秋）和 **PSYCH 1XX3**（冬）— 热门，满得快。
-- [ ] 选 **ENVIRSC 1C03**（冬）。
+- [ ] 选 **SUSTAIN 1S03**（冬）— 顶替时段冲突的 ENVIRSC 1C03 的 GPA 友好选修（换成任何 GPA 友好选修都行）。先确认其时间不冲突。*（二级的环境/心理要求由 PSYCH 1XX3 覆盖；若 PSYCH 1XX3 冲突，**EARTHSC 1G03** 为备选。）*
 - [ ] 选 **ASTRON 1F03**（秋）— 一般容量充足。
 - [ ] 每加一门课后**重新检查时间冲突**，尤其注意秋季周四那个时段（见下）。
 
@@ -90,8 +90,8 @@ PSYCH 1X03 → PSYCH 1XX3 凑成完整的心理学导论序列，对应 MCAT 心
 | 抢不到 | 替代为 |
 |---|---|
 | ASTRON 1F03 | **ECON 1B03**（微观经济学）— GPA 友好；满足社会科学广度学分 |
-| PSYCH 1XX3 | **SOCIOL 1Z03** — 覆盖 MCAT 心理/社会的社会学内容；或 **ANTHROP 1AA3**（性、食物与死亡） |
-| ENVIRSC 1C03（若满） | **SUSTAIN 1S03** — 麦马士特特色小班探究课，同为环境主题 |
+| PSYCH 1XX3 *（同时是你的二级"四选一"要求）* | **EARTHSC 1G03** — GPA 友好水课；或 **PSYCH 1FF3** / **ENVIRSC 1C03**。⚠️ 替代课**必须仍在这四门清单内**才能保住 Honours Life Sci 要求——SOCIOL 1Z03 / ANTHROP 1AA3 **不算**。 |
+| SUSTAIN 1S03 *（凑学分的那一位）* | **ECON 1B03**、**INDIGST 1A03/1AA3**、**SOCIOL 1Z03** 或 **ANTHROP 1AA3** — 任何 GPA 友好选修；这一位只需凑满学分 |
 | 任一 GPA 安全位 | **INDIGST 1A03 / 1AA3** — 小班好评，且能提前完成原住民研究的毕业要求 |
 
 **仅对 BHSc 二级转专业考虑者：** 把其中一门 GPA 提分选修换成写作较重的人文课，比如 **PHILOS 1B03**（生物医学伦理学）或 **ENGLISH 1A03**。审核老师看重显性写作训练。
@@ -127,4 +127,4 @@ PSYCH 1X03 → PSYCH 1XX3 凑成完整的心理学导论序列，对应 MCAT 心
 
 ---
 
-> ***底线结论：*** *你在 Mosaic 的实际选课只有 18 学分——半个课负荷——缺了 PSYCH 1X03、ENVIRSC 1C03 以及 6 学分选修。秋季补 PSYCH 1X03 + ASTRON 1F03、冬季补 ENVIRSC 1C03 + PSYCH 1XX3，就能凑满 30 学分的完整 Gateway 一年级。选课锁定前，把本页带去找学术辅导员核对。*
+> ***底线结论：*** *你在 Mosaic 的实际选课只有 18 学分——半个课负荷——缺了 PSYCH 1X03、环境 Gateway 位以及 6 学分选修。秋季补 PSYCH 1X03 + ASTRON 1F03、冬季补 SUSTAIN 1S03（顶替时段冲突的 ENVIRSC 1C03）+ PSYCH 1XX3，就能凑满 30 学分的完整 Gateway 一年级。选课锁定前，把本页带去找学术辅导员核对。*

@@ -12,8 +12,8 @@
 |---|--------|--------|
 | 1 | **Add PSYCH 1X03 to Fall** | Required Gateway core course you're missing. Covers MCAT Psych/Social content. Front-loads the intro-psych sequence. |
 | 2 | **Add ASTRON 1F03 to Fall** | Reaches the 30-unit full load. Chosen as a GPA-safe, objective-exam "bird" course to protect your hardest term (CHEM 1A03 + BIO 1A03 are the big weed-outs). |
-| 3 | **Add ENVIRSC 1C03 to Winter** | Required Gateway core course you're missing. Completes the official 8-course Gateway list. |
-| 4 | **Add PSYCH 1XX3 to Winter** | Reaches the 30-unit full load. Direct continuation of PSYCH 1X03 → more MCAT Psych/Social content, predictable format. |
+| 3 | **Add SUSTAIN 1S03 to Winter (GPA-safe elective)** | ENVIRSC 1C03's Winter section conflicts — and it isn't needed, because PSYCH 1XX3 already covers the Level II env/psych requirement (see #4). SUSTAIN 1S03 just fills the unit slot to reach 30; any GPA-safe elective works here (ECON 1B03, INDIGST 1A03/1AA3, etc.). |
+| 4 | **Add PSYCH 1XX3 to Winter** | Reaches the 30-unit full load **and satisfies the Honours Life Sci Level II "1 of four" requirement** (EARTHSC 1G03 / ENVIRSC 1C03 / PSYCH 1XX3 / PSYCH 1FF3). Continuation of PSYCH 1X03 → more MCAT Psych/Social content. **Backup: EARTHSC 1G03 (GPA-easy bird course)** — any backup must stay on the four-course list (SOCIOL/ANTHROP do *not* count). |
 | 5 | **Keep BIOSAFE 1BS0 + WHMIS 1A00** | Mandatory 0-unit safety certifications. Required for lab access in BIO/CHEM. Don't affect GPA or unit count. |
 | 6 | **Conditional swap: Winter PSYCH 1XX3 → MATH 1LT3** | *Only if* your Level II target (e.g. Biology, Biochem) requires the MATH 1LS3 + 1LT3 calculus pair. Otherwise defer 1LT3 to Year 2. |
 | 7 | **Verify Fall Thursday lab/tutorial in Mosaic** | BIO 1A03 Lab (Th 1:30–4:20) and Tutorial (Th 1:30–2:20) both start Thu 1:30 PM. Normally alternating weeks — confirm no single week actually collides. |
