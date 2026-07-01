@@ -1,78 +1,78 @@
 # McMaster Life Sciences — Year 1 Schedule Plan (2026–27)
 
 **Prepared:** 2026-05-11
-**Updated:** 2026-06-24 — reconciled against the **official Life Sciences Gateway** course list and the student's **actual Mosaic enrollment**.
+**Updated:** 2026-06-30 — **enrollment confirmed and locked in Mosaic.** This now records the student's **final Year 1 enrollment** (30 units), with the two deviations from the earlier draft plan noted below.
 **Purpose:** Personal Year 1 course enrollment plan for McMaster Life Sciences Gateway (Level I), with rationale and verification checklist.
 **Anchor docs:** [`mcmaster-life-sciences.md`](mcmaster-life-sciences.md), [`mcmaster-life-vs-western-medical-sciences.md`](mcmaster-life-vs-western-medical-sciences.md)
 
 ---
 
-## TL;DR — Final Recommended Schedule (30 units)
+## TL;DR — Final Confirmed Schedule (30 units, locked in Mosaic)
 
 | Term | Course | Units | Type | Notes |
 |---|---|---|---|---|
-| **Fall** | BIOLOGY 1A03 — Cellular & Molecular Biology | 3 | Gateway core | ✅ already enrolled |
-| Fall | CHEM 1A03 — Introductory Chemistry I | 3 | Gateway core | ✅ already enrolled — highest GPA-risk course in Y1 |
-| Fall | MATH 1LS3 — Calculus for Life Sci I | 3 | Gateway core | ✅ already enrolled |
-| Fall | **PSYCH 1X03 — Intro Psych, Neuroscience & Behaviour I** ⬅ **ADD** | 3 | Gateway core | MCAT P/S prep; required in the official Gateway list |
-| Fall | **ASTRON 1F03 — Introductory Astronomy** ⬅ **ADD** | 3 | Elective | GPA-safe objective-exam course to protect your hardest term |
-| Fall | BIOSAFE 1BS0 — Biosafety Training | 0 | Mandatory | ✅ already enrolled |
-| Fall | WHMIS 1A00 — Health & Safety | 0 | Mandatory | ✅ already enrolled |
-| **Winter** | BIOLOGY 1M03 — Biodiversity, Evolution & Humanity | 3 | Gateway core | ✅ already enrolled |
-| Winter | CHEM 1AA3 — Introductory Chemistry II | 3 | Gateway core | ✅ already enrolled |
-| Winter | PHYSICS 1A03 — Introductory Physics | 3 | Gateway core | ✅ already enrolled — official Gateway places Physics in Y1 |
-| Winter | **PSYCH 1XX3 — Intro Psych, Neuroscience & Behaviour II** ⬅ **ADD** | 3 | Elective + Level II req | Continuation of 1X03; more MCAT P/S content. **Satisfies the Honours Life Sci Level II "1 of four" requirement** (EARTHSC 1G03 / ENVIRSC 1C03 / PSYCH 1XX3 / PSYCH 1FF3). *Backup: **EARTHSC 1G03**, a known GPA-easy bird course.* |
-| Winter | **SUSTAIN 1S03 — Sustainability** ⬅ **ADD** | 3 | Elective | GPA-safe elective to reach 30 units, replacing the conflicting ENVIRSC 1C03 (which you don't need — the Level II env/psych requirement is already met by PSYCH 1XX3). *Verify its time slot is clear in Mosaic; any GPA-safe elective works here.* |
-| Winter | WHMIS 1A00 — Health & Safety | 0 | Mandatory | ✅ already enrolled |
+| **Fall** | BIOLOGY 1A03 — Cellular & Molecular Biology | 3 | Gateway core | ✅ enrolled |
+| Fall | CHEM 1A03 — Introductory Chemistry I | 3 | Gateway core | ✅ enrolled — highest GPA-risk course in Y1 |
+| Fall | MATH 1LS3 — Calculus for Life Sci I | 3 | Gateway core | ✅ enrolled |
+| Fall | PSYCH 1X03 — Intro Psych, Neuroscience & Behaviour I | 3 | Gateway core | ✅ enrolled — MCAT P/S prep; required in the official Gateway list |
+| Fall | **EARTHSC 1G03 — Earth & The Environment** | 3 | Elective + Level II req | ✅ enrolled — GPA-safe bird course **and** satisfies the Honours Life Sci Level II "1 of four" requirement (EARTHSC 1G03 / ENVIRSC 1C03 / PSYCH 1XX3 / PSYCH 1FF3). *Replaced the earlier draft's ASTRON 1F03 — does double duty.* |
+| Fall | BIOSAFE 1BS0 — Biosafety Training | 0 | Mandatory | ✅ enrolled |
+| Fall | WHMIS 1A00 — Health & Safety | 0 | Mandatory | ✅ enrolled |
+| **Winter** | BIOLOGY 1M03 — Biodiversity, Evolution & Humanity | 3 | Gateway core | ✅ enrolled |
+| Winter | CHEM 1AA3 — Introductory Chemistry II | 3 | Gateway core | ✅ enrolled |
+| Winter | PHYSICS 1A03 — Introductory Physics | 3 | Gateway core | ✅ enrolled — official Gateway places Physics in Y1 |
+| Winter | PSYCH 1XX3 — Foundations of Psych, Neuroscience & Behaviour II | 3 | Elective | ✅ enrolled — continuation of 1X03; more MCAT P/S content. (Level II "1 of four" requirement is already met by EARTHSC 1G03, so this now serves purely as MCAT-relevant GPA cushion.) |
+| Winter | **ENVSOCTY 1HA3 — Society, Culture & Environment** | 3 | Elective | ✅ enrolled — GPA-safe elective filling the 30-unit slot. *Replaced the earlier draft's SUSTAIN 1S03; any GPA-safe elective works here.* |
 
 **Total units:** 30 (standard full course load = 5 courses + 5 courses)
 
-> **Math note:** The Gateway requires only **MATH 1LS3**, so this 30-unit plan is valid as-is. *If your Level II target requires the **MATH 1LS3 + 1LT3** pair (e.g. Biology, Biochemistry, math-heavy Pharmacology streams), swap the Winter elective **PSYCH 1XX3 → MATH 1LT3**.* Otherwise take MATH 1LT3 in Year 2.
+> **Math note — MATH 1LT3 deferred.** The Gateway requires only **MATH 1LS3**, so this 30-unit plan is complete as-is. **MATH 1LT3 was intentionally left out of Winter** to keep the term balanced (3 hard sciences + 2 lighter courses) rather than stacking four quantitative courses. *Only an issue if a Level II target requires the **MATH 1LS3 + 1LT3** pair (e.g. Biology, Biochemistry, math-heavy Pharmacology streams) — if so, take MATH 1LT3 next Winter (Year 2). Confirm on `mapsci.ca` once the Level II choice is narrowed.*
 
 ---
 
-## Changes vs. Your Actual Mosaic Enrollment
+## Final Enrollment — Confirmed & Locked (30 units)
 
-Your current Mosaic enrollment is **only 18 units (6 academic courses)** — exactly **half a course load**. A standard full Year-1 load is **30 units (15 + 15)**.
+Enrollment is **complete at 30 units (15 + 15)** — a full standard Year-1 load. This resolved the earlier under-load problem (the first draft had only 18 units / half a load) and both terms are **time-conflict-free** (verified 2026-06-30).
 
-| Issue | Your enrollment | Fix | Why it matters |
+**Two deviations from the earlier draft plan — both are improvements:**
+
+| Slot | Draft plan | Final enrollment | Why the change is good |
 |---|---|---|---|
-| **Under-load (the big one)** | 18 units / 6 courses | **Add 4 courses → 30 units** | An 18-unit year does not complete Level I, delays graduation (Honours BSc = 120 units), and can **forfeit renewable entrance scholarships** (which require a 30-unit full load). 9 units/term keeps "full-time" status only. |
-| Missing Gateway core: **PSYCH 1X03** | not enrolled | **Add in Fall** | Listed as a required Gateway course; MCAT P/S prep |
-| Level II "1 of four" requirement | **already met by PSYCH 1XX3** | **Drop the conflicting ENVIRSC 1C03; fill the slot with a GPA-safe elective (SUSTAIN 1S03)** | Honours Life Sci needs 1 of {EARTHSC 1G03, ENVIRSC 1C03, PSYCH 1XX3, PSYCH 1FF3} — PSYCH 1XX3 covers it. ENVIRSC 1C03's section conflicted, but it's not required. **EARTHSC 1G03 is the GPA-easy backup if PSYCH 1XX3 falls through.** |
-| Missing **6 units of electives** | none | **ASTRON 1F03 (F) + PSYCH 1XX3 (W)** | Reach 30 units; chosen for GPA safety + MCAT relevance |
+| Fall elective | ASTRON 1F03 | **EARTHSC 1G03** | EARTHSC 1G03 is an equally GPA-safe bird course **and** is on the Level II "1 of four" list — so the Level II requirement is now satisfied in Fall, not deferred to a Winter course. Does double duty. |
+| Winter elective | SUSTAIN 1S03 | **ENVSOCTY 1HA3** | Equivalent GPA-safe breadth filler; only needs to fill the 30-unit slot. |
+| Winter quantitative | (PSYCH 1XX3 + SUSTAIN) | **PSYCH 1XX3 + ENVSOCTY 1HA3; MATH 1LT3 NOT taken** | Keeps Winter balanced at 3 hard sciences + 2 lighter courses. MATH 1LT3 deferred to Year 2 (take it only if a Level II target needs the calculus pair). |
 
-**What you already got right:** both safety trainings (BIOSAFE 1BS0, WHMIS 1A00) are in; the three science pairs are correctly placed; and **PHYSICS 1A03 in Year 1 matches the official Gateway** (this supersedes the earlier draft of this plan, which assumed Physics could wait until Year 2).
+**Everything else matches the plan:** all Gateway cores in the right terms (incl. PSYCH 1X03 in Fall and PHYSICS 1A03 in Year 1, per the official Gateway), both safety trainings (BIOSAFE 1BS0, WHMIS 1A00) in, and the full PSYCH 1X03 → 1XX3 sequence for MCAT Psych/Social is complete.
+
+**Net effect on requirements:**
+- **Level II "1 of four"** {EARTHSC 1G03, ENVIRSC 1C03, PSYCH 1XX3, PSYCH 1FF3} — **double-covered** (EARTHSC 1G03 *and* PSYCH 1XX3).
+- **30-unit full load** — intact (protects renewable entrance scholarship + Level I completion).
+- **MCAT P/S** — full intro-psych sequence done.
 
 ---
 
 ## Why This Works — Quick Rationale
 
-**1. Gateway coverage is now complete.**
-The official Life Sciences Gateway first year = 8 typical courses (BIO 1A03/1M03, CHEM 1A03/1AA3, MATH 1LS3, PHYSICS 1A03, PSYCH 1X03, ENVIRSC 1C03) + 6 units of electives. The one deviation: **ENVIRSC 1C03 is dropped** (its Winter section conflicts), and **PSYCH 1XX3 satisfies the Honours Life Sci Level II "1 of four" requirement** {EARTHSC 1G03 / ENVIRSC 1C03 / PSYCH 1XX3 / PSYCH 1FF3} in its place — with **EARTHSC 1G03 as the GPA-easy backup**. The freed Winter slot is filled by a GPA-safe elective (SUSTAIN 1S03) to keep 30 units. (MAPSci lists the eight as *typical* first-year courses, not a rigid required list — the binding constraints are a 30-unit full load and your specific Level II prerequisites.)
+**1. Gateway coverage is complete.**
+The official Life Sciences Gateway first year = 8 typical courses (BIO 1A03/1M03, CHEM 1A03/1AA3, MATH 1LS3, PHYSICS 1A03, PSYCH 1X03, ENVIRSC 1C03) + 6 units of electives. ENVIRSC 1C03 is replaced by **EARTHSC 1G03**, which both satisfies the Honours Life Sci Level II "1 of four" requirement {EARTHSC 1G03 / ENVIRSC 1C03 / PSYCH 1XX3 / PSYCH 1FF3} and serves as a GPA-safe elective. (MAPSci lists the eight as *typical* first-year courses, not a rigid required list — the binding constraints are a 30-unit full load and your specific Level II prerequisites.)
 
 **2. GPA risk is balanced and the hardest term is protected.**
-Fall carries the two biggest weed-outs (CHEM 1A03, BIO 1A03) plus MATH 1LS3 and PSYCH 1X03 — so the Fall elective is the *lightest* option (ASTRON 1F03). Winter spreads BIO 1M03, CHEM 1AA3, PHYSICS, SUSTAIN 1S03 + a predictable PSYCH continuation.
+Fall carries the two biggest weed-outs (CHEM 1A03, BIO 1A03) plus MATH 1LS3 and PSYCH 1X03 — with EARTHSC 1G03 as the light GPA-safe elective. Winter keeps a 3-hard-science + 2-lighter balance (BIO 1M03, CHEM 1AA3, PHYSICS + PSYCH 1XX3, ENVSOCTY 1HA3) by **leaving MATH 1LT3 out** rather than stacking four quantitative courses in one term.
 
 **3. Premed-strategic electives.**
-PSYCH 1X03 → PSYCH 1XX3 builds the full intro-psych sequence that feeds the MCAT Psych/Social section, while ASTRON 1F03 gives a low-risk GPA cushion in the term that matters most.
+PSYCH 1X03 → PSYCH 1XX3 builds the full intro-psych sequence that feeds the MCAT Psych/Social section; EARTHSC 1G03 and ENVSOCTY 1HA3 give low-risk GPA cushions in each term.
 
 ---
 
 ## Year 1 Action Checklist (in order)
 
-### Before enrollment opens
-- [ ] **Confirm Level II target programs.** Open `mapsci.ca` and note the specific Year 1 prerequisites for your top 2–3 Level II choices. **If any require the MATH 1LS3 + 1LT3 pair, swap Winter PSYCH 1XX3 → MATH 1LT3.**
-- [ ] **Verify term + eligibility in Mosaic** for ASTRON 1F03 (Fall), PSYCH 1XX3 (Winter), and SUSTAIN 1S03 (Winter) — confirm they're offered that term, open to Life Sci Level I, and clear of time conflicts before relying on them.
-- [ ] **Read current Simple Syllabus pages** for every elective — instructor and grading scheme change yearly.
-- [ ] **Sanity-check on Rate My Courses (`ratemycourses.io/mcmaster`)** for the current instructor of each elective.
-
-### When enrollment opens
-- [ ] Core BIO + CHEM + MATH + PHYSICS are already in — confirm they stay.
-- [ ] Enroll **PSYCH 1X03** (Fall) and **PSYCH 1XX3** (Winter) early — popular, fill fast.
-- [ ] Enroll **SUSTAIN 1S03** (Winter) — a GPA-safe elective filling the slot left by the conflicting ENVIRSC 1C03 (any GPA-safe elective works). Confirm its time slot is clear. *(The Level II env/psych requirement is covered by PSYCH 1XX3; **EARTHSC 1G03** is the backup if PSYCH 1XX3 conflicts.)*
-- [ ] Enroll **ASTRON 1F03** (Fall) — usually has capacity.
-- [ ] **Re-check for time conflicts** after each add, especially the Fall Thursday block (see below).
+### Enrollment — DONE ✅
+- [x] All 10 academic courses + 2 safety trainings enrolled — **30 units, full load, conflict-free** (confirmed 2026-06-30).
+- [x] Gateway cores in correct terms; PSYCH 1X03 (Fall) + PSYCH 1XX3 (Winter) both secured.
+- [x] Level II "1 of four" requirement satisfied by EARTHSC 1G03 (Fall).
+- [ ] **Confirm Level II target programs.** Open `mapsci.ca` and note the specific Year 1 prerequisites for your top 2–3 Level II choices. **If any require the MATH 1LS3 + 1LT3 pair, plan to take MATH 1LT3 next Winter (Year 2).**
+- [ ] **Read current Simple Syllabus pages** for every course — instructor and grading scheme change yearly.
+- [ ] **Sanity-check on Rate My Courses (`ratemycourses.io/mcmaster`)** for the current instructor of each elective (EARTHSC 1G03, ENVSOCTY 1HA3, PSYCH 1XX3).
 
 ### Verify in Mosaic — possible Fall Thursday clash
 - [ ] BIO 1A03 **Lab (Th 1:30–4:20, BSB 217)** and **Tutorial (Th 1:30–2:20, BSB B139)** both start Thursday 1:30 PM. These normally run on **alternating weeks**, which is why enrollment was allowed — but open the calendar view and confirm no single week actually collides.
@@ -127,4 +127,4 @@ PSYCH 1X03 → PSYCH 1XX3 builds the full intro-psych sequence that feeds the MC
 
 ---
 
-> ***Bottom line:*** *Your actual Mosaic enrollment was only 18 units — half a load — missing PSYCH 1X03, the environmental Gateway slot, and 6 units of electives. Adding PSYCH 1X03 + ASTRON 1F03 (Fall) and SUSTAIN 1S03 (in place of the conflicting ENVIRSC 1C03) + PSYCH 1XX3 (Winter) brings you to a full 30-unit Gateway year. Bring this page to your academic advisor before enrollment locks.*
+> ***Bottom line:*** *Enrollment is locked at a full 30-unit Gateway year (15 + 15), conflict-free. Fall: BIO 1A03, CHEM 1A03, MATH 1LS3, PSYCH 1X03, EARTHSC 1G03 (+ BIOSAFE, WHMIS). Winter: BIO 1M03, CHEM 1AA3, PHYSICS 1A03, PSYCH 1XX3, ENVSOCTY 1HA3. EARTHSC 1G03 covers the Level II "1 of four" requirement; MATH 1LT3 is deferred to Year 2 (take only if a Level II target needs the calculus pair). Remaining to-do: verify Level II prerequisites on `mapsci.ca`, and confirm the Fall Thursday BIO lab/tutorial blocks alternate weeks.*
