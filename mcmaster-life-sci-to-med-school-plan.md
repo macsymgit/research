@@ -1,11 +1,11 @@
 # McMaster Honours Life Sciences → Ontario Medical School
 ## A Step-by-Step Action Plan: From G12 (Right Now) to Matriculation | May 2026
 
-> **Research date**: May 2026 | **Live-source verification**: May 2026 (OMSAS 2026–27 cycle, McMaster MD / UofT / Western Schulich / Queen's / Ottawa / NOSM admissions pages, AAMC MCAT 2026 calendar, Acuity Insights CASPer 2026, AFMC Canadian Medical Education Statistics 2024, PARO 2024 resident salary scales, Job Bank Ontario wages Nov 2025). Sources fetched May 2026. All figures CAD unless noted. **This document is the operational companion to [`mcmaster-life-sciences.md`](mcmaster-life-sciences.md)** — that report covers program structure and outcomes; this report covers the prescriptive G12 → MD prep playbook. Where the two overlap, this report cites the parent doc instead of duplicating.
+> **Research date**: May 2026 | **Live-source verification**: July 2026 (OMSAS 2026–27 cycle, McMaster MD / UofT / Western Schulich / Queen's / Ottawa / NOSM / TMU admissions pages, yorku.ca/medicine, AAMC MCAT 2026 fees, Acuity Insights CASPer 2026–27, AFMC Canadian Medical Education Statistics 2024 — still the latest edition, PARO 2025–26 resident salary scale via direct myparo.ca fetch, Job Bank Ontario wages Nov 2025). Hedged caveat: uOttawa and OUAC pages block automated fetching — those figures verified against authoritative search results only; re-open the cited pages by hand before acting on them. All figures CAD unless noted. **This document is the operational companion to [`mcmaster-life-sciences.md`](mcmaster-life-sciences.md)** — that report covers program structure and outcomes; this report covers the prescriptive G12 → MD prep playbook. Where the two overlap, this report cites the parent doc instead of duplicating.
 
 > **Audience.** A G12 Ontario student who has confirmed offer to McMaster Honours Life Sciences (Life Sciences I Gateway, OUAC code MNS) starting September 2026, currently sitting 90–94% in G12, targeting the 7 Ontario MD schools via OMSAS (McMaster, UofT, Western Schulich, Queen's, Ottawa, NOSM, plus the new Toronto Metropolitan University School of Medicine which opened its first MD cohort in 2025-26), with both straight-through (apply Year 3, matriculate Fall 2030) and gap-year (apply Year 4, matriculate Fall 2031) timelines kept live.
 
-> **The 2025–26 Ontario MD landscape shift.** Two structural changes happened in the past year that this plan accounts for: **(1) Effective July 1, 2025, all Ontario publicly-funded medical schools must reserve ≥95% of MD seats for Ontario residents** (definition: 12+ consecutive months in Ontario after age 14, with OSSD), with the remaining ~5% for other Canadian residents. **International seats are essentially closed at Ontario MD schools.** This is a province-wide directive that affects Mac, UofT, Western, Queen's, Ottawa, NOSM, TMU equally. **(2) Queen's MD has fully shifted to a threshold + randomized lottery system (QARS)** — applicants who clear the GPA / MCAT / CASPer cut-offs are randomized into interview invites; competitive GPA/MCAT scoring above the threshold no longer matters. This is a major change from the older Queen's last-2-year process. Several schools also revised their requirements within the past 18 months (UofT discontinued weighted GPA in 2022-23 and dropped CASPer; Ottawa does not use MCAT; NOSM does not use CASPer). Section 2 captures the current state.
+> **The 2025–26 Ontario MD landscape shift.** Two structural changes happened in the past year that this plan accounts for: **(1) Effective July 1, 2025, all Ontario publicly-funded medical schools must reserve ≥95% of MD seats for Ontario residents** (definition: 12+ consecutive months in Ontario after age 14, with OSSD), with the remaining ~5% for other Canadian residents; the regulation applies to admissions from the Fall 2026 intake onward ([ouac.on.ca](https://www.ouac.on.ca/guide/omsas-ontario-resident-requirement/)). **International seats are essentially closed at Ontario MD schools.** This is a province-wide directive that affects Mac, UofT, Western, Queen's, Ottawa, NOSM, TMU equally. **(2) Queen's MD has fully shifted to a threshold + randomized lottery system (QARS)** — applicants who clear the GPA / MCAT / CASPer cut-offs are randomized into interview invites; competitive GPA/MCAT scoring above the threshold no longer matters. This is a major change from the older Queen's last-2-year process. Several schools also revised their requirements within the past 18 months (UofT discontinued weighted GPA in 2022-23 and dropped CASPer; Ottawa does not use MCAT; NOSM does not use CASPer). Section 2 captures the current state.
 
 > **The honest framing this document opens with.** Ontario MD admission is a 5–10% acceptance rate per cycle per school. **Most McMaster Life Sci graduates who set out wanting to be doctors will not matriculate to a Canadian MD program directly after their BSc.** That is the modal outcome — not the failure outcome. This plan is built so that (a) you maximize your odds of being in the top quintile that does matriculate, and (b) if you are not, you arrive at a credible Plan B already in progress, not as a panicked May-of-Year-4 scramble.
 
@@ -14,7 +14,7 @@
 ## Table of Contents
 
 1. [Executive Summary — The 4 Things That Actually Decide This](#1-executive-summary--the-4-things-that-actually-decide-this)
-2. [The 6 Ontario MD Schools at a Glance (2026–27 Cycle)](#2-the-6-ontario-md-schools-at-a-glance-202627-cycle)
+2. [The 7 Ontario MD Schools at a Glance (2026–27 Cycle)](#2-the-7-ontario-md-schools-at-a-glance-202627-cycle)
 3. [The Numbers You Need to Hit — GPA, MCAT, CASPer Targets](#3-the-numbers-you-need-to-hit--gpa-mcat-casper-targets)
 4. [Right Now — G12 May to August 2026 (Before McMaster Starts)](#4-right-now--g12-may-to-august-2026-before-mcmaster-starts)
 5. [Year 1 — September 2026 to August 2027 (GPA-First, No MCAT)](#5-year-1--september-2026-to-august-2027-gpa-first-no-mcat)
@@ -51,7 +51,7 @@ Read this list once. Tape it somewhere visible. Re-read it every September.
 
 2. **The MCAT is your second gate.** Competitive Ontario score is **511+ total, 127+ each section, ideally 128+ CARS.** McMaster MD is **CARS-only at 32% of pre-interview score** — meaning a strong CARS + weak everything-else applicant has a real Mac shot. Plan **300–500 hours** of MCAT prep, condensed into 4–6 months, ideally **summer between Year 3 and Year 4** for application during Year 4 / matriculation Fall 2031, OR **summer between Year 2 and Year 3** for application during Year 3 / matriculation Fall 2030. Most successful Ontario matriculants do the latter.
 
-3. **CASPer + extracurriculars are the differentiators among the GPA/MCAT-qualified pool.** Past the GPA/MCAT cutoffs, applicants are nearly indistinguishable on paper. CASPer is **32% of McMaster MD pre-interview score** — the highest CASPer weighting at any North American MD school — and is required by **all 6 Ontario MD schools**. Extracurriculars on the OMSAS Autobiographical Sketch (ABS) reward **depth and longevity** over breadth: one 200-hour multi-year hospital volunteering commitment beats five 40-hour summer activities.
+3. **CASPer + extracurriculars are the differentiators among the GPA/MCAT-qualified pool.** Past the GPA/MCAT cutoffs, applicants are nearly indistinguishable on paper. CASPer is **32% of McMaster MD pre-interview score** — the highest CASPer weighting at any North American MD school — and is required by **3 of the 7 Ontario MD schools: McMaster, Queen's, and Ottawa** (UofT, Western, NOSM, and TMU do not use it — see §3.3). Extracurriculars on the OMSAS Autobiographical Sketch (ABS) reward **depth and longevity** over breadth: one 200-hour multi-year hospital volunteering commitment beats five 40-hour summer activities.
 
 4. **Plan B starts in Year 3, not Year 5.** Approximately 65–85% of Canadian applicants per cycle do not get an MD acceptance. **Most Canadian matriculants apply 1.5–3 cycles.** A working Plan B (dentistry, optometry, pharmacy, PA, biostatistics MSc, etc.) submitted **at the same time as OMSAS** — not after rejection — is what separates students who land on their feet from students who waste a gap year scrambling. ORPAS (allied health) and CDA (dentistry DAT cycle) deadlines run alongside OMSAS — you can apply to multiple paths in parallel.
 
@@ -85,8 +85,10 @@ Read this list once. Tape it somewhere visible. Re-read it every September.
 
 This section is the most consequential operational reference in the document. Each Ontario MD school weights GPA, MCAT, CASPer, and ECs differently — meaning your **strongest school is determined by your weakest stat**. A weak-physics-but-strong-CARS applicant is a McMaster school. A bombed-Year-1 applicant is a Western school. A bilingual applicant is an Ottawa school. Knowing this lets you allocate prep time strategically.
 
+*All class sizes, cut-offs, means, and interview counts below are single-cycle snapshots (2026–27 unless noted) — they move every year; re-pull each school's page every fall.*
+
 **The 7 schools (Ontario, in order of class size):**
-1. **University of Toronto (Temerty Faculty of Medicine)** — ~259 + 4-year MD
+1. **University of Toronto (Temerty Faculty of Medicine)** — ~303 seats (244 St. George + 59 Mississauga), 4-year MD
 2. **McMaster (Michael G. DeGroote School of Medicine)** — 217 seats (Hamilton + Niagara + Waterloo regional campuses), 3-year accelerated MD
 3. **Western (Schulich School of Medicine & Dentistry)** — 190 seats, 4-year MD
 4. **University of Ottawa** — ~166–184 seats (English + French streams), 4-year MD
@@ -194,7 +196,7 @@ This section is the most consequential operational reference in the document. Ea
 |---|---|---|
 | Class size | ~166–184 entering students per year (recent: ~118–128 Anglophone + ~48–56 Francophone) | [Ottawa UGME Admissions](https://www.uottawa.ca/faculty-medicine/undergraduate/admissions) |
 | Acceptance rate | **~3.7%** | Derived |
-| **GPA rule** | **Weighted GPA (wGPA)** — each undergraduate year weighted by year of study (later years count more). **Minimum cGPA 3.50** to apply. Competitive ~3.85+. Mean of admitted typically **~3.92–3.93**. Prerequisites must be ≥3.0/4.0 (B). | Ottawa MD admission requirements |
+| **GPA rule** | **⚠️ Verify directly before relying.** uOttawa's current published method is described as a **cumulative GPA over the 3 most recent years of full-time study** (not the older year-weighted wGPA) — which, for a 4-year applicant, can effectively drop Year 1 from the calculation. **Minimum cGPA 3.50** to apply; mean of admitted typically **~3.92–3.93**; prerequisites ≥3.0/4.0 (B). uOttawa's site blocks automated verification (checked July 2026) — confirm the exact method on the official application-process page before building course strategy on it. | Ottawa MD admission requirements (re-verify manually) |
 | **MCAT rule** | **MCAT IS NOT REQUIRED AND IS NOT USED.** Confirmed via official Ottawa MD admissions pages, May 2026. Submitted scores are not reviewed. | [Ottawa MD Admission](https://med.uottawa.ca/undergraduate/admissions) |
 | **CASPer** | **Required.** Must be taken in the language of instruction stream (English or French) selected on OMSAS application. | Ottawa MD |
 | Snapshot / Duet | Not used | Ottawa MD |
@@ -221,7 +223,7 @@ This section is the most consequential operational reference in the document. Ea
 | **MCAT rule** | **NOT REQUIRED.** Submitted scores not reviewed. | NOSM |
 | **CASPer** | **NOT REQUIRED.** NOSM uses contextual file review instead. *(This corrects common misconception that all Ontario schools require Casper — NOSM and UofT do not.)* | NOSM |
 | **Context Score** | **Heavily weighted** in pre-interview. Captures Northern Ontario residence, rural background, Indigenous status, Francophone status, life experience. **Driving factor in admissions.** | NOSM |
-| Streams | General, Indigenous, Francophone, Black. (Military stream currently paused.) | NOSM |
+| Streams | General, Indigenous, Francophone, Black, and Military Medical Training Program (per nosm.ca, July 2026) | NOSM |
 | Personal essays | Autobiographical sketch + context-focused supplementary essays | NOSM |
 | **Pre-interview formula** | **GPA + Context Score** → top ~300–320 ranked applicants invited to interview | NOSM Selection Process |
 | **Post-interview formula** | **~32% pre-interview file score + ~68% interview score** for final ranking | NOSM |
@@ -236,20 +238,26 @@ This section is the most consequential operational reference in the document. Ea
 
 **Toronto Metropolitan University School of Medicine** opened its first MD cohort in 2025-26 (the newest Canadian medical school in over a decade). Located in Brampton, Ontario. As a new school, requirements and admission patterns are still stabilizing — verify directly at [torontomu.ca/school-of-medicine](https://www.torontomu.ca/school-of-medicine/programs/md/md-admissions/how-to-apply/) before applying.
 
-| Dimension | Value (verify per cycle) |
+| Dimension | Value (verified July 2026) |
 |---|---|
-| Class size | Verify current cycle — small initial cohorts typical for new programs |
-| GPA rule | Verify — typical Ontario format (cGPA on OMSAS scale) |
-| MCAT | Verify if required |
-| CASPer | Verify if required |
-| Personal essays | Verify — new programs often have unique essay structures |
-| Pre-interview formula | Not yet publicly stabilized |
-| Interview format | Verify |
-| Tuition | Verify on TMU site |
+| Class size | **94 seats** — opened Sept 2025 at full undergraduate capacity; 117 postgraduate (residency) seats at full build-out ([torontomu.ca](https://www.torontomu.ca/media/releases/2025/09/toronto-metropolitan-university-officially-opens-school-of-medicine/)) |
+| Inaugural applicant pool | **6,400+ applications** for 94 seats (~1.5% — the "less competitive early cohort" theory did NOT hold) |
+| Class composition (2025) | ~90% Ontario residents; 38% from Peel Region (Brampton catchment preference) |
+| GPA / MCAT / essays | Verify per cycle on the OMSAS TMU guide ([ouac.on.ca](https://www.ouac.on.ca/guide/omsas-tmu/)) — pre-interview formula not yet publicly stabilized |
+| **CASPer** | **NOT required** (2026–27) |
+| Application route | Via OMSAS, same Oct 1 deadline |
 | IP/OOP bias | ≥95% Ontario residents (province directive) |
-| **What this means for you** | TMU is a wildcard — the application is worth submitting (small OMSAS marginal cost) because new schools often have less competitive applicant pools in early cohorts, but **read the cycle-current admission page directly** as the static info in this report is not yet stable. |
+| **What this means for you** | TMU is no longer a soft target — 6,400+ applicants for 94 seats in its very first cycle. Still worth the ~$130 marginal OMSAS cost (no CASPer, no extra test prep), and the Peel/Brampton community-focus means GTA-area context may help. **Read the cycle-current admission page directly** — a school this new can still change requirements year to year. |
 
-### 2.8 Comparison Matrix — Which School Rewards Which Profile?
+### 2.8 York University School of Medicine — Opening Fall 2028 (Watchlist)
+
+**York is not yet accepting applications, but it matters for this plan's timeline.** York University's School of Medicine received Ontario Quality Council approval in February 2026 and plans its **first MD class for Fall 2028**: **80 seats initially, 240 at full capacity**, an **accelerated 3-year MD**, and a community-based **primary-care mandate** — Canada's first medical school built around that model ([yorku.ca/medicine](https://www.yorku.ca/medicine/), [FAQ](https://www.yorku.ca/medicine/faq/)). Admissions requirements are expected in **early 2027**, pending CACMS accreditation.
+
+Hedged caveat: Ontario's Auditor General has reported the province slowed medical-school expansion funding — treat the Fall 2028 opening as provisional ([globalnews.ca](https://globalnews.ca/news/11555620/ford-government-medical-school-expansion-auditor-general/)).
+
+**What this means for you.** Your earliest application cycle is **2029–30 (Fall 2030 entry)** — by then York would be in its second or third intake, making it a genuine **8th Ontario option**. Two implications: (1) add York to the school-requirement matrix you re-verify in summer 2029 — its early-cohort requirements (announced ~2027) may differ structurally from the legacy schools; (2) a 3-year MD with a primary-care mandate shaves a year off the HS-to-staff-physician timeline if family medicine is your Plan A — the same logic that makes McMaster's 3-year MD attractive in the ROI math (§15).
+
+### 2.9 Comparison Matrix — Which School Rewards Which Profile?
 
 | Profile | Best Ontario School | Why |
 |---|---|---|
@@ -264,13 +272,13 @@ This section is the most consequential operational reference in the document. Ea
 | Rural / Northern / Indigenous / Francophone context | **NOSM** | Context Score driver; no MCAT, no CASPer |
 | SWOMEN regional (4 yrs HS in designated SW Ontario county) | **Western pathway** | MCAT minimum 125 vs 126 for non-pathway; separate stream |
 | Hates MCAT, will not crush it | **Ottawa (no MCAT), NOSM (no MCAT), McMaster (CARS-only)** | Bypass full MCAT |
-| Hates Casper, can't get above Q3 | **UofT (no Casper), Western (no Casper), NOSM (no Casper)** | Bypass Casper |
+| Hates Casper, can't get above Q3 | **UofT, Western, NOSM, TMU (all no Casper)** | Bypass Casper |
 
 **Read this matrix every year.** Your strongest applications change as your stats firm up. A student who walks into McMaster Life Sci in Sept 2026 not knowing where they'll be strongest can end up, by Year 3, with a 3.97 GPA + 510 MCAT (CARS 130) + Q4 CASPer profile — that student is Mac + Ottawa first, UofT (need BPE polish) reach, Western (panel-style) and Queen's (QARS lottery) safer ground, NOSM probably skip. A different student with 3.78 GPA + 517 MCAT could be Western (need 2 qualifying yrs ≥3.7) + UofT (need 3.6+ min) reach, Queen's via QARS lottery, NOSM probably skip. Your strategy gets sharper as your numbers firm up.
 
-### 2.9 Application Volume Recommendation
+### 2.10 Application Volume Recommendation
 
-**Apply to all 7 Ontario schools (including TMU) that you have any plausible shot at.** OMSAS charges ~$220 base + ~$125–130/school = roughly **$1,100–$1,200 for all 7**. That is the single highest-yield ~$1,200 you will spend in this entire process. Even a low-probability school gives you a non-zero outcome.
+**Apply to all 7 Ontario schools (including TMU) that you have any plausible shot at — and by your 2029–30 cycle, likely all 8 including York.** OMSAS charges ~$220 base + ~$125–130/school = roughly **$1,100–$1,200 for all 7** (~$1,350 for 8). That is the single highest-yield ~$1,200 you will spend in this entire process. Even a low-probability school gives you a non-zero outcome.
 
 **Two exceptions to apply-to-all:**
 1. **NOSM if you have no plausible Northern Ontario context** — your file will be flagged as not-a-fit immediately and the $130 yields near-zero return. Spend it on additional UBC OOP, McGill, or US-school application costs instead.
@@ -381,7 +389,7 @@ CASPer is scored on a 1–4 quartile basis. Schools see your quartile relative t
 - **65–85 minutes total duration** (down from 90–110 min)
 - Each typed response now scored individually
 - See [Acuity Insights 2025-26 changes announcement](https://acuityinsights.app/2025/02/2025-26-changes-to-the-casper-test/)
-- **Cost:** US$85 includes 7 program distributions; +US$18 each additional. Duet free with Casper.
+- **Cost:** US$85 includes 9 program distributions; +US$20 each additional (2026–27, published for the US cycle — confirm the OMSAS-cycle count on [acuityinsights.app](https://acuityinsights.app/)). Duet free with Casper.
 
 **Prep targets:**
 - 10–15 mock CASPer scenarios with structured peer feedback by the time you write the real test.
@@ -907,7 +915,7 @@ Year 3 is the operational year. Everything you've built for two years gets teste
 
 **Score release: 30–35 days later (early October).**
 
-**MCAT registration: Open ~6 months before test date.** Register by February 2029 for August 2029. Cost: $335 USD base + Canadian taxes ≈ $445 CAD. Plus AAMC Fee Assistance Program if eligible (lowers cost).
+**MCAT registration: Open ~6 months before test date.** Register by February 2029 for August 2029. Cost: US$355 base (2026 rate; recheck for 2029) + taxes/FX ≈ $500 CAD. Plus AAMC Fee Assistance Program if eligible (lowers cost).
 
 **If you do NOT have time for 12 weeks in summer 2029 because of paid work or family commitments:** delay MCAT to summer 2030 (extended gap-year plan). **DO NOT take the MCAT under-prepared** — AAMC reports all attempts to schools, and a 502 sitting in your record next to a 514 retake hurts you.
 
@@ -963,7 +971,7 @@ Year 3 is the operational year. Everything you've built for two years gets teste
 | **November 2029** | MCAT score release (if took August test); released to schools automatically via AAMC |
 | **December 2029 – February 2030** | Interview invitations sent by schools (rolling) |
 | **January–April 2030** | Interview season (MMI, panel, virtual or in-person depending on school) |
-| **Mid-May 2030 (typically 2nd or 3rd Tuesday)** | **Decision Day — offers released across all 6 Ontario schools simultaneously** |
+| **Mid-May 2030 (typically 2nd or 3rd Tuesday)** | **Decision Day — offers released across all 7 Ontario schools simultaneously** |
 | **Late May – Early June 2030** | Accept your offer (you must rank if multi-offer); commit by deadline |
 | **Summer 2030** | Move to MD school city; matriculation in late August / early September 2030 |
 
@@ -1455,7 +1463,7 @@ CARS is the only section that does not respond to content study. It responds onl
 | Examkrackers MCAT 101 Passages | ~$45 USD each section | Section-specific practice |
 | Khan Academy MCAT | **Free** | Video content review |
 | Kaplan or Princeton Live Course | ~$2,500–$4,500 CAD | If self-study isn't working |
-| **MCAT registration** | ~$335 USD base | Actual test fee |
+| **MCAT registration** | ~$355 USD base (2026) | Actual test fee |
 | **AAMC Fee Assistance Program** | Reduces registration to ~$120 USD | If income-eligible |
 
 **Total typical MCAT budget for a non-course-taking self-studier:** $1,000–$1,500 CAD (resources + test fee).
@@ -1473,7 +1481,7 @@ If your first MCAT score is:
 
 ## 12. CASPer + Duet Strategy (The Acuity Insights Ecosystem)
 
-CASPer (Computer-Based Assessment for Sampling Personal Characteristics) is a **90–110 minute online situational judgment test** that all 6 Ontario MD schools require. Scoring is quartile-based (Q1–Q4) relative to other applicants in the same cycle.
+CASPer (Computer-Based Assessment for Sampling Personal Characteristics) is a **90–110 minute online situational judgment test** required by **3 of the 7 Ontario MD schools — McMaster, Queen's, and Ottawa** (UofT, Western, NOSM, and TMU do not use it). Scoring is quartile-based (Q1–Q4) relative to other applicants in the same cycle. For a McMaster-first strategy it remains non-negotiable: it is 32% of Mac's pre-interview score.
 
 ### 12.1 Format Details (2026-27 Cycle — Updated from 2025-26)
 
@@ -1485,7 +1493,7 @@ The CASPer format was **substantially shortened in 2025-26**: scenarios cut from
 - **Each typed response is now scored individually** (changed from grouped scoring)
 - **No going back** between questions.
 - **Total time:** ~65–85 minutes (including breaks)
-- **Cost:** **US$85** for CASPer + Duet (covers **7 score distributions**). Additional schools: **US$18** each.
+- **Cost:** **US$85** for CASPer + Duet (covers **9 score distributions**, 2026–27). Additional schools: **US$20** each. Verify the OMSAS-cycle distribution count on [acuityinsights.app](https://acuityinsights.app/).
 - **Test windows:** Multiple sittings per cycle (typically July–February). Reserve at least 3 days in advance. Schedule via [my.acuityinsights.app/dates-times](https://my.acuityinsights.app/dates-times).
 - **Source:** [Acuity Insights 2025-26 Changes Announcement](https://acuityinsights.app/2025/02/2025-26-changes-to-the-casper-test/)
 
@@ -1583,7 +1591,7 @@ Duet is an Acuity Insights tool used by **Mac, Ottawa, NOSM** (verify per cycle)
 
 ## 13. OMSAS Application Mechanics — Step-by-Step Walkthrough
 
-OMSAS (Ontario Medical School Application Service) is the centralized application portal for all 6 Ontario MD schools. **One application, 6 schools.** Run by OUAC (Ontario Universities Application Centre) at [ouac.on.ca/omsas](https://www.ouac.on.ca/omsas).
+OMSAS (Ontario Medical School Application Service) is the centralized application portal for all 7 Ontario MD schools. **One application, 7 schools.** Run by OUAC (Ontario Universities Application Centre) at [ouac.on.ca/omsas](https://www.ouac.on.ca/omsas).
 
 ### 13.1 Critical Dates (2026–27 Cycle — Year 4 Application)
 
@@ -1606,7 +1614,7 @@ OMSAS (Ontario Medical School Application Service) is the centralized applicatio
 - **OMSAS service fee:** ~$220 CAD (one-time per cycle)
 - **Per school selected:** ~$125–130 CAD each
 - **OMSAS total for all 7 Ontario schools (incl. TMU):** **~$1,100 CAD**
-- **CASPer:** ~$85 USD (≈$115 CAD) for first 7 distributions + ~$18 USD each beyond
+- **CASPer:** ~$85 USD (≈$120 CAD) for first 9 distributions + ~$20 USD each beyond
 - **MCAT:** **$355 USD base** (2026; raised from $345 in 2025) + Canadian taxes ≈ **$475 CAD**. AAMC Fee Assistance Program (FAP) reduces to ~$145 USD if income-eligible.
 - **Transcript fees:** ~$15–25 CAD per university (most students have McMaster only)
 - **Reference letter facilitation:** Free if using OMSAS portal
@@ -1670,7 +1678,7 @@ Some schools require school-specific essays. Verify per cycle, but typical:
 **Strategy:** Start drafts in July 2029. Get feedback from 2–3 mentors (a current med student, a writing-focused friend, a paid consultant if budget allows). **Don't share with too many people — too much feedback dilutes voice.**
 
 #### Step 6: School Selection + Fee Payment (Mid-September 2029)
-- Select all 6 Ontario MD schools.
+- Select all 7 Ontario MD schools (8 once York's first cycle opens).
 - Pay the fees ($220 base + $130 × 6 = $1,000) by credit card.
 - **Don't wait until October 1 to pay** — payment processing can take 24 hours.
 
@@ -1737,7 +1745,7 @@ After submission, monitor your OMSAS portal **weekly** through November 2029:
 
 ### 13.7 Decision Day (Mid-May 2030)
 
-**The 2nd Tuesday of May.** All 6 Ontario MD schools release decisions simultaneously at noon ET.
+**The 2nd Tuesday of May.** All 7 Ontario MD schools release decisions simultaneously at noon ET.
 
 Three possible statuses:
 - **Accepted** — you have an offer. Choose your top-ranked school.
@@ -2063,21 +2071,21 @@ Major banks (RBC, BMO, Scotia, CIBC, TD) offer Professional Student LOCs at prim
 
 **Most med students use $150K–$250K of LOC by graduation.**
 
-### 15.5 Residency Salary (PARO 2024 Scale, Ontario)
+### 15.5 Residency Salary (PARO 2025–26 Scale, Ontario — salary as of July 1, 2025)
 
 | Year | Salary |
 |---|---|
-| PGY1 (1st year residency) | $67,045 |
-| PGY2 | $73,191 |
-| PGY3 | $78,191 |
-| PGY4 | $84,000 |
-| PGY5 | $90,073 |
-| PGY6 | $96,000 |
-| PGY7 | $99,836 |
+| PGY1 (1st year residency) | $73,367 |
+| PGY2 | $79,670 |
+| PGY3 | $85,564 |
+| PGY4 | $92,701 |
+| PGY5 | $98,567 |
+| PGY6 | $104,167 |
+| PGY7 | $109,250 |
 
-Plus call stipends ($80–$160 per call). Plus benefits.
+Plus call stipends ($80–$160 per call). Plus benefits. (Scale is ~9–10% above the 2024 figures this doc previously cited; the PARO-OTH agreement expires June 30, 2026, so expect a further negotiated scale for the years this student would actually be a resident — treat as a floor.)
 
-Source: [PARO Financial Primer 2024](https://myparo.ca/wp-content/uploads/2025/02/Resident-Financial-Primer-2024_Feb-5-Final.pdf)
+Source: [PARO Financial Primer 2025](https://myparo.ca/financial-primer/)
 
 ### 15.6 Staff Physician Income (Ontario)
 
@@ -2107,13 +2115,13 @@ Source: [MD Financial Management — Physician Income](https://invested.mdm.ca/h
 | **Y5 2030–31** | Mac MD Y1 (3-yr program) | -$53,000 | -$155,200 |
 | **Y6 2031–32** | Mac MD Y2 | -$53,000 | -$208,200 |
 | **Y7 2032–33** | Mac MD Y3 | -$53,000 | -$261,200 |
-| **Y8 2033–34** | PGY1 Family Medicine | +$45,000 (after rent + tax) | -$216,200 |
-| **Y9 2034–35** | PGY2 Family Medicine | +$50,000 | -$166,200 |
-| **Y10 2035–36** | Staff FM Year 1 (Ontario) | +$150,000 (net, conservative) | -$16,200 |
-| **Y11 2036–37** | Staff FM Year 2 | +$170,000 | $153,800 |
-| **Y12 2037–38** | Staff FM Year 3 | +$185,000 | $338,800 |
-| **Y13 2038–39** | Staff FM Year 4 | +$200,000 | $538,800 |
-| **Y14 2039–40** | Staff FM Year 5 | +$200,000 | $738,800 |
+| **Y8 2033–34** | PGY1 Family Medicine | +$49,000 (after rent + tax; PARO 2025–26 scale) | -$212,200 |
+| **Y9 2034–35** | PGY2 Family Medicine | +$54,000 | -$158,200 |
+| **Y10 2035–36** | Staff FM Year 1 (Ontario) | +$150,000 (net, conservative) | -$8,200 |
+| **Y11 2036–37** | Staff FM Year 2 | +$170,000 | $161,800 |
+| **Y12 2037–38** | Staff FM Year 3 | +$185,000 | $346,800 |
+| **Y13 2038–39** | Staff FM Year 4 | +$200,000 | $546,800 |
+| **Y14 2039–40** | Staff FM Year 5 | +$200,000 | $746,800 |
 
 **Breakeven: Year 10 (5 years after med school graduation).**
 
@@ -2132,7 +2140,9 @@ Source: [MD Financial Management — Physician Income](https://invested.mdm.ca/h
 
 **Breakeven: Year 8 (3 years after MPAS graduation).**
 
-**Conclusion:** MPAS reaches breakeven 2 years earlier than MD-FM. Total earnings by Y14 are roughly comparable (PA $900K vs. MD-FM $740K cumulative — because PA started earning sooner).
+**Conclusion:** MPAS reaches breakeven 2 years earlier than MD-FM. Total earnings by Y14 are roughly comparable (PA $900K vs. MD-FM ~$747K cumulative — because PA started earning sooner).
+
+**Financing lever new for Fall 2026:** Ontario's expanded **Learn and Stay Grant** funds up to ~1,000 medical students per year who commit to practising family medicine in Ontario ([ontariocanada.com](https://www.ontariocanada.com/registry/view.do?postingId=49073&language=en)). Since this trajectory's Plan A *is* family medicine, Learn-and-Stay eligibility in the 2030 MD intake would remove a large slice of the -$53K/yr MD-years cost above — check the program's terms in the application year.
 
 ### 15.9 The 14-Year Trajectory (No MD, No Plan B Activated)
 

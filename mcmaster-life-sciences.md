@@ -1,6 +1,8 @@
 # McMaster University — Honours Life Sciences (BSc)
 ## Comprehensive Research Report: Medical School Pathway, Alternatives & Success Strategy | May 2026
 
+> **Research date**: May 2026 | **Live-source verification**: July 2026 (ugme.healthsci.mcmaster.ca, applymd.utoronto.ca, schulich.uwo.ca, meds.queensu.ca, nosm.ca, torontomu.ca, yorku.ca/medicine, AAMC, Acuity Insights, myparo.ca 2025–26 primer, academiccalendars.romcmaster.ca, universityaffairs.ca). Hedged caveat: uOttawa and OUAC pages block automated fetching — those figures were verified against authoritative search results only. All figures CAD unless noted.
+
 ---
 
 ## Table of Contents
@@ -38,10 +40,10 @@ McMaster Honours Life Sciences is a **broad, biology-heavy BSc** designed primar
 |---|---|---|
 | Admission average (competitive) | ~94% (estimated) | McMaster does not publish official cutoffs |
 | Supplementary application | **None** | Major distinction from McMaster BHSc |
-| Annual tuition (domestic Ontario) | ~$6,800–$7,400 | Frozen since 2019 |
+| Annual tuition (domestic Ontario) | ~$6,800–$7,400 (2025–26) | Freeze (2019–2025) lifted Feb 2026; up to +2%/yr from 2026–27 |
 | Annual tuition (international) | ~$48,000–$53,000 | |
 | 4-year total cost (domestic) | ~$70,000–$95,000 | Includes residence/meals/books |
-| McMaster MD acceptance rate | **3.6–4.2%** | ~5,605 applicants for ~205 seats |
+| McMaster MD acceptance rate | **3.6–4.2%** | ~5,605 applicants for 217 seats |
 | Med school admits per cycle (Life Sci) | ~5–15% (estimated) | Strong applicants 15–35% |
 | Years to staff physician | **9–14 years** | Fastest via McMaster's 3-year MD + family medicine |
 | Median earnings 2 yrs post-BSc (no further degree) | ~$37,700 | StatsCan, lowest among bachelor's fields |
@@ -189,7 +191,7 @@ This is the single largest distinction from McMaster's BHSc program (which uses 
 
 | Category | Annual Cost (CAD) |
 |---|---|
-| Domestic Ontario, BSc Faculty of Science | **~$6,800–$7,400** (frozen since 2019) |
+| Domestic Ontario, BSc Faculty of Science | **~$6,800–$7,400** (2025–26; the 2019–2025 freeze was lifted Feb 2026 — expect up to +2%/yr from 2026–27, [universityaffairs.ca](https://universityaffairs.ca/news/ontario-lifts-tuition-freeze-injects-6-4-b-in-post-secondary-sector/)) |
 | Out-of-province (non-Ontario Canadian) | ~$8,000–$9,500 |
 | International, BSc | **~$48,000–$53,000** |
 | Co-op administration fee | $3,975 over 3 years (one-time, prorated) |
@@ -226,21 +228,26 @@ This section is the heart of the document for any student or family treating Lif
 
 ### The National Picture
 
-- **17 Canadian medical schools** with MD programs.
-- **Approximately 3,000–3,200 first-year MD seats** Canada-wide annually.
-- Ontario has **6 MD schools**: McMaster, U of T, Western (Schulich), Queen's, Ottawa, NOSM.
+- **18 Canadian medical schools** with MD programs (17 before TMU's School of Medicine opened in 2025).
+- **Approximately 3,000–3,300 first-year MD seats** Canada-wide annually (TMU added 94 in 2025; York is slated to add 80 more from 2028).
+- Ontario has **7 MD schools**: McMaster, U of T, Western (Schulich), Queen's, Ottawa, NOSM, and TMU (first cohort Sept 2025) — **8 once York University's new School of Medicine takes its first class (planned Fall 2028)**.
 - The single coordinated **OMSAS first-round offer date (May)** sets the pace for the entire Ontario cycle.
 
-### Per-School Snapshot (2024–2025 cycle)
+**New since 2025 — watch York.** York University's School of Medicine received Ontario Quality Council approval in February 2026 and plans its first MD class for **Fall 2028**: 80 seats initially (240 at full capacity), an **accelerated 3-year MD** with a community-based primary-care mandate — Canada's first school built around that model. Admissions requirements are expected in early 2027, pending CACMS accreditation ([yorku.ca/medicine](https://www.yorku.ca/medicine/)). Hedged caveat: Ontario's Auditor General has flagged a slowdown in medical-school expansion funding, so treat the Fall 2028 date as provisional ([globalnews.ca](https://globalnews.ca/news/11555620/ford-government-medical-school-expansion-auditor-general/)). For a student entering university in 2026 and applying in the 2029–30 cycle, York would be in its second or third intake — a real 8th Ontario option to re-verify before applying.
+
+### Per-School Snapshot (latest verified cycle, July 2026)
 
 | School | Applicants | Class Size | Admit Rate | Avg GPA | MCAT | Special Notes |
 |---|---|---|---|---|---|---|
-| **McMaster MD** | ~5,605 | ~205 | **~3.6–4.2%** | 3.92 | **CARS only**, avg 129 | 3-year accelerated; 32% CASPer pre-interview |
-| **U of T (Temerty)** | varies | ~259 | ~5–8% | ~3.93–3.95 | ≥125/section threshold | 86% Ontario; ABS heavily weighted |
+| **McMaster MD** | ~5,605 | 217 | **~3.6–4.2%** | 3.92 | **CARS only**, avg 129 | 3-year accelerated; 32% CASPer pre-interview |
+| **U of T (Temerty)** | varies | ~303 (244 St. George + 59 Mississauga) | ~5–8% | ~3.93–3.95 | ≥125/section threshold | 86% Ontario; ABS heavily weighted |
 | **Western (Schulich)** | ~2,000 | ~171 | ~8% | 3.95 (best yr) | 127/127/127/126 min | Drops worst years; 2-best-year GPA |
 | **Queen's** | ~5,781 | ~109 | ~1.9% | 3.0 min | 500 min, 125/section | New: QARS lottery for MMI invites |
 | **Ottawa** | ~4,823 | ~165 | ~3.4% | 3.92 | **NOT required** | ~70% regional postal-code seats |
 | **NOSM** | ~1,975 | ~64 | ~3.5% | ~3.7 | **NOT required** | Heavy "Northern/rural context" weight |
+| **TMU (new 2025)** | 6,400+ | 94 | ~1.5% | not yet published | not yet published | Opened Sept 2025, Brampton; no CASPer; ~90% Ontario |
+
+*All rows are single-cycle snapshots — class sizes, means, and cut-offs move every year; re-pull each fall.*
 
 ### McMaster MD — The Specifics
 
@@ -302,15 +309,15 @@ Multiply by 1.5–3 if you reapply (which most do).
 - **U.S. matriculant average:** ~511.7
 - **Competitive Canadian matriculant target:** **~511–515** total, **127–128 per section**
 - **Prep time:** **300–500 hours typical** (3–6 months full-time-ish, or 12–25 hrs/week for 6 months)
-- **Cost:** $320 USD base + Canadian taxes ≈ $425–$450 CAD all-in
+- **Cost:** US$355 base (2026 standard registration, [aamc.org](https://students-residents.aamc.org/register-mcat-exam/mcat-scheduling-fees)) + taxes/FX ≈ $500 CAD all-in (treat as approximate)
 - **Retakes:** Up to 3 attempts/year, 4 in two years, 7 lifetime. Most successful applicants take it once.
 
 ### CASPer — The Situational Judgment Test
 
 - **Format:** 90–110 minutes, online. Mix of video and word-based scenarios; typed and (since 2022) video responses.
 - **Assesses:** ethics, empathy, communication, professionalism, problem-solving.
-- **Required by:** all 6 Ontario MD programs.
-- **Cost:** $85 USD (covers 7 distributions); +$18/school beyond.
+- **Required by:** **3 of the 7 Ontario MD programs — McMaster, Queen's, and Ottawa** (U of T, Western, NOSM, and TMU do not use it; 2026–27 cycle).
+- **Cost:** US$85 (covers 9 distributions); +US$20/school beyond (2026–27, as published for the US cycle — verify the OMSAS-cycle count on [acuityinsights.app](https://acuityinsights.app/)).
 - **Snapshot:** **Discontinued** as of 2023–2024 cycle.
 - **Duet:** Untimed values-alignment assessment, free with CASPer.
 
@@ -340,14 +347,14 @@ Multiply by 1.5–3 if you reapply (which most do).
 
 ### Salary Trajectory
 
-**Resident (Ontario, PARO 2024 scale):**
+**Resident (Ontario, PARO 2025–26 scale, salary as of July 1, 2025 — [myparo.ca](https://myparo.ca/financial-primer/)):**
 
 | Year | Salary |
 |---|---|
-| PGY1 | $67,045 |
-| PGY3 | $78,191 |
-| PGY5 | $90,073 |
-| PGY7 | $99,836 |
+| PGY1 | $73,367 |
+| PGY3 | $85,564 |
+| PGY5 | $98,567 |
+| PGY7 | $109,250 |
 
 Plus call stipends ($80.93 home / $161.86 in-hospital, with weekend premiums).
 
@@ -363,6 +370,8 @@ Plus call stipends ($80.93 home / $161.86 in-hospital, with weekend premiums).
 **Net** after 25–35% overhead and taxes: typically **$170K–$300K+** for FM; $250K–$500K+ for high-paying specialties.
 
 **Average Canadian MD debt at graduation:** ~$164,000 CAD.
+
+**Debt lever new for Fall 2026:** Ontario's expanded **Learn and Stay Grant** funds up to ~1,000 medical students per year who commit to practising family medicine in Ontario ([ontariocanada.com](https://www.ontariocanada.com/registry/view.do?postingId=49073&language=en)). If the goal narrows to family medicine — the fastest pathway this report already recommends — this materially changes the debt math; check eligibility in the application year.
 
 ---
 

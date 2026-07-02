@@ -1,22 +1,23 @@
 # McMaster Life Sci — Year 1 Enrollment: Action Items
 
 **Prepared:** 2026-06-24
+**Status review:** 2026-07-02 — **enrollment was confirmed and locked in Mosaic on 2026-06-30** (recorded in the schedule doc). This checklist is retained with per-item status; only #6 and #7 remain live.
 **Context:** Review of actual Mosaic enrollment (Fall 2026 + Winter 2027) against the official Life Sciences Gateway requirements.
-**Full plan:** [`mcmaster-life-sci-year1-schedule.md`](mcmaster-life-sci-year1-schedule.md) ([中文](mcmaster-life-sci-year1-schedule-zh.md))
+**Full plan:** [`mcmaster-life-sci-year1-schedule.md`](mcmaster-life-sci-year1-schedule.md) ([中文](mcmaster-life-sci-year1-schedule-zh.md)) | [中文版本](mcmaster-life-sci-year1-action-items-zh.md)
 
 ---
 
 ## Action Items
 
-| # | Action | Reason |
-|---|--------|--------|
-| 1 | **Add PSYCH 1X03 to Fall** | Required Gateway core course you're missing. Covers MCAT Psych/Social content. Front-loads the intro-psych sequence. |
-| 2 | **Add ASTRON 1F03 to Fall** | Reaches the 30-unit full load. Chosen as a GPA-safe, objective-exam "bird" course to protect your hardest term (CHEM 1A03 + BIO 1A03 are the big weed-outs). |
-| 3 | **Add SUSTAIN 1S03 to Winter (GPA-safe elective)** | ENVIRSC 1C03's Winter section conflicts — and it isn't needed, because PSYCH 1XX3 already covers the Level II env/psych requirement (see #4). SUSTAIN 1S03 just fills the unit slot to reach 30; any GPA-safe elective works here (ECON 1B03, INDIGST 1A03/1AA3, etc.). |
-| 4 | **Add PSYCH 1XX3 to Winter** | Reaches the 30-unit full load **and satisfies the Honours Life Sci Level II "1 of four" requirement** (EARTHSC 1G03 / ENVIRSC 1C03 / PSYCH 1XX3 / PSYCH 1FF3). Continuation of PSYCH 1X03 → more MCAT Psych/Social content. **Backup: EARTHSC 1G03 (GPA-easy bird course)** — any backup must stay on the four-course list (SOCIOL/ANTHROP do *not* count). |
-| 5 | **Keep BIOSAFE 1BS0 + WHMIS 1A00** | Mandatory 0-unit safety certifications. Required for lab access in BIO/CHEM. Don't affect GPA or unit count. |
-| 6 | **Conditional swap: Winter PSYCH 1XX3 → MATH 1LT3** | *Only if* your Level II target (e.g. Biology, Biochem) requires the MATH 1LS3 + 1LT3 calculus pair. Otherwise defer 1LT3 to Year 2. |
-| 7 | **Verify Fall Thursday lab/tutorial in Mosaic** | BIO 1A03 Lab (Th 1:30–4:20) and Tutorial (Th 1:30–2:20) both start Thu 1:30 PM. Normally alternating weeks — confirm no single week actually collides. |
+| # | Status | Action | Reason / Resolution |
+|---|--------|--------|---------------------|
+| 1 | ✅ **DONE** | **Add PSYCH 1X03 to Fall** | Required Gateway core course. Covers MCAT Psych/Social content. **Enrolled Fall — locked 2026-06-30.** |
+| 2 | 🔁 **SUPERSEDED** | ~~Add ASTRON 1F03 to Fall~~ | The 30-unit slot was filled by **EARTHSC 1G03** instead — equally GPA-safe *and* it satisfies the Level II "1 of four" requirement, so it does double duty. ASTRON 1F03 remains a backup only. |
+| 3 | 🔁 **SUPERSEDED** | ~~Add SUSTAIN 1S03 to Winter~~ | The Winter GPA-filler slot was filled by **ENVSOCTY 1HA3** instead. SUSTAIN 1S03 remains a backup only. |
+| 4 | ✅ **DONE** | **Add PSYCH 1XX3 to Winter** | **Enrolled Winter — locked 2026-06-30.** Note the rationale shifted: the Level II "1 of four" (EARTHSC 1G03 / ENVIRSC 1C03 / PSYCH 1XX3 / PSYCH 1FF3) is now already satisfied by EARTHSC 1G03, so 1XX3 is double-coverage plus MCAT Psych/Social content, not the primary satisfier. |
+| 5 | ✅ **DONE** | **Keep BIOSAFE 1BS0 + WHMIS 1A00** | Mandatory 0-unit safety certifications, required for BIO/CHEM lab access. **Both enrolled.** |
+| 6 | ⏳ **OPEN — deferred** | **Conditional swap: MATH 1LT3** | MATH 1LT3 is deferred to Year 2, contingent on the Level II program choice: *only if* your target (e.g. Biology, Biochem) requires the MATH 1LS3 + 1LT3 calculus pair. Decide when confirming Level II targets on MAP. |
+| 7 | ⏳ **OPEN** | **Verify Fall Thursday lab/tutorial in Mosaic** | BIO 1A03 Lab (Th 1:30–4:20) and Tutorial (Th 1:30–2:20) both start Thu 1:30 PM. Normally alternating weeks — open the Mosaic calendar view and confirm no single week actually collides, before classes start Sep 8. |
 
 ---
 

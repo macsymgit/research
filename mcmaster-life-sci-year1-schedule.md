@@ -2,8 +2,9 @@
 
 **Prepared:** 2026-05-11
 **Updated:** 2026-06-30 — **enrollment confirmed and locked in Mosaic.** This now records the student's **final Year 1 enrollment** (30 units), with the two deviations from the earlier draft plan noted below.
+**Updated:** 2026-07-02 — live-source re-verification: 2026–27 sessional dates added, substitution table synced to the locked enrollment, GPA target aligned with the med-school plan (3.9+), dead links fixed.
 **Purpose:** Personal Year 1 course enrollment plan for McMaster Life Sciences Gateway (Level I), with rationale and verification checklist.
-**Anchor docs:** [`mcmaster-life-sciences.md`](mcmaster-life-sciences.md), [`mcmaster-life-vs-western-medical-sciences.md`](mcmaster-life-vs-western-medical-sciences.md)
+**Anchor docs:** [`mcmaster-life-sciences.md`](mcmaster-life-sciences.md), [`mcmaster-life-sci-to-med-school-plan.md`](mcmaster-life-sci-to-med-school-plan.md)
 
 ---
 
@@ -77,21 +78,32 @@ PSYCH 1X03 → PSYCH 1XX3 builds the full intro-psych sequence that feeds the MC
 ### Verify in Mosaic — possible Fall Thursday clash
 - [ ] BIO 1A03 **Lab (Th 1:30–4:20, BSB 217)** and **Tutorial (Th 1:30–2:20, BSB B139)** both start Thursday 1:30 PM. These normally run on **alternating weeks**, which is why enrollment was allowed — but open the calendar view and confirm no single week actually collides.
 
+### Key 2026–27 sessional dates (verified July 2026)
+
+| Term | Classes begin | Add/drop ends | Withdraw deadline | Classes end | Exams |
+|---|---|---|---|---|---|
+| **Fall 2026** | Tue Sep 8 | Wed Sep 16 | Fri Nov 27 (without failure by default) | Thu Dec 10 | Dec 11–23 |
+| **Winter 2027** | Mon Jan 4 | Tue Jan 12 | Mon Mar 29 | Wed Apr 7 | Apr 9–22 |
+
+Source: [2026–27 UGRD Sessional Dates, academiccalendars.romcmaster.ca](https://academiccalendars.romcmaster.ca/mime/media/65/5562/2026+-+2027+Sessional+dates+UGRD.pdf). The add/drop date is the GPA-defense lever: any course that feels unrecoverable by the first week must be swapped **before Sep 16 (Fall) / Jan 12 (Winter)** to leave no transcript trace.
+
 ### During the year
-- [ ] **Y1 GPA target: 3.85+ (11.0+/12.0)** — keeps every Level II option open, including BHSc Level-2 transfer.
+- [ ] **Y1 GPA target: 3.9+ (11.0+/12.0)** — aligned with the med-school plan's Year 1 target; keeps every Level II option open, including BHSc Level-2 transfer.
 - [ ] Hit office hours for CHEM 1A03 and MATH 1LS3 in the first 4 weeks — these are the Year 1 weed-out courses.
 - [ ] Track term GPA every term, not just year-end. If anything dips below 3.7, course-correct immediately.
 - [ ] No heavy ECs in Year 1 (per `mcmaster-life-sciences.md:688`). One club + light volunteering is plenty.
 
 ---
 
-## Alternative Substitutions (If Something Above Doesn't Work)
+## Alternative Substitutions (If a Locked Course Falls Through)
 
-| If you can't get... | Substitute with... |
+*Updated 2026-07-02 to match the locked enrollment (EARTHSC 1G03 Fall; ENVSOCTY 1HA3 + PSYCH 1XX3 Winter). The earlier draft's ASTRON 1F03 / SUSTAIN 1S03 picks were replaced before lock-in and now appear only as backups.*
+
+| If you lose your seat in... | Substitute with... |
 |---|---|
-| ASTRON 1F03 | **ECON 1B03** (Micro) — GPA-friendly; Social Science breadth |
-| PSYCH 1XX3 *(also your Level II "1 of four" req)* | **EARTHSC 1G03** — GPA-easy bird course; or **PSYCH 1FF3** / **ENVIRSC 1C03**. ⚠️ The substitute **must stay on the four-course list** to preserve the Honours Life Sci requirement — SOCIOL 1Z03 / ANTHROP 1AA3 do *not* count for it. |
-| SUSTAIN 1S03 *(the GPA-filler slot)* | **ECON 1B03**, **INDIGST 1A03/1AA3**, **SOCIOL 1Z03**, or **ANTHROP 1AA3** — any GPA-safe elective; this slot only needs to fill units |
+| EARTHSC 1G03 *(Fall — currently satisfies the Level II "1 of four")* | **PSYCH 1FF3** or **ENVIRSC 1C03** — ⚠️ the substitute **must stay on the four-course list** (EARTHSC 1G03 / ENVIRSC 1C03 / PSYCH 1XX3 / PSYCH 1FF3) — SOCIOL 1Z03 / ANTHROP 1AA3 do *not* count. Note: Winter's PSYCH 1XX3 already double-covers the requirement, so a plain GPA-safe elective also works if 1XX3 stays. |
+| PSYCH 1XX3 *(Winter — MCAT P/S value + "1 of four" double-coverage)* | Any GPA-safe elective (**ECON 1B03**, **INDIGST 1A03/1AA3**, **SOCIOL 1Z03**, **ANTHROP 1AA3**) — the "1 of four" is already met by EARTHSC 1G03, but keep 1XX3 if at all possible for the MCAT Psych/Social content. |
+| ENVSOCTY 1HA3 *(the Winter GPA-filler slot)* | **ECON 1B03**, **INDIGST 1A03/1AA3**, **SOCIOL 1Z03**, **ANTHROP 1AA3**, or the earlier draft's **ASTRON 1F03 / SUSTAIN 1S03** — any GPA-safe elective; this slot only needs to fill units |
 | A GPA-safe slot | **INDIGST 1A03 / 1AA3** — small-class, well-regarded, knocks out the Indigenous Studies graduation requirement |
 
 **For BHSc Level-2 transfer hopefuls only:** Replace one GPA-boost elective with a writing-heavy humanities course like **PHILOS 1B03** (Bio-Medical Ethics) or **ENGLISH 1A03**. Reviewers value visible writing rigor.
@@ -111,7 +123,7 @@ PSYCH 1X03 → PSYCH 1XX3 builds the full intro-psych sequence that feeds the MC
 
 **Anchor research (this repo):**
 - [`mcmaster-life-sciences.md`](mcmaster-life-sciences.md) — Full McMaster Life Sci research report (Level II structure, BHSc transfer, GPA risk, premed pathway)
-- [`mcmaster-life-vs-western-medical-sciences.md`](mcmaster-life-vs-western-medical-sciences.md) — Comparative reference
+- [`mcmaster-life-sci-to-med-school-plan.md`](mcmaster-life-sci-to-med-school-plan.md) — G12 → MD operational playbook (GPA targets, per-school rules)
 
 **McMaster official (verified 2026-06-24):**
 - [Life Sciences Gateway — MAPSci](https://mapsci.ca/level-1-programs/gateway-programs/life-science-gateway/) — official 8 core + 6 elective units, incl. PHYSICS 1A03, PSYCH 1X03, ENVIRSC 1C03

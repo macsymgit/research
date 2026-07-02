@@ -2,8 +2,9 @@
 
 **制定日期：** 2026-05-11
 **更新日期：** 2026-06-30 — **选课已在 Mosaic 确认并锁定。** 本文档现在记录学生的**最终一年级选课**（30 学分），并标注与早前草稿方案的两处偏差（见下）。
+**更新日期：** 2026-07-02 — 现场来源再核验：新增 2026–27 学年重要日期表，替代方案表已同步锁定选课，GPA 目标与医学院规划文档对齐（3.9 以上），修复失效链接。
 **用途：** 麦马士特大学 Life Sciences Gateway（一级入门门户）一年级个人选课方案，含改动理由与核对清单。
-**参考文档：** [`mcmaster-life-sciences.md`](mcmaster-life-sciences.md)、[`mcmaster-life-vs-western-medical-sciences.md`](mcmaster-life-vs-western-medical-sciences.md)
+**参考文档：** [`mcmaster-life-sciences.md`](mcmaster-life-sciences.md)、[`mcmaster-life-sci-to-med-school-plan.md`](mcmaster-life-sci-to-med-school-plan.md)
 
 ---
 
@@ -77,21 +78,32 @@ PSYCH 1X03 → PSYCH 1XX3 凑成完整的心理学导论序列，对应 MCAT 心
 ### 在 Mosaic 里核对 — 秋季周四可能的冲突
 - [ ] BIO 1A03 的 **Lab（周四 1:30–4:20，BSB 217）** 和 **Tutorial（周四 1:30–2:20，BSB B139）** 都从周四 1:30 PM 开始。这两个通常是**隔周轮流**上课，所以系统才允许同时选——但请打开日历视图，确认没有哪一周真的撞在一起。
 
+### 2026–27 学年重要日期（2026年7月核实）
+
+| 学期 | 开课日 | 加退选截止 | 退课截止 | 课程结束 | 考试 |
+|---|---|---|---|---|---|
+| **2026 年秋季** | 9 月 8 日（周二） | 9 月 16 日（周三） | 11 月 27 日（周五，默认不算失败退课） | 12 月 10 日（周四） | 12 月 11–23 日 |
+| **2027 年冬季** | 1 月 4 日（周一） | 1 月 12 日（周二） | 3 月 29 日（周一） | 4 月 7 日（周三） | 4 月 9–22 日 |
+
+来源：[2026–27 UGRD 学期日期，academiccalendars.romcmaster.ca](https://academiccalendars.romcmaster.ca/mime/media/65/5562/2026+-+2027+Sessional+dates+UGRD.pdf)。加退选截止日是保护 GPA 的关键杠杆：任何在第一周内就感觉无法挽回的课，必须在**秋季 9 月 16 日 / 冬季 1 月 12 日之前**换掉，才能不在成绩单上留下痕迹。
+
 ### 学年期间
-- [ ] **一年级 GPA 目标：3.85 以上（11.0+/12.0）** — 保住所有二级专业选项，含 BHSc 二级转专业。
+- [ ] **一年级 GPA 目标：3.9 以上（11.0+/12.0）** — 与医学院规划文档的一年级目标对齐；保住所有二级专业选项，含 BHSc 二级转专业。
 - [ ] CHEM 1A03 和 MATH 1LS3 的前 4 周必须去 office hours — 这两门是一年级"淘汰课"。
 - [ ] **每个学期**都跟踪学期 GPA，不要只看学年末。一旦低于 3.7，立刻调整。
 - [ ] 一年级不要承担重课外活动（参见 `mcmaster-life-sciences.md:688`），一个社团 + 轻量义工就足够。
 
 ---
 
-## 备选替代方案（若上面课程抢不到）
+## 备选替代方案（若已锁定的课程掉了）
 
-| 抢不到 | 替代为 |
+*2026-07-02 更新，以匹配已锁定的选课（秋季 EARTHSC 1G03；冬季 ENVSOCTY 1HA3 + PSYCH 1XX3）。早前草稿的 ASTRON 1F03 / SUSTAIN 1S03 选项在锁定前已被替换，现在仅作为备选。*
+
+| 若你在以下课程中失去名额... | 替代为... |
 |---|---|
-| ASTRON 1F03 | **ECON 1B03**（微观经济学）— GPA 友好；满足社会科学广度学分 |
-| PSYCH 1XX3 *（同时是你的二级"四选一"要求）* | **EARTHSC 1G03** — GPA 友好水课；或 **PSYCH 1FF3** / **ENVIRSC 1C03**。⚠️ 替代课**必须仍在这四门清单内**才能保住 Honours Life Sci 要求——SOCIOL 1Z03 / ANTHROP 1AA3 **不算**。 |
-| SUSTAIN 1S03 *（凑学分的那一位）* | **ECON 1B03**、**INDIGST 1A03/1AA3**、**SOCIOL 1Z03** 或 **ANTHROP 1AA3** — 任何 GPA 友好选修；这一位只需凑满学分 |
+| EARTHSC 1G03 *（秋季 — 目前满足二级"四选一"要求）* | **PSYCH 1FF3** 或 **ENVIRSC 1C03** — ⚠️ 替代课**必须仍在这四门清单内**（EARTHSC 1G03 / ENVIRSC 1C03 / PSYCH 1XX3 / PSYCH 1FF3）——SOCIOL 1Z03 / ANTHROP 1AA3 **不算**。注：冬季的 PSYCH 1XX3 已经双重覆盖该要求，所以只要 1XX3 保留，普通 GPA 友好选修也可行。 |
+| PSYCH 1XX3 *（冬季 — MCAT 心理/社会价值 +"四选一"双重覆盖）* | 任何 GPA 友好选修（**ECON 1B03**、**INDIGST 1A03/1AA3**、**SOCIOL 1Z03**、**ANTHROP 1AA3**）——"四选一"已由 EARTHSC 1G03 满足，但只要有可能就应保留 1XX3，以获取 MCAT 心理/社会内容。 |
+| ENVSOCTY 1HA3 *（冬季凑学分的那一位）* | **ECON 1B03**、**INDIGST 1A03/1AA3**、**SOCIOL 1Z03**、**ANTHROP 1AA3**，或早前草稿的 **ASTRON 1F03 / SUSTAIN 1S03** — 任何 GPA 友好选修；这一位只需凑满学分 |
 | 任一 GPA 安全位 | **INDIGST 1A03 / 1AA3** — 小班好评，且能提前完成原住民研究的毕业要求 |
 
 **仅对 BHSc 二级转专业考虑者：** 把其中一门 GPA 提分选修换成写作较重的人文课，比如 **PHILOS 1B03**（生物医学伦理学）或 **ENGLISH 1A03**。审核老师看重显性写作训练。
@@ -111,7 +123,7 @@ PSYCH 1X03 → PSYCH 1XX3 凑成完整的心理学导论序列，对应 MCAT 心
 
 **本仓库内的锚定研究：**
 - [`mcmaster-life-sciences.md`](mcmaster-life-sciences.md) — 麦马士特生命科学完整研究报告（二级结构、BHSc 转专业、GPA 风险、医学预科路径）
-- [`mcmaster-life-vs-western-medical-sciences.md`](mcmaster-life-vs-western-medical-sciences.md) — 对比参考
+- [`mcmaster-life-sci-to-med-school-plan.md`](mcmaster-life-sci-to-med-school-plan.md) — G12 → MD 行动路径手册（GPA 目标、各校规则）
 
 **麦马士特官方（2026-06-24 核实）：**
 - [Life Sciences Gateway — MAPSci](https://mapsci.ca/level-1-programs/gateway-programs/life-science-gateway/) — 官方 8 门核心 + 6 学分选修，含 PHYSICS 1A03、PSYCH 1X03、ENVIRSC 1C03

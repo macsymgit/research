@@ -1,6 +1,7 @@
 # McMaster Life Sciences — Year 2 Schedule Plan (2027–28)
 
 **Prepared:** 2026-06-24
+**Updated:** 2026-07-02 — live-source verification against the 2026–27 calendar: BIOCHEM 2BB3 title + real prerequisite corrected (it needs CHEM 2OA3 co-registration, not the Year 1 courses), co-op structure corrected to two 8-month work terms with the CA 6.0 admission floor.
 **Purpose:** Personal Year 2 (Level II) course plan for **Honours Life Sciences — Co-op**, premed-focused, with rationale, co-op timeline, and a verification checklist.
 **Anchor docs:** [`mcmaster-life-sci-year1-schedule.md`](mcmaster-life-sci-year1-schedule.md), [`mcmaster-life-sci-to-med-school-plan.md`](mcmaster-life-sci-to-med-school-plan.md), [`mcmaster-life-sciences.md`](mcmaster-life-sciences.md)
 **Assumptions:** You completed the full 30-unit Year 1 Gateway (incl. CHEM 1AA3, PHYSICS 1A03), secured **Honours Life Sciences** Level II, are pursuing the **Co-op** stream, and are premed.
@@ -14,7 +15,7 @@
 | **Fall** | LIFESCI 2A03 — Research Methods in Life Sciences | 3 | Honours LS core | Feeds your research-lab goal |
 | Fall | STATS 2B03 — Statistical Methods for Science | 3 | Honours LS core | Research + grad foundation; prereq met by Level II standing |
 | Fall | CHEM 2OA3 — Organic Chemistry I | 3 | MCAT/med prereq | **Hard — anchor course.** Prereq CHEM 1AA3 ✅ |
-| Fall | BIOCHEM 2BB3 — Cell Biology & Biochemistry | 3 | MCAT B/B | Pairs conceptually with orgo |
+| Fall | BIOCHEM 2BB3 — Protein Structure and Enzyme Function | 3 | MCAT B/B | Pairs conceptually with orgo (its prereq is co-registration in CHEM 2OA3 — see checklist) |
 | Fall | SCICOMM 2A03 — Foundations of Science Communication | 3 | Honours LS core | **Lighter** — balances the two hard ones |
 | **Winter** | LIFESCI 2L03 — Living Systems Laboratory | 3 | Honours LS core | Required lab |
 | Winter | BIOLOGY 2C03 — Genetics | 3 | Honours LS core + MCAT | Required |
@@ -48,9 +49,9 @@ Per `mcmaster-life-sci-to-med-school-plan.md` §6, many premed students drop fro
 
 | When | Action |
 |---|---|
-| **Year 2, Fall–Winter** | You are admitted to / confirming the Co-op stream. Complete the **co-op professional-development / readiness component** (verify exact course code on MAP — often a 0-unit or co-op-prep module). Build résumé + start applying to co-op postings through the co-op portal. |
-| **Summer 2028 (May–Aug)** | **First co-op work term** — typically clinical research, pharma, public health, or a hospital research institute. All premed-relevant. ~4 months. |
-| **Year 3+** | Additional/longer work term(s); co-op typically **extends the degree toward 5 years**. A later 8–12 month placement is common. Aligns well with the **gap-year MCAT plan** (recommended in the med-school doc). |
+| **Year 2, Fall–Winter** | **Apply to the Co-op stream during Level II** — admission requires a **minimum Cumulative Average of 6.0** (McMaster 12-point scale; comfortably below this plan's GPA targets, but it is a hard floor). Complete the **co-op professional-development / readiness component** (verify exact course code on MAP). Build résumé + start applying to postings through the co-op portal. |
+| **Work terms** | Per the 2026–27 calendar, Honours Life Sciences Co-op is structured as **two 8-month work terms** ([calendar](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=53&poid=27070)) — not the 4-month-then-longer pattern an earlier draft assumed. Typical placements: clinical research, pharma, public health, hospital research institutes — all premed-relevant. |
+| **Year 3+** | The two 8-month terms mean co-op **extends the degree toward 5 years**. This aligns well with the **gap-year MCAT plan** (recommended in the med-school doc) — an 8-month term is also a real research-depth entry for the ABS, not just a line item. |
 
 **Premed note:** Co-op work terms double as ABS/research entries and can fund MCAT prep — but do **not** let a work-term search pull your GPA down in Year 2. Academics first; co-op applications are a few hours/week.
 
@@ -61,7 +62,7 @@ Per `mcmaster-life-sci-to-med-school-plan.md` §6, many premed students drop fro
 ### Before enrollment opens (summer 2027)
 - [ ] **Confirm the exact Honours Life Sciences Level II requirements on MAP** (`mapsci.ca/level-2-programs/list/honours-life-sciences/`). Verify which LIFESCI courses are *required* vs *choose-from* — the named set includes LIFESCI 2A03, 2L03, 2CC3, 2D03, 2N03, SCICOMM 2A03, STATS 2B03, BIOLOGY 2B03/2C03. Adjust the two "core" picks here to match the current required list.
 - [ ] **Confirm the Co-op prep course code and deadlines** with the Science Co-op office.
-- [ ] **Verify prerequisites in Mosaic:** CHEM 2OA3 (needs CHEM 1AA3 ✅), BIOCHEM 2BB3 (needs BIOLOGY 1A03 + CHEM 1AA3 ✅), BIOLOGY 2A03/2C03, STATS 2B03 (Level II Science standing ✅).
+- [ ] **Verify prerequisites in Mosaic:** CHEM 2OA3 (needs CHEM 1AA3 ✅), BIOCHEM 2BB3 (**prereq is credit or registration in CHEM 2OA3 / 2BA3 / CHEMBIO 2OA3** — the same-term Fall pairing with CHEM 2OA3 satisfies it, but **confirm Mosaic accepts the concurrent registration**; [calendar](https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=53&coid=265200)), BIOLOGY 2A03 (Integrative Physiology of Animals)/2C03, STATS 2B03 (Level II Science standing ✅).
 - [ ] **Read current Simple Syllabus pages** for CHEM 2OA3/2OB3 and BIOCHEM 2BB3 — instructor and grading scheme change yearly; these are the GPA-critical courses.
 - [ ] **Sanity-check instructors on Rate My Courses** (`ratemycourses.io/mcmaster`).
 

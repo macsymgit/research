@@ -1,6 +1,7 @@
 # 麦马士特大学 生命科学 — 二年级选课计划（2027–28 学年）
 
 **制定日期：** 2026-06-24
+**更新日期：** 2026-07-02 — 依据 2026–27 学年学术日历进行现场来源核验：更正 BIOCHEM 2BB3 的课名与真实先修要求（需与 CHEM 2OA3 同期注册，而非一年级课程），并将 Co-op 结构更正为两个 8 个月实习期，附 CA 6.0 的申请门槛。
 **用途：** **Honours Life Sciences — Co-op（带薪实习）** 二年级（Level II）个人选课方案，面向医学预科，含改动理由、Co-op 时间线与核对清单。
 **参考文档：** [`mcmaster-life-sci-year1-schedule.md`](mcmaster-life-sci-year1-schedule.md)、[`mcmaster-life-sci-to-med-school-plan.md`](mcmaster-life-sci-to-med-school-plan.md)、[`mcmaster-life-sciences.md`](mcmaster-life-sciences.md)
 **前提假设：** 你已完成完整的 30 学分一年级 Gateway（含 CHEM 1AA3、PHYSICS 1A03），已进入 **Honours Life Sciences** 二级专业，正在走 **Co-op** 路线，且是医学预科方向。
@@ -14,7 +15,7 @@
 | **秋季** | LIFESCI 2A03 — 生命科学研究方法 | 3 | Honours LS 核心 | 配合你的研究实验室目标 |
 | 秋季 | STATS 2B03 — 科学统计方法 | 3 | Honours LS 核心 | 科研 + 研究生基础；二级标准即满足先修 |
 | 秋季 | CHEM 2OA3 — 有机化学 I | 3 | MCAT/医学先修 | **难课 — 重点课。** 先修 CHEM 1AA3 ✅ |
-| 秋季 | BIOCHEM 2BB3 — 细胞生物学与生物化学 | 3 | MCAT B/B | 与有机化学概念互补 |
+| 秋季 | BIOCHEM 2BB3 — 蛋白质结构与酶功能 | 3 | MCAT B/B | 与有机化学概念互补（其先修要求是与 CHEM 2OA3 同期注册 — 见核对清单） |
 | 秋季 | SCICOMM 2A03 — 科学传播基础 | 3 | Honours LS 核心 | **较轻** — 平衡两门难课 |
 | **冬季** | LIFESCI 2L03 — 生命系统实验 | 3 | Honours LS 核心 | 必修实验课 |
 | 冬季 | BIOLOGY 2C03 — 遗传学 | 3 | Honours LS 核心 + MCAT | 必修 |
@@ -48,9 +49,9 @@ Honours Life Sciences（旗舰方向）硬性必修课相对较少，选修空�
 
 | 时间 | 行动 |
 |---|---|
-| **二年级 秋–冬** | 你已进入/正在确认 Co-op 路线。完成 **Co-op 职业发展/就业准备环节**（在 MAP 上核对具体课程代码 —— 通常是 0 学分或 Co-op 预备模块）。准备简历，并通过 Co-op 门户开始投递岗位。 |
-| **2028 年夏（5–8 月）** | **第一个 Co-op 实习期** —— 通常是临床研究、制药、公共卫生或医院研究所，全部与医学预科相关。约 4 个月。 |
-| **三年级及以后** | 追加/更长的实习期；Co-op 通常会把学位**延长到约 5 年**。后期常有 8–12 个月的实习，与医学预科文档推荐的**间隔年 MCAT 计划**契合良好。 |
+| **二年级 秋–冬** | **在二级期间申请 Co-op 路线** —— 申请要求**累计平均成绩（Cumulative Average）至少达到 6.0**（麦马 12 分制；远低于本方案的 GPA 目标，但这是一条硬性门槛）。完成 **Co-op 职业发展/就业准备环节**（在 MAP 上核对具体课程代码）。准备简历，并通过 Co-op 门户开始投递岗位。 |
+| **实习期** | 依据 2026–27 学年学术日历，Honours Life Sciences Co-op 的结构为**两个 8 个月的实习期**（[学术日历](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=53&poid=27070)）—— 并非早前草稿假设的"先 4 个月、后更长"模式。常见岗位：临床研究、制药、公共卫生、医院研究所 —— 均与医学预科相关。 |
+| **三年级及以后** | 两个 8 个月的实习期意味着 Co-op 会把学位**延长到约 5 年**。这与医学预科文档推荐的**间隔年 MCAT 计划**契合良好 —— 一个 8 个月的实习期对 ABS 而言也是真正有深度的科研经历，而不只是履历上的一行字。 |
 
 **医学预科提示：** Co-op 实习期既可作为 ABS/科研经历，也能为 MCAT 备考提供资金 —— 但**绝不要**让找实习的过程拉低你二年级的 GPA。学业第一；Co-op 申请每周几个小时即可。
 
@@ -61,7 +62,7 @@ Honours Life Sciences（旗舰方向）硬性必修课相对较少，选修空�
 ### 选课系统开放之前（2027 年夏）
 - [ ] **在 MAP 上确认 Honours Life Sciences 二级的确切要求**（`mapsci.ca/level-2-programs/list/honours-life-sciences/`）。核对哪些 LIFESCI 课程是*必修*、哪些是*多选一* —— 已知课程集合包括 LIFESCI 2A03、2L03、2CC3、2D03、2N03、SCICOMM 2A03、STATS 2B03、BIOLOGY 2B03/2C03。据当前必修清单调整本方案的两门"核心"选择。
 - [ ] **向理学院 Co-op 办公室确认 Co-op 预备课程代码与截止日期。**
-- [ ] **在 Mosaic 核对先修：** CHEM 2OA3（需 CHEM 1AA3 ✅）、BIOCHEM 2BB3（需 BIOLOGY 1A03 + CHEM 1AA3 ✅）、BIOLOGY 2A03/2C03、STATS 2B03（二级理学院标准 ✅）。
+- [ ] **在 Mosaic 核对先修：** CHEM 2OA3（需 CHEM 1AA3 ✅）、BIOCHEM 2BB3（**先修要求是取得 CHEM 2OA3 / 2BA3 / CHEMBIO 2OA3 学分或同期注册** —— 秋季与 CHEM 2OA3 同期修读即可满足，但**务必确认 Mosaic 系统接受同期注册**；[学术日历](https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=53&coid=265200)）、BIOLOGY 2A03（动物综合生理学）/2C03、STATS 2B03（二级理学院标准 ✅）。
 - [ ] **去 Simple Syllabus 看 CHEM 2OA3/2OB3 和 BIOCHEM 2BB3 的最新教学大纲** —— 任课教师与评分方案每年变；这几门是 GPA 关键课。
 - [ ] **去 Rate My Courses（`ratemycourses.io/mcmaster`）核对任课教师口碑。**
 
