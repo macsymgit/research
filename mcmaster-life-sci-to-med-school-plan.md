@@ -1,7 +1,7 @@
 # McMaster Honours Life Sciences → Ontario Medical School
 ## A Step-by-Step Action Plan: From G12 (Right Now) to Matriculation | May 2026
 
-> **Research date**: May 2026 | **Live-source verification**: July 2026 (OMSAS 2026–27 cycle, McMaster MD / UofT / Western Schulich / Queen's / Ottawa / NOSM / TMU admissions pages, yorku.ca/medicine, AAMC MCAT 2026 fees, Acuity Insights CASPer 2026–27, AFMC Canadian Medical Education Statistics 2024 — still the latest edition, PARO 2025–26 resident salary scale via direct myparo.ca fetch, Job Bank Ontario wages Nov 2025). Hedged caveat: uOttawa and OUAC pages block automated fetching — those figures verified against authoritative search results only; re-open the cited pages by hand before acting on them. All figures CAD unless noted. **This document is the operational companion to [`mcmaster-life-sciences.md`](mcmaster-life-sciences.md)** — that report covers program structure and outcomes; this report covers the prescriptive G12 → MD prep playbook. Where the two overlap, this report cites the parent doc instead of duplicating.
+> **Research date**: May 2026 | **Live-source verification**: July 2026 (OMSAS 2026–27 cycle, McMaster MD / UofT / Western Schulich / Queen's / Ottawa / NOSM / TMU admissions pages, yorku.ca/medicine, AAMC MCAT 2026 fees, Acuity Insights CASPer 2026–27, AFMC Canadian Medical Education Statistics 2024 — still the latest edition, PARO 2025–26 resident salary scale via direct myparo.ca fetch, Job Bank Ontario wages Nov 2025). Hedged caveat: OUAC pages block automated fetching — those figures verified against authoritative search results only. uOttawa was verified **in-browser July 2026** (application-process page, updated June 2025). All figures CAD unless noted. **This document is the operational companion to [`mcmaster-life-sciences.md`](mcmaster-life-sciences.md)** — that report covers program structure and outcomes; this report covers the prescriptive G12 → MD prep playbook. Where the two overlap, this report cites the parent doc instead of duplicating.
 
 > **Audience.** A G12 Ontario student who has confirmed offer to McMaster Honours Life Sciences (Life Sciences I Gateway, OUAC code MNS) starting September 2026, currently sitting 90–94% in G12, targeting the 7 Ontario MD schools via OMSAS (McMaster, UofT, Western Schulich, Queen's, Ottawa, NOSM, plus the new Toronto Metropolitan University School of Medicine which opened its first MD cohort in 2025-26), with both straight-through (apply Year 3, matriculate Fall 2030) and gap-year (apply Year 4, matriculate Fall 2031) timelines kept live.
 
@@ -47,7 +47,7 @@ The cost is approximately **$95,000 for the 4-year BSc** plus **~$5,000 in appli
 
 Read this list once. Tape it somewhere visible. Re-read it every September.
 
-1. **GPA is the gate.** Ontario MD competitive cumulative GPAs cluster at **3.85–3.95/4.00**, with most matriculants ≥3.90. A 3.7 cGPA after Year 1 is recoverable at Western (drops worst year) and Queen's (last 2 years) but is a major handicap at UofT, Ottawa, McMaster. **Your Year 1 grades will follow you for the rest of the application.** Year 1 is the highest-leverage GPA year you will have — defend it.
+1. **GPA is the gate.** Ontario MD competitive cumulative GPAs cluster at **3.85–3.95/4.00**, with most matriculants ≥3.90. A 3.7 cGPA after Year 1 is recoverable at Western (two qualifying years) and — confirmed July 2026 — at Ottawa (CGPA = your 3 most recent full-time years, so Year 1 drops out for a 4-year applicant); Queen's is threshold-based (cGPA ≥3.0 → QARS lottery). But it is a major handicap at UofT and McMaster, which use pure cumulative GPA. **Your Year 1 grades still follow you at the two biggest cumulative-GPA schools.** Year 1 is the highest-leverage GPA year you will have — defend it.
 
 2. **The MCAT is your second gate.** Competitive Ontario score is **511+ total, 127+ each section, ideally 128+ CARS.** McMaster MD is **CARS-only at 32% of pre-interview score** — meaning a strong CARS + weak everything-else applicant has a real Mac shot. Plan **300–500 hours** of MCAT prep, condensed into 4–6 months, ideally **summer between Year 3 and Year 4** for application during Year 4 / matriculation Fall 2031, OR **summer between Year 2 and Year 3** for application during Year 3 / matriculation Fall 2030. Most successful Ontario matriculants do the latter.
 
@@ -73,7 +73,7 @@ Read this list once. Tape it somewhere visible. Re-read it every September.
 
 ### The Three Things Most Applicants Get Wrong
 
-1. **They treat Year 1 as a "ramp" year.** Most Ontario MD schools use **cumulative GPA without dropping years**. A B+ in first-term Chemistry permanently lowers your cGPA from 3.95 to 3.85 — that is the difference between an automatic-screen at UofT and a manual-review file. The students who get into Mac/UofT/Queen's almost universally have 3.9+ Year 1 GPAs. **You cannot recover Year 1 in Year 2 except by going to Western or Queen's, which drop your worst year(s).**
+1. **They treat Year 1 as a "ramp" year.** Most Ontario MD schools use **cumulative GPA without dropping years**. A B+ in first-term Chemistry permanently lowers your cGPA from 3.95 to 3.85 — that is the difference between an automatic-screen at UofT and a manual-review file. The students who get into Mac/UofT/Queen's almost universally have 3.9+ Year 1 GPAs. **You cannot recover Year 1 at UofT or McMaster (pure cumulative GPA); your escape hatches are Western (two qualifying years), Ottawa (3-most-recent-years CGPA — Year 1 drops out for a 4-year applicant), and Queen's threshold+lottery (cGPA ≥3.0).**
 
 2. **They start MCAT prep too late.** The MCAT is a 7.5-hour standardized test covering biology, biochemistry, organic chemistry, general chemistry, physics, psychology, sociology, and critical reading. **Competitive prep is 300–500 hours over 4–6 months full-time-equivalent.** Students who start MCAT prep three months out, while taking a full Year 3 course load, routinely score 505–509 (below competitive). The successful pattern is **start CARS practice in Year 1 (one passage per day, untimed)**, **content review starting end of Year 2 summer**, and **dedicated full-time prep in the 3–4 months immediately before the test**.
 
@@ -190,25 +190,25 @@ This section is the most consequential operational reference in the document. Ea
 
 ### 2.5 University of Ottawa MD — Bilingual + No MCAT
 
-**Ottawa MD does NOT use the MCAT.** This is one of the few Ontario MD schools to fully exclude MCAT. Heavy holistic file review using weighted GPA + ABS + CASPer. Bilingual school with English and French streams.
+**Ottawa MD does NOT use the MCAT.** This is one of the few Ontario MD schools to fully exclude MCAT. Heavy holistic file review using CGPA (3 most recent full-time years) + ABS + CASPer. Bilingual school with English and French streams.
 
 | Dimension | Value | Source |
 |---|---|---|
 | Class size | ~166–184 entering students per year (recent: ~118–128 Anglophone + ~48–56 Francophone) | [Ottawa UGME Admissions](https://www.uottawa.ca/faculty-medicine/undergraduate/admissions) |
 | Acceptance rate | **~3.7%** | Derived |
-| **GPA rule** | **⚠️ Verify directly before relying.** uOttawa's current published method is described as a **cumulative GPA over the 3 most recent years of full-time study** (not the older year-weighted wGPA) — which, for a 4-year applicant, can effectively drop Year 1 from the calculation. **Minimum cGPA 3.50** to apply; mean of admitted typically **~3.92–3.93**; prerequisites ≥3.0/4.0 (B). uOttawa's site blocks automated verification (checked July 2026) — confirm the exact method on the official application-process page before building course strategy on it. | Ottawa MD admission requirements (re-verify manually) |
+| **GPA rule** | **✅ CONFIRMED in-browser July 2026:** CGPA is computed over your **most recent 3 years of full-time undergraduate studies** (5 courses/term; a 4-course term counts only if the missing course is made up in another year or spring/summer) — for a 4-year applicant, **Year 1 falls out of the CGPA**. **Minimum CGPA 3.50 — hard floor, no exceptions** ("Under no circumstances will exceptions be granted," even 0.02 under). Exchange-abroad years excluded; a year with more than one pass/fail course in a term is excluded; repeated courses count **both** attempts if in-window; courses outside the window are still reviewed in the final comprehensive file check. Mean of admitted typically **~3.92–3.93**; prerequisites ≥3.0/4.0 each. | [uOttawa Application Process](https://www.uottawa.ca/faculty-medicine/undergraduate/application-process) (page update June 2025; fetched July 2026) |
 | **MCAT rule** | **MCAT IS NOT REQUIRED AND IS NOT USED.** Confirmed via official Ottawa MD admissions pages, May 2026. Submitted scores are not reviewed. | [Ottawa MD Admission](https://med.uottawa.ca/undergraduate/admissions) |
 | **CASPer** | **Required.** Must be taken in the language of instruction stream (English or French) selected on OMSAS application. | Ottawa MD |
 | Snapshot / Duet | Not used | Ottawa MD |
 | Personal essays | **Autobiographical Sketch + 4 short "Life Skills / Competences vie" autobiographical questions** | Ottawa MD |
 | **Language requirements** | Bilingual school. Applicants declare English or French stream on OMSAS. Casper, interviews, MD instruction all in chosen language. Francophone stream requires demonstrated French fluency. | Ottawa MD |
-| Pre-interview formula | Composite of **wGPA + ABS + CASPer** → top scorers invited to MMI. Specific weights not publicly disclosed. | Ottawa MD |
+| Pre-interview formula | Composite of **CGPA (3 most recent full-time years) + ABS + CASPer** → top scorers invited to MMI. Specific weights not publicly disclosed. | Ottawa MD |
 | Post-interview formula | Interview + pre-interview file combined; specific weighting not publicly disclosed | Ottawa MD |
 | Interview format | **MMI** (Multiple Mini Interview), typically ~8–10 stations | Ottawa MD |
 | Curriculum | 4-year MD | Ottawa |
 | Tuition (2025-26) | Domestic ~$26,000–27,000/yr | Ottawa |
 | IP/OOP bias | **≥95% Ontario residents** (province directive). **No international seats.** Francophone preference for French stream — significant advantage for francophone applicants from anywhere in Canada. | Ottawa MD |
-| **What this means for you** | **Ottawa is the only Ontario MD school where MCAT does not matter.** If your MCAT is weak (505–509) but your GPA is 3.90+ and your CASPer is Q3+, Ottawa is one of your best Ontario shots. If you're Francophone-fluent, the French stream is statistically less competitive than the Anglophone pool — strong advantage. Anglophone applicants: focus on polishing the autobiographical Life Skills essays. Start drafting in summer Year 3. |
+| **What this means for you** | **Ottawa is the only Ontario MD school where MCAT does not matter.** If your MCAT is weak (505–509) but your GPA is 3.90+ and your CASPer is Q3+, Ottawa is one of your best Ontario shots. **And because the CGPA covers only your 3 most recent full-time years, a wobbly Year 1 does not follow you here (4-year applicants)** — Ottawa joins Western as a Year-1-forgiveness school. If you're Francophone-fluent, the French stream is statistically less competitive than the Anglophone pool — strong advantage. Anglophone applicants: focus on polishing the autobiographical Life Skills essays. Start drafting in summer Year 3. |
 
 ### 2.6 NOSM University (Thunder Bay + Sudbury) — No MCAT, No CASPer, Contextual Selection
 
@@ -320,7 +320,7 @@ Source: [OMSAS Conversion Table](https://www.ouac.on.ca/guide/omsas-conversion-t
 | UofT | **Cumulative GPA** (wGPA discontinued 2022-23) | 3.6 | **3.94 mean (Class of 2T9)** |
 | Western Schulich | **Two qualifying full-load years**, each ≥3.7 OMSAS, ≥5 FCE, max 1 P/F | 3.7 in each qualifying yr | **3.96 / 3.91 (Class of 2029 means)** |
 | Queen's | **Cumulative GPA threshold only** (QARS lottery above threshold) | **3.0** | No competitive mean — threshold passes you into lottery |
-| Ottawa | **Weighted GPA (wGPA)** — later years weighted more | cGPA 3.50 | **3.92–3.93 mean** |
+| Ottawa | **CGPA over the 3 most recent full-time years** (Year 1 drops out for 4-year applicants; confirmed July 2026) | CGPA 3.50 (hard floor) | **3.92–3.93 mean** |
 | NOSM | Cumulative GPA (all undergrad) | 3.0 | 3.76–3.79 mean (Context Score is the binding constraint) |
 | TMU | Verify on TMU site | — | — |
 
