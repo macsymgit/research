@@ -1,7 +1,7 @@
 # McMaster University — Honours Life Sciences (BSc)
 ## Comprehensive Research Report: Medical School Pathway, Alternatives & Success Strategy | May 2026
 
-> **Research date**: May 2026 | **Live-source verification**: July 2026 (ugme.healthsci.mcmaster.ca, applymd.utoronto.ca, schulich.uwo.ca, meds.queensu.ca, nosm.ca, torontomu.ca, yorku.ca/medicine, AAMC, Acuity Insights, myparo.ca 2025–26 primer, academiccalendars.romcmaster.ca, universityaffairs.ca). Hedged caveat: uOttawa and OUAC pages block automated fetching — those figures were verified against authoritative search results only. All figures CAD unless noted.
+> **Research date**: May 2026 | **Live-source verification**: July 2026 (ugme.healthsci.mcmaster.ca, applymd.utoronto.ca, schulich.uwo.ca, meds.queensu.ca, nosm.ca, torontomu.ca, yorku.ca/medicine, AAMC, Acuity Insights, myparo.ca 2025–26 primer, academiccalendars.romcmaster.ca, registrar.mcmaster.ca 2025–26 fees, housing.mcmaster.ca + hospitality.mcmaster.ca 2026–27 rates, universityaffairs.ca). Hedged caveat: uOttawa and OUAC pages block automated fetching — those figures were verified against authoritative search results only. All figures CAD unless noted.
 
 ---
 
@@ -40,9 +40,9 @@ McMaster Honours Life Sciences is a **broad, biology-heavy BSc** designed primar
 |---|---|---|
 | Admission average (competitive) | ~94% (estimated) | McMaster does not publish official cutoffs |
 | Supplementary application | **None** | Major distinction from McMaster BHSc |
-| Annual tuition (domestic Ontario) | ~$6,800–$7,400 (2025–26) | Freeze (2019–2025) lifted Feb 2026; up to +2%/yr from 2026–27 |
-| Annual tuition (international) | ~$48,000–$53,000 | |
-| 4-year total cost (domestic) | ~$70,000–$95,000 | Includes residence/meals/books |
+| Annual tuition (domestic Ontario) | $6,043 tuition + ~$1,300–1,400 suppl. fees (2025–26 published) | 2026–27 fees post early Aug; freeze lifted — up to +2%/yr |
+| Annual tuition (international) | ~$47,535 (2025–26, $1,584.51/unit) | |
+| 4-year total cost (domestic) | ~$75,000–$100,000 | Incl. residence/meals/books; 2026–27 residence+meal rates raised Y1 ~$2,700 |
 | McMaster MD acceptance rate | **3.6–4.2%** | ~5,605 applicants for 217 seats |
 | Med school admits per cycle (Life Sci) | ~5–15% (estimated) | Strong applicants 15–35% |
 | Years to staff physician | **9–14 years** | Fastest via McMaster's 3-year MD + family medicine |
@@ -191,22 +191,22 @@ This is the single largest distinction from McMaster's BHSc program (which uses 
 
 | Category | Annual Cost (CAD) |
 |---|---|
-| Domestic Ontario, BSc Faculty of Science | **~$6,800–$7,400** (2025–26; the 2019–2025 freeze was lifted Feb 2026 — expect up to +2%/yr from 2026–27, [universityaffairs.ca](https://universityaffairs.ca/news/ontario-lifts-tuition-freeze-injects-6-4-b-in-post-secondary-sector/)) |
+| Domestic Ontario, BSc Faculty of Science | **$6,042.60** ($201.42/unit × 30 units, 2025–26 published — [registrar.mcmaster.ca](https://registrar.mcmaster.ca/fees/undergraduate/)) + **~$1,300–1,400 supplementary fees** (health/dental, bus pass, athletics). 2026–27 fees post the first week of August; the 2019–2025 freeze was lifted Feb 2026 — expect up to +2%/yr ([universityaffairs.ca](https://universityaffairs.ca/news/ontario-lifts-tuition-freeze-injects-6-4-b-in-post-secondary-sector/)) |
 | Out-of-province (non-Ontario Canadian) | ~$8,000–$9,500 |
-| International, BSc | **~$48,000–$53,000** |
-| Co-op administration fee | $3,975 over 3 years (one-time, prorated) |
+| International, BSc | **~$47,535** ($1,584.51/unit, 2025–26) |
+| Co-op fees (Science) | $236.61 admin + $816.20 per work term (2025–26 published — replaces the older "$3,975 over 3 years" structure) |
 
 ### 4-Year Total Cost — Domestic Ontario Student
 
 | Item | Amount |
 |---|---|
-| Tuition (4 years) | ~$28,000–$30,000 |
-| Residence (Year 1, mandatory if guaranteed) | ~$8,200–$11,500 |
-| Mandatory meal plan (Year 1) | $3,940–$5,500+ |
+| Tuition + suppl. fees (4 years) | ~$30,000–$32,000 |
+| Residence (Year 1, mandatory if guaranteed) | $6,550 (quad) – $11,200 (single ensuite); **traditional double $9,220** + ~$130 mandatory fees (posted July 2026) |
+| Mandatory meal plan (Year 1) | **$7,280–$7,960** traditional halls; $4,590–$5,310 apartment-style (2026–27) |
 | Books / supplies | ~$1,000–$1,500/year |
 | Off-campus housing (Years 2–4) | $700–$1,200/month |
 | Transportation, personal | ~$2,000–$3,000/year |
-| **Estimated 4-year total** | **~$70,000–$95,000** |
+| **Estimated 4-year total** | **~$75,000–$100,000** |
 
 **International equivalent: ~$220,000–$260,000 over 4 years.**
 
@@ -217,8 +217,8 @@ This is the single largest distinction from McMaster's BHSc program (which uses 
   - **Traditional-style** (Whidden, Woodstock, Brandt) — shared washrooms, lower cost
   - **Apartment-style** (Bates, Mary E. Keyes) — higher cost
   - **Suite-style** (Les Prince, McKay) — highest cost
-- Whidden Hall traditional double was $8,590 (2024–25 reference); 2025–26 likely slightly higher.
-- Mandatory meal plan (Year 1) ranges from $3,940 to $5,500+ depending on building.
+- Posted rates as of July 2026 ([housing.mcmaster.ca](https://housing.mcmaster.ca/residence-fees/) — page is not year-stamped; the linked meal-plan pricing is explicitly 2026–27): traditional double **$9,220**, triple $6,750, quad $6,550, single with ensuite $11,200, plus ~$130 in mandatory residence fees. Up sharply from the $8,590 double cited for 2024–25.
+- Mandatory Year 1 meal plan (2026–27, [hospitality.mcmaster.ca](https://hospitality.mcmaster.ca/meal-plans-and-cards/meal-plans/)): traditional halls **$7,280–$7,960** (Trad A–D); apartment-style $4,590–$5,310. This is roughly double the $3,940–$5,500 range this report previously carried — budget accordingly.
 
 ---
 
@@ -872,13 +872,15 @@ This is sustainable for 1–2 years but not 4. Expect 1–2 "easier" terms scatt
 
 ### 9.1 The 4-Year Investment (Domestic Ontario Student)
 
-| Year | Tuition | Residence/Housing | Meals | Books | Other | Annual Total |
+| Year | Tuition + fees | Residence/Housing | Meals | Books | Other | Annual Total |
 |---|---|---|---|---|---|---|
-| Y1 | $7,000 | $9,500 (residence) | $4,800 | $1,200 | $2,500 | $25,000 |
-| Y2 | $7,000 | $8,400 (off-campus) | $3,600 | $1,200 | $2,500 | $22,700 |
-| Y3 | $7,000 | $9,000 (off-campus) | $3,600 | $1,200 | $2,500 | $23,300 |
-| Y4 | $7,000 | $9,000 (off-campus) | $3,600 | $1,200 | $2,500 | $23,300 |
-| **Total** | **$28,000** | **$35,900** | **$15,600** | **$4,800** | **$10,000** | **~$94,000** |
+| Y1 | $7,400 | $9,350 (trad. double + res. fees, 2026–27 posted) | $7,280 (meal plan, 2026–27) | $1,200 | $2,500 | $27,700 |
+| Y2 | $7,400 | $8,400 (off-campus) | $3,600 | $1,200 | $2,500 | $23,100 |
+| Y3 | $7,400 | $9,000 (off-campus) | $3,600 | $1,200 | $2,500 | $23,700 |
+| Y4 | $7,400 | $9,000 (off-campus) | $3,600 | $1,200 | $2,500 | $23,700 |
+| **Total** | **$29,600** | **$35,750** | **$18,080** | **$4,800** | **$10,000** | **~$98,000** |
+
+*Y1 uses posted 2026–27 residence and meal-plan rates with 2025–26 tuition (+ ~2% assumed forward); Y2–4 off-campus figures remain estimates. Treat the total as ~$95K–$100K.*
 
 OSAP can cover most of this for Ontario residents below median family income; many students graduate with $20K–$50K in OSAP debt. International students commonly graduate with $200K+ in family contribution or international student loans.
 

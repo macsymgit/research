@@ -68,7 +68,7 @@ Read this list once. Tape it somewhere visible. Re-read it every September.
 | Years HS → staff physician (specialist) | **12–14 years** | CaRMS residency lengths |
 | Ontario FM physician gross billings (median) | **~$303,000** | [MD Financial Management](https://invested.mdm.ca/how-much-do-doctors-make-in-canada/) |
 | McMaster MD class size | **217** (Hamilton 153 + Niagara 32 + Waterloo 32 regional campuses) | McMaster UGME |
-| Total Year 1–4 undergrad cost (domestic) | **~$95,000** | McMaster cost estimator |
+| Total Year 1–4 undergrad cost (domestic) | **~$95,000–$100,000** (2026–27 residence $9,220 double + meal plan $7,280+ pushed Y1 up ~$2,700) | McMaster registrar/housing/hospitality, July 2026 |
 | Total MCAT + CASPer + OMSAS fees | **~$3,000–$5,000** | AAMC + Acuity + OUAC published fees |
 
 ### The Three Things Most Applicants Get Wrong
@@ -2126,6 +2126,8 @@ Source: [MD Financial Management — Physician Income](https://invested.mdm.ca/h
 **Breakeven: Year 10 (5 years after med school graduation).**
 
 **Note:** This excludes interest on LOC debt (significant — $250K LOC at 6% interest is $15K/yr until paid off, typically takes 8–10 years post-residency).
+
+**Note on Y1:** At the posted 2026–27 rates (traditional double $9,220 + meal plan $7,280–$7,960), the real Year 1 cash cost is closer to **-$27,700** than the round -$25,000 above. The table keeps round planning numbers — treat all cumulative figures as ±$3K. Detailed cost build-up: parent report §9.1.
 
 ### 15.8 The 14-Year Trajectory (Backup: McMaster Life Sci → MPAS)
 
