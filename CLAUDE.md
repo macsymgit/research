@@ -14,6 +14,7 @@ Primary research and planning documents (2026), each with a paired Chinese (`-zh
 - **mcmaster-life-sci-to-med-school-plan.md** — Step-by-step G12-to-matriculation playbook for all 7 Ontario MD schools, with per-school 2026-27 admission rules, OMSAS roadmap, Plan B activation, and ROI analysis
 - **mcmaster-life-sci-year1-schedule.md** / **mcmaster-life-sci-year2-schedule.md** — Term-by-term Year 1 & Year 2 course plans reconciled with the official Gateway + Honours Life Sci Level II requirements
 - **mcmaster-life-sci-year1-action-items.md** — Checklist of admission, registration, and first-year tasks
+- **canada-premed-summer-research-programs.md** — Canadian premed summer-research directory for the Summer 2027 cycle: ~60 programs with eligibility, year-of-study gate, stipend, dates, plus a Nov–Mar calendar and supervisor cold-email playbook, plus McMaster RA / student-job channels
 
 ## Research Conventions
 

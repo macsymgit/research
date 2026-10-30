@@ -675,10 +675,11 @@ This is the most consequential year of your entire pre-med journey. Year 1 GPA i
    - A 4–5 sentence email referencing a specific paper of theirs (read at least the abstract)
    - Your CV (1 page max)
    - Availability (May–August)
-   - Whether you're applying for NSERC USRA (Undergraduate Student Research Award — $6,000 for 16 weeks; **highly competitive; deadline typically mid-February**)
-   - **NSERC USRA at McMaster:** [research.mcmaster.ca](https://research.mcmaster.ca/) — apply through the host professor. **You must have a 3.5+ GPA and Canadian citizen/PR status.**
+   - Whether you're applying for NSERC USRA (Undergraduate Student Research Award — $6,000 NSERC + ≥ $3,268 McMaster Science top-up ≈ $9,268 for 14–16 weeks; **highly competitive; department deadlines Feb 2–28 in the 2026 cycle**)
+   - **NSERC USRA at McMaster:** [our.science.mcmaster.ca](https://our.science.mcmaster.ca/funding-2/nserc-usra/) — apply through the department of the host professor. **You need ≥ 1 completed year, a cumulative GPA ≥ 9.0 (12-point scale; some departments higher), and Canadian citizen/PR status** (verified Oct 2026).
+   - **Full directory of Canadian summer research programs (who can apply after Year 1, stipends, 2027 dates):** [canada-premed-summer-research-programs.md](canada-premed-summer-research-programs.md)
 
-3. **Apply for summer hospital research / clinical positions.** Programs like the **McMaster Health Sciences Summer Research Trainee Program**, **CIHR Health Professional Student Research Award**, or paid positions at Hamilton Health Sciences research institutes (Population Health Research Institute — PHRI, Father Sean O'Sullivan Research Centre — FSORC) open in January–February 2027.
+3. **Apply for summer hospital research / clinical positions.** Programs like the **McMaster Health Sciences Summer Research Trainee Program**, **CIHR Health Professional Student Research Award**, or paid positions at Hamilton Health Sciences research institutes (Population Health Research Institute — PHRI, Father Sean O'Sullivan Research Centre — FSORC) open in January–February 2027. *(Oct 2026 check: PHRI's Jan 1 – Feb 15, 2027 window is confirmed; the other program names here could not be confirmed, and the CIHR HPSRA is aimed at professional-program (e.g., MD) students. See [canada-premed-summer-research-programs.md](canada-premed-summer-research-programs.md) for verified options.)*
 
 4. **Apply for a McMaster Pre-Health Society or McMaster Premed Society junior executive role.** Most clubs hold elections in March 2027 for the 2027–28 academic year. Junior positions (events coordinator, social media) are appropriate for incoming Year 2 students. **Senior leadership (President, VP) waits for Year 3 or Year 4.**
 
@@ -1180,7 +1181,7 @@ A competitive Ontario MD applicant ABS typically has:
 **Paid summer research awards:**
 - **NSERC USRA** — $6,000 + supplement, 16 weeks, mid-Feb deadline
 - **CIHR Health Professional Student Research Award**
-- **McMaster Children's Hospital Foundation summer studentships**
+- **McMaster Children's Hospital Foundation summer studentships** *(not confirmed Oct 2026; see [canada-premed-summer-research-programs.md](canada-premed-summer-research-programs.md))*
 - **Heart and Stroke Foundation summer research awards**
 
 #### Tutoring / Teaching
@@ -2246,7 +2247,7 @@ This document builds on the source base of [`mcmaster-life-sciences.md`](mcmaste
 - [Hamilton Food Share](https://hamiltonfoodshare.org)
 
 ### Research / Funding
-- [NSERC USRA](https://www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp)
+- [NSERC USRA](https://nserc-crsng.canada.ca/en/funding-opportunity/undergraduate-student-research-awards)
 - [CIHR Health Professional Student Research Award](https://cihr-irsc.gc.ca/e/37788.html)
 - [McMaster Population Health Research Institute](https://phri.ca)
 

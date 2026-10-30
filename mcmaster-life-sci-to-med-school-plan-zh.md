@@ -674,10 +674,11 @@ OMSAS 要求 **3 位推荐人**。最强组合：
    - 一封 4–5 句话的邮件引用他们的一篇具体论文（至少读摘要）
    - 你的 CV（最多 1 页）
    - 可用时间（5 月–8 月）
-   - 是否申请 NSERC USRA（本科生研究奖 — 16 周 $6,000；**竞争激烈；截止日期通常 2 月中旬**）
-   - **NSERC USRA 在麦克马斯特：**[research.mcmaster.ca](https://research.mcmaster.ca/) — 通过东道主教授申请。**你必须有 3.5+ GPA 和加拿大公民/PR 身份。**
+   - 是否申请 NSERC USRA（本科生研究奖 — NSERC $6,000 + 麦马理学院补贴 ≥ $3,268 ≈ 14–16 周 $9,268；**竞争激烈；2026 周期各系截止日期为 2 月 2–28 日**）
+   - **NSERC USRA 在麦克马斯特：**[our.science.mcmaster.ca](https://our.science.mcmaster.ca/funding-2/nserc-usra/) — 通过东道主教授所在系申请。**需要至少完成 1 学年、累计 GPA ≥ 9.0（12 分制；部分系更高），以及加拿大公民/PR 身份**（2026 年 10 月核实）。
+   - **加拿大暑期科研项目完整目录（大一后可申请哪些、津贴、2027 日期）：**[canada-premed-summer-research-programs-zh.md](canada-premed-summer-research-programs-zh.md)
 
-3. **申请暑期医院研究/临床岗位。** 如**麦克马斯特健康科学暑期研究实习生计划**、**CIHR 健康专业学生研究奖**或汉密尔顿健康科学研究院（人口健康研究所 — PHRI、Father Sean O'Sullivan 研究中心 — FSORC）的有偿职位 2027 年 1 月-2 月开放。
+3. **申请暑期医院研究/临床岗位。** 如**麦克马斯特健康科学暑期研究实习生计划**、**CIHR 健康专业学生研究奖**或汉密尔顿健康科学研究院（人口健康研究所 — PHRI、Father Sean O'Sullivan 研究中心 — FSORC）的有偿职位 2027 年 1 月-2 月开放。*（2026 年 10 月核实：PHRI 2027 年 1 月 1 日–2 月 15 日的申请窗口已确认；此处其他项目名称无法核实，且 CIHR HPSRA 面向专业项目（如 MD）学生。已核实的选项见 [canada-premed-summer-research-programs-zh.md](canada-premed-summer-research-programs-zh.md)。）*
 
 4. **申请麦克马斯特 Pre-Health Society 或麦克马斯特 Premed Society 初级执委角色。** 多数社团 2027 年 3 月为 2027–28 学年举行选举。初级位置（活动协调员、社交媒体）适合进入第 2 学年的学生。**高级领导（President、VP）等到第 3 学年或第 4 学年。**
 
@@ -1179,7 +1180,7 @@ OMSAS 要求 **3 位推荐人**。最强组合：
 **有偿暑期研究奖：**
 - **NSERC USRA** — 16 周 $6,000 + 补贴，2 月中旬截止
 - **CIHR 健康专业学生研究奖**
-- **麦克马斯特儿童医院基金会暑期学生职位**
+- **麦克马斯特儿童医院基金会暑期学生职位** *（2026 年 10 月未能核实；见 [canada-premed-summer-research-programs-zh.md](canada-premed-summer-research-programs-zh.md)）*
 - **心脏和中风基金会暑期研究奖**
 
 #### 辅导 / 教学
@@ -2242,7 +2243,7 @@ Plan B 启动通常与预医旅程**情感上最困难的时期**重合。积极
 - [Hamilton Food Share](https://hamiltonfoodshare.org)
 
 ### 研究 / 资助
-- [NSERC USRA](https://www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp)
+- [NSERC USRA](https://nserc-crsng.canada.ca/en/funding-opportunity/undergraduate-student-research-awards)
 - [CIHR 健康专业学生研究奖](https://cihr-irsc.gc.ca/e/37788.html)
 - [McMaster Population Health Research Institute](https://phri.ca)
 
