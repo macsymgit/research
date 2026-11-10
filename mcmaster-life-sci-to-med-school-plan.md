@@ -356,7 +356,7 @@ The MCAT has 4 sections, each scored 118–132 (median 125), total 472–528 (me
 | **MCAT not required at:** | **Ottawa, NOSM** — skip if these are your only realistic targets | — | — |
 
 **National data (AAMC + AFMC CMES 2025, 2025/26 cycle):**
-- Canadian-resident applicants reporting MCAT (n=7,859): mean **509.0** (SD 8.6). CMES 2024: 508.6 (n=5,703). (Table F-28)
+- Canadian-resident applicants reporting MCAT (n=7,859): mean **509.0** (SD 8.6) (Table F-28). CMES 2024: 508.6. AFMC counts only applicants to schools that report; in 2025, Ottawa, Queen's, UofT, McMaster, NOSM and TMU did not. So n moves with the set of reporting schools and does not show an applicant trend.
 - Canadian offer-receivers (n=1,613): mean **511.0** (Table F-30v)
 - Ontario residents receiving offers: section means sum to **~514.7** (n=383, CMES 2024 Table F-32). The CMES 2025 Ontario row (n=128, ~511.9) is not comparable, because six Ontario schools did not report.
 - US matriculant median: ~511.7
@@ -2023,7 +2023,7 @@ This section is the operational financial plan. Most premed advice glosses over 
 | **Interview prep (mocks/services, optional)** | $500–$1,500 |
 | **Annual total** | **~$27,000–$28,000** |
 
-**4-Year Total (Domestic):** **~$101,000–$103,000**
+**4-Year Total (Domestic):** **~$101,000–$103,000** (round planning numbers; ~$109,000 at published 2026–27 rates; see the note under §15.7)
 
 Note: This is conservative. Students who add a research-focused 5th year, take a paid co-op, or have higher rent costs in Toronto would adjust.
 
@@ -2128,7 +2128,7 @@ Source: [MD Financial Management — Physician Income](https://invested.mdm.ca/h
 
 **Note:** This excludes interest on LOC debt (significant — $250K LOC at 6% interest is $15K/yr until paid off, typically takes 8–10 years post-residency).
 
-**Note on Y1–Y4 (updated Nov 2026):** The table keeps round planning numbers. At the published 2026–27 rates, Year 1 tuition + supplementary/faculty fees are ~$8,050 ($6,163 + ~$1,890), against the $7,000 + $300 MSU planning figures. Residence + meal plan are $16,630–$17,310 (double $9,220 + ~$130 fees + meal plan $7,280–$7,960), against $14,000. That puts real Year 1 cash cost at **~-$28,400 to -$29,100**. Years 2–4 fees run ~$900/yr above the $7,000 figure even at today's rates. By Y4 the cumulative figures understate costs by **~$6,000–$7,000**: shift every cumulative figure from Y4 onward by about −$7K. Breakeven stays in Year 10–11. Detailed cost build-up: parent report §9.1.
+**Note on Y1–Y4 (updated Nov 2026):** The table keeps round planning numbers. At the published 2026–27 rates, Year 1 tuition + supplementary/faculty fees are ~$8,050 ($6,163 + ~$1,890), against the $7,000 + $300 MSU planning figures. Residence + meal plan are $16,630–$17,310 (double $9,220 + ~$130 fees + meal plan $7,280–$7,960), against $14,000. That puts real Year 1 cash cost at **~-$28,400 to -$29,100**. Years 2–4 fees run ~$900/yr above the $7,000 figure even at today's rates. By Y4 the cumulative figures understate costs by **~$6,000–$7,000**: shift every cumulative figure from Y4 onward by about −$7K. The same shift applies to the §15.8 MPAS table (its −$102,200 start). Breakeven stays in Year 10–11. Detailed cost build-up: parent report §9.1.
 
 ### 15.8 The 14-Year Trajectory (Backup: McMaster Life Sci → MPAS)
 

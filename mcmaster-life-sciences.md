@@ -40,9 +40,9 @@ McMaster Honours Life Sciences is a **broad, biology-heavy BSc** designed primar
 |---|---|---|
 | Admission average (competitive) | ~94% (estimated) | McMaster does not publish official cutoffs |
 | Supplementary application | **None** | Major distinction from McMaster BHSc |
-| Annual tuition (domestic Ontario) | $6,163 tuition + ~$1,890 suppl. + Science faculty fees (Year 1, 2026–27 published) | Freeze lifted; later years not yet published (up to +2%/yr) |
+| Annual tuition (domestic Ontario) | $6,163 tuition + ~$1,890 suppl. fees incl. Science faculty fees (Year 1, 2026–27 published) | Freeze lifted; later years not yet published (up to +2%/yr) |
 | Annual tuition (international) | ~$47,535 (2026–27, $1,584.51/unit, unchanged) | |
-| 4-year total cost (domestic) | ~$75,000–$100,000 | Incl. residence/meals/books; 2026–27 residence+meal rates raised Y1 ~$2,700 |
+| 4-year total cost (domestic) | ~$80,000–$112,000 | Incl. residence/meals/books; 2026–27 residence+meal rates raised Y1 ~$2,700 |
 | McMaster MD acceptance rate | **3.6–4.2%** | ~5,605 applicants for 217 seats |
 | Med school admits per cycle (Life Sci) | ~5–15% (estimated) | Strong applicants 15–35% |
 | Years to staff physician | **9–14 years** | Fastest via McMaster's 3-year MD + family medicine |
@@ -206,7 +206,7 @@ This is the single largest distinction from McMaster's BHSc program (which uses 
 | Books / supplies | ~$1,000–$1,500/year |
 | Off-campus housing (Years 2–4) | $700–$1,200/month |
 | Transportation, personal | ~$2,000–$3,000/year |
-| **Estimated 4-year total** | **~$75,000–$100,000** |
+| **Estimated 4-year total** | **~$80,000–$112,000** (sum of the rows above at 2026–27 rates) |
 
 **International equivalent: ~$220,000–$260,000 over 4 years.**
 
