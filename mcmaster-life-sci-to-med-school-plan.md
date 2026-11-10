@@ -2143,11 +2143,11 @@ Source: [MD Financial Management — Physician Income](https://invested.mdm.ca/h
 | Y6 2031–32 | MPAS Y2 + practicum | -$16,000 | -$140,600 |
 | Y7 2032–33 | PA Year 1 (Ontario) | +$60,000 (after rent + tax + LOC payments) | -$80,600 |
 | Y8 2033–34 | PA Year 2 | +$75,000 | -$5,600 |
-| Y9 onwards | PA mid-career | +$85,000–$100,000 | +$900K by Y14 |
+| Y9 onwards | PA mid-career | +$85,000–$100,000 | ~+$504K–$594K by Y14 |
 
 **Breakeven: early Year 9 (cumulative is -$5,600 at the end of Year 8).**
 
-**Conclusion:** MPAS reaches breakeven 2 years earlier than MD-FM (early Year 9 vs. early Year 11). Total earnings by Y14 are roughly comparable (PA $900K vs. MD-FM ~$740K cumulative — because PA started earning sooner).
+**Conclusion:** MPAS reaches breakeven 2 years earlier than MD-FM (early Year 9 vs. early Year 11). By Y14, MD-FM is ahead: ~$740K cumulative vs. ~$504K–$594K for PA. PA's earlier start does not make up for the lower salary within 14 years. (The earlier "$900K" PA figure did not follow from the table rows: six years at $85K–$100K net from a −$5,600 start.)
 
 **Financing lever new for Fall 2026:** Ontario's expanded **Learn and Stay Grant** funds up to ~1,000 medical students per year who commit to practising family medicine in Ontario ([ontariocanada.com](https://www.ontariocanada.com/registry/view.do?postingId=49073&language=en)). Since this trajectory's Plan A *is* family medicine, Learn-and-Stay eligibility in the 2030 MD intake would remove a large slice of the -$53K/yr MD-years cost above — check the program's terms in the application year.
 
@@ -2163,7 +2163,7 @@ Sometimes premeds reject Plan B and just keep reapplying.
 | Y9 onwards | Plateau at lab tech or RA, $55–$70K | ~$65K/yr |
 | **By Year 14** | | **Cumulative: ~$314K** |
 
-Compare to MD-FM cumulative $740K by Y14 or PA $900K by Y14. **The "no Plan B" path is the worst financial outcome.**
+Compare to MD-FM cumulative $740K by Y14 or PA ~$504K–$594K by Y14. **The "no Plan B" path is the worst financial outcome.**
 
 This is the practical case for activating Plan B by end of Year 3.
 
