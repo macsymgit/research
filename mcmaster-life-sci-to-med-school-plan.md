@@ -39,7 +39,7 @@
 
 Your child is starting a **4-year Bachelor of Science (Honours) in Life Sciences** at McMaster in September 2026 with the goal of medical school. The Ontario medical-school pipeline they are entering has four levers — **GPA, MCAT (especially CARS), CASPer, and extracurricular depth** — and the **rest is noise**. Whichever lever is weakest determines the outcome. The application itself happens in **fall of Year 3** (deadline October 1, 2029 for matriculation Fall 2030) or in a **gap-year cycle** (Fall 2030, matriculate Fall 2031). About 60–70% of Ontario MD matriculants take one or more gap years — that's the modal path, not the backup.
 
-The cost is approximately **$100,000–$110,000 for the 4-year BSc** plus **~$5,000 in application/MCAT/CASPer fees** during Years 3–4, and (if admitted) **$75,000–$95,000** for a 3-year McMaster MD or 4-year MD elsewhere in Ontario. Total time from high school graduation to becoming a staff physician practising independently is **9 years for family medicine via McMaster's 3-year MD** and **12–14 years for specialists**. Median Ontario family physician gross billings are approximately **$303,000** (net ~$170K–$250K after overhead/taxes); high-procedural specialists routinely net $400K+ ([MD Financial Management — Physician Income](https://invested.mdm.ca/how-much-do-doctors-make-in-canada/)).
+The cost is approximately **$108,000–$109,000 for the 4-year BSc** plus **~$5,000 in application/MCAT/CASPer fees** during Years 3–4, and (if admitted) **$75,000–$95,000** for a 3-year McMaster MD or 4-year MD elsewhere in Ontario. Total time from high school graduation to becoming a staff physician practising independently is **9 years for family medicine via McMaster's 3-year MD** and **12–14 years for specialists**. Median Ontario family physician gross billings are approximately **$303,000** (net ~$170K–$250K after overhead/taxes); high-procedural specialists routinely net $400K+ ([MD Financial Management — Physician Income](https://invested.mdm.ca/how-much-do-doctors-make-in-canada/)).
 
 **The thing parents most often misunderstand.** Ontario MD admission has structurally low odds — 5–12% per school per cycle for an average competitive applicant. Your child being a strong student in high school is necessary but not remotely sufficient. The strongest predictor of a McMaster Life Sci graduate matriculating to an MD program is **not raw intelligence** — it's a **sustained, disciplined 4-year campaign** with no GPA disasters, deep extracurricular roots, and a Plan B activated in parallel. That campaign starts now, in May 2026, not in Year 3.
 
@@ -68,7 +68,7 @@ Read this list once. Tape it somewhere visible. Re-read it every September.
 | Years HS → staff physician (specialist) | **12–14 years** | CaRMS residency lengths |
 | Ontario FM physician gross billings (median) | **~$303,000** | [MD Financial Management](https://invested.mdm.ca/how-much-do-doctors-make-in-canada/) |
 | McMaster MD class size | **217** (Hamilton 153 + Niagara 32 + Waterloo 32 regional campuses) | McMaster UGME |
-| Total Year 1–4 undergrad cost (domestic) | **~$102,000–$109,000** (round planning tables ~$102K; ~$109K at published 2026–27 rates: tuition $6,163 + ~$1,890 fees, double $9,220 + meal plan $7,280+; see §15.7 note) | McMaster registrar/housing/hospitality, July + Nov 2026 |
+| Total Year 1–4 undergrad cost (domestic) | **~$108,000–$109,000** (published 2026–27 rates: tuition $6,163 + ~$1,890 fees, double $9,220 + meal plan $7,280+; see §15.1) | McMaster registrar/housing/hospitality, July + Nov 2026 |
 | Total MCAT + CASPer + OMSAS fees | **~$3,000–$5,000** | AAMC + Acuity + OUAC published fees |
 
 ### The Three Things Most Applicants Get Wrong
@@ -1979,51 +1979,57 @@ This section is the operational financial plan. Most premed advice glosses over 
 #### Year 1 (2026–27) — Residence-Living
 | Item | Cost |
 |---|---|
-| Tuition (Honours Life Sci, ~$7,000/yr) | $7,000 |
-| Residence + meal plan | $14,000 |
+| Tuition (Level 1, $205.44/unit × 30) | $6,163 |
+| Supplementary + Science faculty fees (incl. MSU health/dental, orientation) | $1,890 |
+| Residence (traditional double $9,220 + ~$130 fees) | $9,350 |
+| Meal plan (lowest traditional-hall plan; plans run to $7,960) | $7,280 |
 | Books + supplies | $1,200 |
 | Personal / transportation / phone | $2,500 |
-| Health insurance (MSU) | $300 |
-| **Annual total** | **~$25,000** |
+| **Annual total** | **~$28,400** |
 
 #### Year 2 (2027–28) — Off-Campus
 | Item | Cost |
 |---|---|
-| Tuition | $7,000 |
+| Tuition (2026–27 rate, no escalation) | $6,163 |
+| Supplementary + Science faculty fees | $1,750 |
 | Rent (shared house, $700/mo × 12) | $8,400 |
 | Food/utilities/groceries | $4,800 |
 | Books + supplies | $1,200 |
 | Personal/transport/phone | $2,500 |
-| **Annual total** | **~$23,900** |
+| **Annual total** | **~$24,800** |
 
 #### Year 3 (2028–29) — Off-Campus + MCAT
 | Item | Cost |
 |---|---|
-| Tuition | $7,000 |
+| Tuition (2026–27 rate, no escalation) | $6,163 |
+| Supplementary + Science faculty fees | $1,750 |
 | Rent | $8,400 |
 | Food/utilities | $4,800 |
 | Books + supplies | $1,200 |
 | Personal/transport/phone | $2,500 |
-| **MCAT registration** | $445 |
+| **MCAT registration** | $475 |
 | **MCAT prep (UWorld, AAMC, books)** | $1,500 |
-| **Annual total** | **~$25,800** |
+| **Annual total** | **~$26,800** |
 
 #### Year 4 (2029–30) — Off-Campus + Application Cycle
 | Item | Cost |
 |---|---|
-| Tuition | $7,000 |
+| Tuition (2026–27 rate, no escalation) | $6,163 |
+| Supplementary + Science faculty fees | $1,750 |
 | Rent | $8,400 |
 | Food/utilities | $4,800 |
 | Books + supplies | $1,200 |
 | Personal/transport/phone | $2,500 |
-| **OMSAS fees (6 schools)** | $1,000 |
+| **OMSAS fees (7 schools)** | $1,100 |
 | **CASPer + Duet** | $115 |
 | **Transcripts** | $25 |
 | **Interview travel (3 cities)** | $1,500 |
 | **Interview prep (mocks/services, optional)** | $500–$1,500 |
-| **Annual total** | **~$27,000–$28,000** |
+| **Annual total** | **~$28,100–$29,100** |
 
-**4-Year Total (Domestic):** **~$101,000–$103,000** (round planning numbers; ~$109,000 at published 2026–27 rates; see the note under §15.7)
+**4-Year Total (Domestic):** **~$108,000–$109,000**
+
+**Basis (Nov 2026):** Tuition, supplementary fees, residence and meal plan are McMaster's published 2026–27 rates: Level 1 tuition $205.44/unit; supplementary + Science faculty fees ~$1,890 in Year 1 (incl. orientation and MSU health/dental) and ~$1,750 after; traditional double $9,220 + ~$130 residence fees; lowest traditional meal plan $7,280. Years 2–4 hold the 2026–27 tuition and fees flat (no escalation), although increases of up to +2%/yr are allowed. Rent, food, books, personal, MCAT, OMSAS and CASPer rows were not re-checked in Nov 2026. Detailed cost build-up: parent report §9.1.
 
 Note: This is conservative. Students who add a research-focused 5th year, take a paid co-op, or have higher rent costs in Toronto would adjust.
 
@@ -2109,41 +2115,39 @@ Source: [MD Financial Management — Physician Income](https://invested.mdm.ca/h
 
 | Year | Phase | Annual Cost / Income | Cumulative |
 |---|---|---|---|
-| **Y1 2026–27** | McMaster Life Sci Y1 | -$25,000 | -$25,000 |
-| **Y2 2027–28** | McMaster Life Sci Y2 | -$23,900 | -$48,900 |
-| **Y3 2028–29** | McMaster Life Sci Y3 | -$25,800 | -$74,700 |
-| **Y4 2029–30** | McMaster Life Sci Y4 + Application | -$27,500 | -$102,200 |
-| **Y5 2030–31** | Mac MD Y1 (3-yr program) | -$53,000 | -$155,200 |
-| **Y6 2031–32** | Mac MD Y2 | -$53,000 | -$208,200 |
-| **Y7 2032–33** | Mac MD Y3 | -$53,000 | -$261,200 |
-| **Y8 2033–34** | PGY1 Family Medicine | +$49,000 (after rent + tax; PARO 2025–26 scale) | -$212,200 |
-| **Y9 2034–35** | PGY2 Family Medicine | +$54,000 | -$158,200 |
-| **Y10 2035–36** | Staff FM Year 1 (Ontario) | +$150,000 (net, conservative) | -$8,200 |
-| **Y11 2036–37** | Staff FM Year 2 | +$170,000 | $161,800 |
-| **Y12 2037–38** | Staff FM Year 3 | +$185,000 | $346,800 |
-| **Y13 2038–39** | Staff FM Year 4 | +$200,000 | $546,800 |
-| **Y14 2039–40** | Staff FM Year 5 | +$200,000 | $746,800 |
+| **Y1 2026–27** | McMaster Life Sci Y1 | -$28,400 | -$28,400 |
+| **Y2 2027–28** | McMaster Life Sci Y2 | -$24,800 | -$53,200 |
+| **Y3 2028–29** | McMaster Life Sci Y3 | -$26,800 | -$80,000 |
+| **Y4 2029–30** | McMaster Life Sci Y4 + Application | -$28,600 | -$108,600 |
+| **Y5 2030–31** | Mac MD Y1 (3-yr program) | -$53,000 | -$161,600 |
+| **Y6 2031–32** | Mac MD Y2 | -$53,000 | -$214,600 |
+| **Y7 2032–33** | Mac MD Y3 | -$53,000 | -$267,600 |
+| **Y8 2033–34** | PGY1 Family Medicine | +$49,000 (after rent + tax; PARO 2025–26 scale) | -$218,600 |
+| **Y9 2034–35** | PGY2 Family Medicine | +$54,000 | -$164,600 |
+| **Y10 2035–36** | Staff FM Year 1 (Ontario) | +$150,000 (net, conservative) | -$14,600 |
+| **Y11 2036–37** | Staff FM Year 2 | +$170,000 | $155,400 |
+| **Y12 2037–38** | Staff FM Year 3 | +$185,000 | $340,400 |
+| **Y13 2038–39** | Staff FM Year 4 | +$200,000 | $540,400 |
+| **Y14 2039–40** | Staff FM Year 5 | +$200,000 | $740,400 |
 
-**Breakeven: Year 10 (5 years after med school graduation).**
+**Breakeven: early Year 11 (4 years after MD graduation; cumulative is -$14,600 at the end of Year 10).**
 
 **Note:** This excludes interest on LOC debt (significant — $250K LOC at 6% interest is $15K/yr until paid off, typically takes 8–10 years post-residency).
-
-**Note on Y1–Y4 (updated Nov 2026):** The table keeps round planning numbers. At the published 2026–27 rates, Year 1 tuition + supplementary/faculty fees are ~$8,050 ($6,163 + ~$1,890), against the $7,000 + $300 MSU planning figures. Residence + meal plan are $16,630–$17,310 (double $9,220 + ~$130 fees + meal plan $7,280–$7,960), against $14,000. That puts real Year 1 cash cost at **~-$28,400 to -$29,100**. Years 2–4 fees run ~$900/yr above the $7,000 figure even at today's rates. By Y4 the cumulative figures understate costs by **~$6,000–$7,000**: shift every cumulative figure from Y4 onward by about −$7K. The same shift applies to the §15.8 MPAS table (its −$102,200 start). Breakeven stays in Year 10–11. Detailed cost build-up: parent report §9.1.
 
 ### 15.8 The 14-Year Trajectory (Backup: McMaster Life Sci → MPAS)
 
 | Year | Phase | Annual Cost / Income | Cumulative |
 |---|---|---|---|
-| Y1–Y4 | Life Sci | -$102,200 | -$102,200 |
-| Y5 2030–31 | MPAS Y1 | -$16,000 (tuition + fees) | -$118,200 |
-| Y6 2031–32 | MPAS Y2 + practicum | -$16,000 | -$134,200 |
-| Y7 2032–33 | PA Year 1 (Ontario) | +$60,000 (after rent + tax + LOC payments) | -$74,200 |
-| Y8 2033–34 | PA Year 2 | +$75,000 | $800 |
+| Y1–Y4 | Life Sci | -$108,600 | -$108,600 |
+| Y5 2030–31 | MPAS Y1 | -$16,000 (tuition + fees) | -$124,600 |
+| Y6 2031–32 | MPAS Y2 + practicum | -$16,000 | -$140,600 |
+| Y7 2032–33 | PA Year 1 (Ontario) | +$60,000 (after rent + tax + LOC payments) | -$80,600 |
+| Y8 2033–34 | PA Year 2 | +$75,000 | -$5,600 |
 | Y9 onwards | PA mid-career | +$85,000–$100,000 | +$900K by Y14 |
 
-**Breakeven: Year 8 (3 years after MPAS graduation).**
+**Breakeven: early Year 9 (cumulative is -$5,600 at the end of Year 8).**
 
-**Conclusion:** MPAS reaches breakeven 2 years earlier than MD-FM. Total earnings by Y14 are roughly comparable (PA $900K vs. MD-FM ~$747K cumulative — because PA started earning sooner).
+**Conclusion:** MPAS reaches breakeven 2 years earlier than MD-FM (early Year 9 vs. early Year 11). Total earnings by Y14 are roughly comparable (PA $900K vs. MD-FM ~$740K cumulative — because PA started earning sooner).
 
 **Financing lever new for Fall 2026:** Ontario's expanded **Learn and Stay Grant** funds up to ~1,000 medical students per year who commit to practising family medicine in Ontario ([ontariocanada.com](https://www.ontariocanada.com/registry/view.do?postingId=49073&language=en)). Since this trajectory's Plan A *is* family medicine, Learn-and-Stay eligibility in the 2030 MD intake would remove a large slice of the -$53K/yr MD-years cost above — check the program's terms in the application year.
 
@@ -2153,11 +2157,11 @@ Sometimes premeds reject Plan B and just keep reapplying.
 
 | Year | Phase | Income |
 |---|---|---|
-| Y1–Y4 | Life Sci | -$102,200 |
+| Y1–Y4 | Life Sci | -$108,600 |
 | Y5–Y6 | Gap year, MCAT retake, lab tech | +$50K/yr × 2 = +$100K |
 | Y7–Y8 | Gap year 2–3, lab tech | +$55K/yr × 2 = +$110K |
 | Y9 onwards | Plateau at lab tech or RA, $55–$70K | ~$65K/yr |
-| **By Year 14** | | **Cumulative: ~$320K** |
+| **By Year 14** | | **Cumulative: ~$314K** |
 
 Compare to MD-FM cumulative $740K by Y14 or PA $900K by Y14. **The "no Plan B" path is the worst financial outcome.**
 
@@ -2172,7 +2176,7 @@ This is the practical case for activating Plan B by end of Year 3.
 | Program | McMaster Honours Life Sciences (BSc), 4 years |
 | OUAC code | MNS (Life Sciences I Gateway) |
 | Target MD schools | All 7 Ontario MD via OMSAS (McMaster, UofT, Western, Queen's, Ottawa, NOSM, TMU) |
-| Total undergrad cost (domestic, 4 yrs) | ~$102,000 planning / ~$109,000 at 2026–27 rates |
+| Total undergrad cost (domestic, 4 yrs) | ~$108,000–$109,000 (2026–27 rates) |
 | Competitive cumulative GPA target | 3.90+ / 4.00 |
 | Competitive MCAT total | 511+ |
 | Competitive MCAT CARS | 128+ |
