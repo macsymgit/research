@@ -2,6 +2,7 @@
 
 **Prepared:** 2026-06-24
 **Status review:** 2026-07-02 — **enrollment was confirmed and locked in Mosaic on 2026-06-30** (recorded in the schedule doc). This checklist is retained with per-item status; only #6 and #7 remain live.
+**Status review:** 2026-11-10 — #7 lapsed (classes started Sep 8, 2026); only #6 remains open.
 **Context:** Review of actual Mosaic enrollment (Fall 2026 + Winter 2027) against the official Life Sciences Gateway requirements.
 **Full plan:** [`mcmaster-life-sci-year1-schedule.md`](mcmaster-life-sci-year1-schedule.md) ([中文](mcmaster-life-sci-year1-schedule-zh.md)) | [中文版本](mcmaster-life-sci-year1-action-items-zh.md)
 
@@ -17,7 +18,7 @@
 | 4 | ✅ **DONE** | **Add PSYCH 1XX3 to Winter** | **Enrolled Winter — locked 2026-06-30.** Note the rationale shifted: the Level II "1 of four" (EARTHSC 1G03 / ENVIRSC 1C03 / PSYCH 1XX3 / PSYCH 1FF3) is now already satisfied by EARTHSC 1G03, so 1XX3 is double-coverage plus MCAT Psych/Social content, not the primary satisfier. |
 | 5 | ✅ **DONE** | **Keep BIOSAFE 1BS0 + WHMIS 1A00** | Mandatory 0-unit safety certifications, required for BIO/CHEM lab access. **Both enrolled.** |
 | 6 | ⏳ **OPEN — deferred** | **Conditional swap: MATH 1LT3** | MATH 1LT3 is deferred to Year 2, contingent on the Level II program choice: *only if* your target (e.g. Biology, Biochem) requires the MATH 1LS3 + 1LT3 calculus pair. Decide when confirming Level II targets on MAP. |
-| 7 | ⏳ **OPEN** | **Verify Fall Thursday lab/tutorial in Mosaic** | BIO 1A03 Lab (Th 1:30–4:20) and Tutorial (Th 1:30–2:20) both start Thu 1:30 PM. Normally alternating weeks — open the Mosaic calendar view and confirm no single week actually collides, before classes start Sep 8. |
+| 7 | ⌛ **LAPSED** | ~~Verify Fall Thursday lab/tutorial in Mosaic~~ | BIO 1A03 Lab (Th 1:30–4:20) and Tutorial (Th 1:30–2:20) both start Thu 1:30 PM. Normally alternating weeks — open the Mosaic calendar view and confirm no single week actually collides, before classes start Sep 8. |
 
 ---
 

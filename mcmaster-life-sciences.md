@@ -1,7 +1,7 @@
 # McMaster University — Honours Life Sciences (BSc)
 ## Comprehensive Research Report: Medical School Pathway, Alternatives & Success Strategy | May 2026
 
-> **Research date**: May 2026 | **Live-source verification**: July 2026 (ugme.healthsci.mcmaster.ca, applymd.utoronto.ca, schulich.uwo.ca, meds.queensu.ca, nosm.ca, torontomu.ca, yorku.ca/medicine, AAMC, Acuity Insights, myparo.ca 2025–26 primer, academiccalendars.romcmaster.ca, registrar.mcmaster.ca 2025–26 fees, housing.mcmaster.ca + hospitality.mcmaster.ca 2026–27 rates, universityaffairs.ca). Hedged caveat: uOttawa and OUAC pages block automated fetching — those figures were verified against authoritative search results only. All figures CAD unless noted.
+> **Research date**: May 2026 | **Partial refresh**: Nov 2026 (McMaster 2026–27 fee schedule, PARO scale check, AFMC CMES 2025) | **Live-source verification**: July 2026 (ugme.healthsci.mcmaster.ca, applymd.utoronto.ca, schulich.uwo.ca, meds.queensu.ca, nosm.ca, torontomu.ca, yorku.ca/medicine, AAMC, Acuity Insights, myparo.ca 2025–26 primer, academiccalendars.romcmaster.ca, registrar.mcmaster.ca 2025–26 fees, housing.mcmaster.ca + hospitality.mcmaster.ca 2026–27 rates, universityaffairs.ca). Hedged caveat: uOttawa and OUAC pages block automated fetching — those figures were verified against authoritative search results only. All figures CAD unless noted.
 
 ---
 
@@ -40,8 +40,8 @@ McMaster Honours Life Sciences is a **broad, biology-heavy BSc** designed primar
 |---|---|---|
 | Admission average (competitive) | ~94% (estimated) | McMaster does not publish official cutoffs |
 | Supplementary application | **None** | Major distinction from McMaster BHSc |
-| Annual tuition (domestic Ontario) | $6,043 tuition + ~$1,300–1,400 suppl. fees (2025–26 published) | 2026–27 fees post early Aug; freeze lifted — up to +2%/yr |
-| Annual tuition (international) | ~$47,535 (2025–26, $1,584.51/unit) | |
+| Annual tuition (domestic Ontario) | $6,163 tuition + ~$1,890 suppl. + Science faculty fees (Year 1, 2026–27 published) | Freeze lifted; later years not yet published (up to +2%/yr) |
+| Annual tuition (international) | ~$47,535 (2026–27, $1,584.51/unit, unchanged) | |
 | 4-year total cost (domestic) | ~$75,000–$100,000 | Incl. residence/meals/books; 2026–27 residence+meal rates raised Y1 ~$2,700 |
 | McMaster MD acceptance rate | **3.6–4.2%** | ~5,605 applicants for 217 seats |
 | Med school admits per cycle (Life Sci) | ~5–15% (estimated) | Strong applicants 15–35% |
@@ -187,20 +187,20 @@ This is the single largest distinction from McMaster's BHSc program (which uses 
 - 5 Grade 12 (senior-level) academic subjects required, including English/English Literature
 - IELTS / TOEFL required for non-native English speakers
 
-### Tuition (2025–2026)
+### Tuition (2026–2027)
 
 | Category | Annual Cost (CAD) |
 |---|---|
-| Domestic Ontario, BSc Faculty of Science | **$6,042.60** ($201.42/unit × 30 units, 2025–26 published — [registrar.mcmaster.ca](https://registrar.mcmaster.ca/fees/undergraduate/)) + **~$1,300–1,400 supplementary fees** (health/dental, bus pass, athletics). 2026–27 fees post the first week of August; the 2019–2025 freeze was lifted Feb 2026 — expect up to +2%/yr ([universityaffairs.ca](https://universityaffairs.ca/news/ontario-lifts-tuition-freeze-injects-6-4-b-in-post-secondary-sector/)) |
-| Out-of-province (non-Ontario Canadian) | ~$8,000–$9,500 |
-| International, BSc | **~$47,535** ($1,584.51/unit, 2025–26) |
-| Co-op fees (Science) | $236.61 admin + $816.20 per work term (2025–26 published — replaces the older "$3,975 over 3 years" structure) |
+| Domestic Ontario, BSc Faculty of Science | **$6,163.20** ($205.44/unit × 30 units, Level 1, 2026–27 fee schedule, last modified Aug 28, 2026 — [registrar.mcmaster.ca](https://registrar.mcmaster.ca/fees/undergraduate/); +2.0% over 2025–26's $6,042.60) + **~$1,890 supplementary + Science faculty fees in Year 1** (~$1,750 in later years). These include MSU health $114 + dental $141, HSR bus pass $252, athletics $308 and Science faculty fees $88; Year 1 adds orientation $117 + MacCard $20. Rates for this student's later years are not yet published; the 2019–2025 freeze was lifted Feb 2026, so expect up to +2%/yr ([universityaffairs.ca](https://universityaffairs.ca/news/ontario-lifts-tuition-freeze-injects-6-4-b-in-post-secondary-sector/)) |
+| Out-of-province (non-Ontario Canadian) | **$7,716** ($257.19/unit × 30, Level 1, 2026–27) |
+| International, BSc | **~$47,535** ($1,584.51/unit × 30, Level 1, 2026–27 — unchanged from 2025–26) |
+| Co-op fees (Science) | 2026–27 schedule: $55 application fee, $1,200 program fee on entering co-op, $300 admin fee per continuing co-op year, and a $690 work-term fee (listed as "4 terms"; confirm with Science Career & Co-op whether it is charged per term). This replaces the $236.61 admin + $816.20 per work term figures this report previously cited. |
 
 ### 4-Year Total Cost — Domestic Ontario Student
 
 | Item | Amount |
 |---|---|
-| Tuition + suppl. fees (4 years) | ~$30,000–$32,000 |
+| Tuition + suppl. fees (4 years) | ~$32,000 (at 2026–27 rates; later years not yet published) |
 | Residence (Year 1, mandatory if guaranteed) | $6,550 (quad) – $11,200 (single ensuite); **traditional double $9,220** + ~$130 mandatory fees (posted July 2026) |
 | Mandatory meal plan (Year 1) | **$7,280–$7,960** traditional halls; $4,590–$5,310 apartment-style (2026–27) |
 | Books / supplies | ~$1,000–$1,500/year |
@@ -347,7 +347,7 @@ Multiply by 1.5–3 if you reapply (which most do).
 
 ### Salary Trajectory
 
-**Resident (Ontario, PARO 2025–26 scale, salary as of July 1, 2025 — [myparo.ca](https://myparo.ca/financial-primer/)):**
+**Resident (Ontario, PARO 2025–26 scale, salary as of July 1, 2025 — [myparo.ca](https://myparo.ca/financial-primer/)). Still in effect Nov 2026: the PARO-OTH agreement expired June 30, 2026, and its terms continue until a new one is signed:**
 
 | Year | Salary |
 |---|---|

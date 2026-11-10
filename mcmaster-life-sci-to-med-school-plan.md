@@ -1,7 +1,7 @@
 # McMaster Honours Life Sciences → Ontario Medical School
 ## A Step-by-Step Action Plan: From G12 (Right Now) to Matriculation | May 2026
 
-> **Research date**: May 2026 | **Live-source verification**: July 2026 (OMSAS 2026–27 cycle, McMaster MD / UofT / Western Schulich / Queen's / Ottawa / NOSM / TMU admissions pages, yorku.ca/medicine, AAMC MCAT 2026 fees, Acuity Insights CASPer 2026–27, AFMC Canadian Medical Education Statistics 2024 — still the latest edition, PARO 2025–26 resident salary scale via direct myparo.ca fetch, Job Bank Ontario wages Nov 2025). Hedged caveat: OUAC pages block automated fetching — those figures verified against authoritative search results only. uOttawa was verified **in-browser July 2026** (application-process page, updated June 2025). All figures CAD unless noted. **This document is the operational companion to [`mcmaster-life-sciences.md`](mcmaster-life-sciences.md)** — that report covers program structure and outcomes; this report covers the prescriptive G12 → MD prep playbook. Where the two overlap, this report cites the parent doc instead of duplicating.
+> **Research date**: May 2026 | **Partial refresh**: Nov 2026 (McMaster 2026–27 fee schedule, PARO scale check, AFMC CMES 2025) | **Live-source verification**: July 2026 (OMSAS 2026–27 cycle, McMaster MD / UofT / Western Schulich / Queen's / Ottawa / NOSM / TMU admissions pages, yorku.ca/medicine, AAMC MCAT 2026 fees, Acuity Insights CASPer 2026–27, AFMC Canadian Medical Education Statistics 2024, PARO 2025–26 resident salary scale via direct myparo.ca fetch, Job Bank Ontario wages Nov 2025). Hedged caveat: OUAC pages block automated fetching — those figures verified against authoritative search results only. uOttawa was verified **in-browser July 2026** (application-process page, updated June 2025). All figures CAD unless noted. **This document is the operational companion to [`mcmaster-life-sciences.md`](mcmaster-life-sciences.md)** — that report covers program structure and outcomes; this report covers the prescriptive G12 → MD prep playbook. Where the two overlap, this report cites the parent doc instead of duplicating.
 
 > **Audience.** A G12 Ontario student who has confirmed offer to McMaster Honours Life Sciences (Life Sciences I Gateway, OUAC code MNS) starting September 2026, currently sitting 90–94% in G12, targeting the 7 Ontario MD schools via OMSAS (McMaster, UofT, Western Schulich, Queen's, Ottawa, NOSM, plus the new Toronto Metropolitan University School of Medicine which opened its first MD cohort in 2025-26), with both straight-through (apply Year 3, matriculate Fall 2030) and gap-year (apply Year 4, matriculate Fall 2031) timelines kept live.
 
@@ -39,7 +39,7 @@
 
 Your child is starting a **4-year Bachelor of Science (Honours) in Life Sciences** at McMaster in September 2026 with the goal of medical school. The Ontario medical-school pipeline they are entering has four levers — **GPA, MCAT (especially CARS), CASPer, and extracurricular depth** — and the **rest is noise**. Whichever lever is weakest determines the outcome. The application itself happens in **fall of Year 3** (deadline October 1, 2029 for matriculation Fall 2030) or in a **gap-year cycle** (Fall 2030, matriculate Fall 2031). About 60–70% of Ontario MD matriculants take one or more gap years — that's the modal path, not the backup.
 
-The cost is approximately **$95,000 for the 4-year BSc** plus **~$5,000 in application/MCAT/CASPer fees** during Years 3–4, and (if admitted) **$75,000–$95,000** for a 3-year McMaster MD or 4-year MD elsewhere in Ontario. Total time from high school graduation to becoming a staff physician practising independently is **9 years for family medicine via McMaster's 3-year MD** and **12–14 years for specialists**. Median Ontario family physician gross billings are approximately **$303,000** (net ~$170K–$250K after overhead/taxes); high-procedural specialists routinely net $400K+ ([MD Financial Management — Physician Income](https://invested.mdm.ca/how-much-do-doctors-make-in-canada/)).
+The cost is approximately **$100,000–$110,000 for the 4-year BSc** plus **~$5,000 in application/MCAT/CASPer fees** during Years 3–4, and (if admitted) **$75,000–$95,000** for a 3-year McMaster MD or 4-year MD elsewhere in Ontario. Total time from high school graduation to becoming a staff physician practising independently is **9 years for family medicine via McMaster's 3-year MD** and **12–14 years for specialists**. Median Ontario family physician gross billings are approximately **$303,000** (net ~$170K–$250K after overhead/taxes); high-procedural specialists routinely net $400K+ ([MD Financial Management — Physician Income](https://invested.mdm.ca/how-much-do-doctors-make-in-canada/)).
 
 **The thing parents most often misunderstand.** Ontario MD admission has structurally low odds — 5–12% per school per cycle for an average competitive applicant. Your child being a strong student in high school is necessary but not remotely sufficient. The strongest predictor of a McMaster Life Sci graduate matriculating to an MD program is **not raw intelligence** — it's a **sustained, disciplined 4-year campaign** with no GPA disasters, deep extracurricular roots, and a Plan B activated in parallel. That campaign starts now, in May 2026, not in Year 3.
 
@@ -68,7 +68,7 @@ Read this list once. Tape it somewhere visible. Re-read it every September.
 | Years HS → staff physician (specialist) | **12–14 years** | CaRMS residency lengths |
 | Ontario FM physician gross billings (median) | **~$303,000** | [MD Financial Management](https://invested.mdm.ca/how-much-do-doctors-make-in-canada/) |
 | McMaster MD class size | **217** (Hamilton 153 + Niagara 32 + Waterloo 32 regional campuses) | McMaster UGME |
-| Total Year 1–4 undergrad cost (domestic) | **~$95,000–$100,000** (2026–27 residence $9,220 double + meal plan $7,280+ pushed Y1 up ~$2,700) | McMaster registrar/housing/hospitality, July 2026 |
+| Total Year 1–4 undergrad cost (domestic) | **~$102,000–$109,000** (round planning tables ~$102K; ~$109K at published 2026–27 rates: tuition $6,163 + ~$1,890 fees, double $9,220 + meal plan $7,280+; see §15.7 note) | McMaster registrar/housing/hospitality, July + Nov 2026 |
 | Total MCAT + CASPer + OMSAS fees | **~$3,000–$5,000** | AAMC + Acuity + OUAC published fees |
 
 ### The Three Things Most Applicants Get Wrong
@@ -105,7 +105,7 @@ This section is the most consequential operational reference in the document. Ea
 | Dimension | Value | Source |
 |---|---|---|
 | Class size | **217 total** (153 Hamilton + 32 Niagara + 32 Waterloo regional campuses) | [McMaster UGME Admissions](https://ugme.healthsci.mcmaster.ca/admissions/) — note: McMaster's MD admissions site migrated in 2026 from `mdprogram.mcmaster.ca` to `ugme.healthsci.mcmaster.ca` |
-| Annual applicants | ~5,272 (CMES 2024) | [AFMC CMES 2024 Section F](https://www.afmc.ca/wp-content/uploads/2025/08/CMES-2024-EN-SectionF.pdf) |
+| Annual applicants | ~5,272 (2024/25 cycle, latest reported; McMaster did not report to CMES 2025) | [AFMC CMES 2024 Section F, Table F-6](https://www.afmc.ca/wp-content/uploads/2025/08/CMES-2024-EN-SectionF.pdf) |
 | Acceptance rate | **~4%** | Derived |
 | **GPA rule** | **Cumulative GPA** on OMSAS 4.00 scale — all undergrad courses, all years weighted equally, no grade drops. **Minimum 3.00; competitive 3.85+; recent class means 3.89–3.91.** Graduate applicants get a 1–4% bonus. | Mac UGME admissions |
 | **MCAT rule** | **CARS section only.** Other 3 sections not used at all. **Minimum CARS 123**; competitive **128+**. CARS used at 32% of pre-interview file score. Must be within 5 years. | Mac UGME admissions |
@@ -174,7 +174,7 @@ This section is the most consequential operational reference in the document. Ea
 | Dimension | Value | Source |
 |---|---|---|
 | Class size | **~108 seats** (Kingston campus); Queen's-Lakeridge Health Family Medicine stream adds an additional cohort | [Queen's admission statistics](https://meds.queensu.ca/academics/mdprogram/admissions/admissions-statistics/admissions-statistics-2025) |
-| Annual applicants | ~5,217 (CMES 2024) | AFMC |
+| Annual applicants | ~5,217 (2024/25 cycle, latest reported; Queen's did not report to CMES 2025) | AFMC CMES 2024, Table F-6 |
 | Acceptance rate | **~2–3%** | Derived |
 | **GPA rule** | **Cumulative GPA** on OMSAS 4.0 scale. **No last-2-years weighting; no year drops; no competitive scoring above threshold.** Queen's eliminated traditional GPA weighting in its new admissions process. Threshold-based: **minimum 3.00**. Mean GPA of admits not officially published under the new process. | [Queen's Methods of Selection (QARS)](https://meds.queensu.ca/academics/mdprogram/admissions/methods-selection) |
 | **MCAT rule** | Required. **Threshold only: total ≥500 AND ≥125 in EACH of all 4 sections.** Used as a cut-off, not scored above the threshold. Must reach OMSAS by ~late October. | Queen's |
@@ -355,10 +355,10 @@ The MCAT has 4 sections, each scored 118–132 (median 125), total 472–528 (me
 | **CARS (for Mac specifically)** | **123** absolute floor; competitive **128+** | **128–130** | **131+** |
 | **MCAT not required at:** | **Ottawa, NOSM** — skip if these are your only realistic targets | — | — |
 
-**National data (AAMC + AFMC CMES 2024):**
-- Canadian applicants reporting MCAT (n=5,703): mean **508.6** (SD 8.2)
-- Canadian offer-receivers: mean **511.1**
-- Ontario residents receiving offers: mean **513.7**
+**National data (AAMC + AFMC CMES 2025, 2025/26 cycle):**
+- Canadian-resident applicants reporting MCAT (n=7,859): mean **509.0** (SD 8.6). CMES 2024: 508.6 (n=5,703). (Table F-28)
+- Canadian offer-receivers (n=1,613): mean **511.0** (Table F-30v)
+- Ontario residents receiving offers: section means sum to **~514.7** (n=383, CMES 2024 Table F-32). The CMES 2025 Ontario row (n=128, ~511.9) is not comparable, because six Ontario schools did not report.
 - US matriculant median: ~511.7
 - US national applicant median: ~506.3
 
@@ -550,7 +550,7 @@ You are NOT studying MCAT content in summer 2026. You will forget it by the time
 
 4. **Bank account / credit card.** Open a student account at a Canadian bank (RBC, TD, BMO, Scotia, CIBC all offer free student chequing). **Get a credit card with a low limit ($500–$1000)** in your own name — building credit history NOW means you'll qualify for a Professional Student Line of Credit in Year 4–5 (essential for MD tuition if you matriculate).
 
-5. **Health insurance considerations.** McMaster Student Union (MSU) provides supplementary health/dental insurance. Confirm coverage details (~$300/yr typically, automatically billed). If your parents have employer coverage that extends to dependents, you can opt out and save the fee.
+5. **Health insurance considerations.** McMaster Student Union (MSU) provides supplementary health/dental insurance. Confirm coverage details ($255/yr in 2026–27: health $114.33 + dental $141.03, automatically billed). If your parents have employer coverage that extends to dependents, you can opt out and save the fee.
 
 6. **Vaccinations for clinical volunteering.** As of 2025, hospital and clinical-volunteer placements in Ontario typically require: MMR (2 doses), varicella (chickenpox), Hep B (3 doses), Tdap (within 10 years), influenza (annual), and COVID-19 (current). **If you're missing any, see your family doctor in June 2026** — Hep B is a 6-month series so starting now barely makes the September window.
 
@@ -2084,7 +2084,7 @@ Major banks (RBC, BMO, Scotia, CIBC, TD) offer Professional Student LOCs at prim
 | PGY6 | $104,167 |
 | PGY7 | $109,250 |
 
-Plus call stipends ($80–$160 per call). Plus benefits. (Scale is ~9–10% above the 2024 figures this doc previously cited; the PARO-OTH agreement expires June 30, 2026, so expect a further negotiated scale for the years this student would actually be a resident — treat as a floor.)
+Plus call stipends ($80–$160 per call). Plus benefits. (Scale is ~9–10% above the 2024 figures this doc previously cited; the PARO-OTH agreement expired June 30, 2026, and as of Nov 2026 no new scale is posted, so these rates remain in effect until a new agreement is signed. Expect a further negotiated scale for the years this student would actually be a resident — treat as a floor.)
 
 Source: [PARO Financial Primer 2025](https://myparo.ca/financial-primer/)
 
@@ -2128,7 +2128,7 @@ Source: [MD Financial Management — Physician Income](https://invested.mdm.ca/h
 
 **Note:** This excludes interest on LOC debt (significant — $250K LOC at 6% interest is $15K/yr until paid off, typically takes 8–10 years post-residency).
 
-**Note on Y1:** At the posted 2026–27 rates (traditional double $9,220 + meal plan $7,280–$7,960), the real Year 1 cash cost is closer to **-$27,700** than the round -$25,000 above. The table keeps round planning numbers — treat all cumulative figures as ±$3K. Detailed cost build-up: parent report §9.1.
+**Note on Y1–Y4 (updated Nov 2026):** The table keeps round planning numbers. At the published 2026–27 rates, Year 1 tuition + supplementary/faculty fees are ~$8,050 ($6,163 + ~$1,890), against the $7,000 + $300 MSU planning figures. Residence + meal plan are $16,630–$17,310 (double $9,220 + ~$130 fees + meal plan $7,280–$7,960), against $14,000. That puts real Year 1 cash cost at **~-$28,400 to -$29,100**. Years 2–4 fees run ~$900/yr above the $7,000 figure even at today's rates. By Y4 the cumulative figures understate costs by **~$6,000–$7,000**: shift every cumulative figure from Y4 onward by about −$7K. Breakeven stays in Year 10–11. Detailed cost build-up: parent report §9.1.
 
 ### 15.8 The 14-Year Trajectory (Backup: McMaster Life Sci → MPAS)
 
@@ -2172,7 +2172,7 @@ This is the practical case for activating Plan B by end of Year 3.
 | Program | McMaster Honours Life Sciences (BSc), 4 years |
 | OUAC code | MNS (Life Sciences I Gateway) |
 | Target MD schools | All 7 Ontario MD via OMSAS (McMaster, UofT, Western, Queen's, Ottawa, NOSM, TMU) |
-| Total undergrad cost (domestic, 4 yrs) | ~$101,000 |
+| Total undergrad cost (domestic, 4 yrs) | ~$102,000 planning / ~$109,000 at 2026–27 rates |
 | Competitive cumulative GPA target | 3.90+ / 4.00 |
 | Competitive MCAT total | 511+ |
 | Competitive MCAT CARS | 128+ |
@@ -2270,6 +2270,7 @@ This document builds on the source base of [`mcmaster-life-sciences.md`](mcmaste
 - [PARO Resident Financial Primer 2024](https://myparo.ca/wp-content/uploads/2025/02/Resident-Financial-Primer-2024_Feb-5-Final.pdf)
 - [MD Financial Management — Physician Income](https://invested.mdm.ca/how-much-do-doctors-make-in-canada/)
 - [CaRMS R-1 Match Data](https://www.carms.ca/match/r-1-main-residency-match/)
+- [AFMC Canadian Medical Education Statistics 2025](https://www.afmc.ca/wp-content/uploads/2026/07/CMES-2025-Complete-EN.pdf)
 - [AFMC Canadian Medical Education Statistics 2024](https://www.afmc.ca/wp-content/uploads/2025/08/CMES-2024-Complete-EN.pdf)
 
 ### Financial Aid
