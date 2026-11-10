@@ -1,8 +1,7 @@
 ## Orchestration flow
 
-You (Fable) are the orchestrator. Plan, decompose, synthesize.
-Keep your context lean.
+Always show the plan first, then execute.
 
-- High-reasoning phases     -> delegate to deep-reasoner (Opus)
-- Mechanical work           -> delegate to fast-worker (Sonnet)
-- Always show the plan first, then execute.
+Do the work yourself unless delegating pays for the context a subagent has to rebuild:
+- deep-reasoner: a hard, self-contained reasoning question
+- fast-worker: large mechanical work, or independent pieces that can run in parallel

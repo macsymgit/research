@@ -18,7 +18,7 @@ Primary research and planning documents (2026), each with a paired Chinese (`-zh
 
 ## Research Conventions
 
-Documents follow a consistent structure: Table of Contents → Executive Summary → Program Details → Financial Analysis → Career Outcomes → Decision Frameworks → Source Citations.
+Program research reports follow a consistent arc: Table of Contents → Executive Summary → Program Details → Career Outcomes → Financial Analysis → Decision Framework → Sources (the program-research skill's `references/document-template.md` has the full section list). Plans, schedules, and directories use their own structure.
 
 All factual claims are cited to authoritative sources (McMaster, OMSAS, AFMC, the 7 Ontario MD schools, Statistics Canada, Job Bank). When adding or updating content, maintain citation standards. Every English document has a paired Chinese (`-zh.md`) translation that must be kept in sync.
 

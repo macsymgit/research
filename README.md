@@ -4,7 +4,7 @@ Research and planning documents for the McMaster University Honours Life Science
 
 ## Comprehensive Research Report
 
-A deep, ~70K-word research report following a consistent 15-section format: executive summary (TL;DR for parents and students), program overview, admission requirements & costs, professional pathway, co-op/internship details, curriculum, graduate outcomes, job market & AI analysis, alternative career paths, year-by-year action plan, success tactics, ROI analysis, 12-factor decision framework, quick stats, and sources. All numeric claims trace to authoritative sources with live-source verification.
+A deep, ~80K-character research report following a consistent 15-section format: executive summary (TL;DR for parents and students), program overview, admission requirements & costs, professional pathway, co-op/internship details, curriculum, graduate outcomes, job market & AI analysis, alternative career paths, year-by-year action plan, success tactics, ROI analysis, 12-factor decision framework, quick stats, and sources. All numeric claims trace to authoritative sources with live-source verification.
 
 | Program | English | Chinese (中文版) |
 |---------|---------|------------------|
