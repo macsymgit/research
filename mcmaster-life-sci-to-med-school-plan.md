@@ -2155,15 +2155,23 @@ Source: [MD Financial Management — Physician Income](https://invested.mdm.ca/h
 
 Sometimes premeds reject Plan B and just keep reapplying.
 
-| Year | Phase | Income |
-|---|---|---|
-| Y1–Y4 | Life Sci | -$108,600 |
-| Y5–Y6 | Gap year, MCAT retake, lab tech | +$50K/yr × 2 = +$100K |
-| Y7–Y8 | Gap year 2–3, lab tech | +$55K/yr × 2 = +$110K |
-| Y9 onwards | Plateau at lab tech or RA, $55–$70K | ~$65K/yr |
-| **By Year 14** | | **Cumulative: ~$314K** |
+| Year | Phase | Gross salary | Net (after tax + rent) | Cumulative |
+|---|---|---|---|---|
+| Y1–Y4 | Life Sci | — | -$108,600 | -$108,600 |
+| Y5 2030–31 | Gap year, MCAT retake, lab tech | $50,000 | +$31,100 | -$77,500 |
+| Y6 2031–32 | Gap year, reapply, lab tech | $50,000 | +$30,900 | -$46,600 |
+| Y7 2032–33 | Gap year 2–3, lab tech | $55,000 | +$34,700 | -$11,900 |
+| Y8 2033–34 | Gap year 2–3, lab tech | $55,000 | +$34,500 | $22,600 |
+| Y9 2034–35 | Plateau at lab tech or RA | $65,000 | +$42,300 | $64,900 |
+| Y10 2035–36 | Plateau | $65,000 | +$42,100 | $107,000 |
+| Y11 2036–37 | Plateau | $65,000 | +$41,900 | $148,900 |
+| Y12 2037–38 | Plateau | $65,000 | +$41,700 | $190,600 |
+| Y13 2038–39 | Plateau | $65,000 | +$41,500 | $232,100 |
+| Y14 2039–40 | Plateau | $65,000 | +$41,300 | **~$273,400** |
 
-Compare to MD-FM cumulative $740K by Y14 or PA ~$504K–$594K by Y14. **The "no Plan B" path is the worst financial outcome.**
+**Basis (Nov 2026 estimate):** Net = gross × (1 − 21%) − rent, the same after-tax-and-rent basis as §15.7–15.8. 21% stands in for income tax + CPP + EI; at that rate the §15.7 PGY1/PGY2 rows come out within ~$600 of the table. Rent starts at $8,400/yr (shared house, §15.1) and rises 2%/yr. The salary steps are unchanged from the earlier version of this table, with no raises on the plateau. Reapplication fees (~$1,200 per OMSAS cycle) are not included. §15.7–15.8 hold costs flat, so the 2% rent growth makes this path look slightly worse in comparison, not better.
+
+Compare to MD-FM ~$740K or PA ~$504K–$594K by Y14. The cumulative turns positive in Y8, earlier than PA or MD, because there is no graduate tuition. But it ends lowest by Y14 and earns the least every year after Y9. **Over 14 years, the "no Plan B" path is the worst financial outcome.**
 
 This is the practical case for activating Plan B by end of Year 3.
 
